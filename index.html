@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJR32V3');</script>
+<!-- End Google Tag Manager -->
+
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>NeuroQuiz - progreso y tema automático</title>
+<title>NeuroQuiz - acceso, progreso y tema automático</title>
 <style>
 :root {
   --bg:#f4f7fb; --card:#ffffff; --ink:#172033; --muted:#637083; --line:#d9e0ea;
@@ -112,6 +120,18 @@ body{margin:0;font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);
 .miniProgress .miniStats{display:flex;gap:7px;flex-wrap:wrap;margin-top:6px;font-size:11.5px;font-weight:800;color:var(--muted)}
 .miniProgress .miniStats .ok{color:#067647}.miniProgress .miniStats .bad{color:#b42318}
 .themeNote{margin-top:10px;font-size:12.5px;color:var(--muted);font-weight:700}
+
+.loginPanel{max-width:620px;margin:20px auto 0;text-align:left}
+.loginPanel h2{margin:0 0 8px;font-size:26px;letter-spacing:-.3px}
+.loginPanel p{color:var(--muted);line-height:1.45}
+.nameForm{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.nameInput{flex:1;min-width:220px;border:1px solid var(--line);border-radius:14px;padding:13px 14px;font-size:16px;background:var(--card);color:var(--ink);outline:none}
+.nameInput:focus{border-color:var(--primary);box-shadow:0 0 0 3px rgba(49,95,159,.12)}
+.greetingBox{margin:14px 0 0;padding:14px 16px;border:1px solid #b9c9e3;border-radius:18px;background:#f0f6ff;color:#203a62;font-weight:800;line-height:1.45}
+.greetingBox .helloName{font-size:18px;color:var(--primary)}
+.menuActions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.analyticsNote{margin-top:10px;font-size:12px;color:var(--muted);line-height:1.4}
+
 @media (prefers-color-scheme: dark){
   :root{
     --bg:#0b1120; --card:#101828; --ink:#f2f4f7; --muted:#98a2b3; --line:#263244;
@@ -121,8 +141,11 @@ body{margin:0;font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);
   body{background:linear-gradient(180deg,#0b1120,#0f172a);color:var(--ink)}
   .hero,.panel{background:var(--card);border-color:var(--line)}
   .hero p,.menuTitle p,.groupHint,.small,.footerNote,.square p,.square .cardSub{color:var(--muted)}
-  .creatorNote,.modeHelp,.questionList,.feedback.info,.listAnswerNote,.progressPanel{background:#111a2c;color:#d0d5dd;border-color:var(--line)}
+  .creatorNote,.modeHelp,.questionList,.feedback.info,.listAnswerNote,.progressPanel,.loginPanel{background:#111a2c;color:#d0d5dd;border-color:var(--line)}
   .groupTitle{color:var(--ink)}
+  .nameInput{background:#182235;color:var(--ink);border-color:var(--line)}
+  .greetingBox{background:#111a2c;color:#d0d5dd;border-color:#2d4263}
+  .greetingBox .helloName{color:#8ab4f8}
   .square,.listItem,.review,.statBox,.option{background:#182235;color:var(--ink);border-color:var(--line)}
   .square.general{background:#16233a;border-color:#2d4263}
   .square:hover{border-color:#5585c4;box-shadow:0 14px 28px rgba(0,0,0,.32)}
@@ -151,21 +174,40 @@ body{margin:0;font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);
 </style>
 </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJR32V3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <div class="wrap">
   <section class="hero">
     <h1>NeuroQuiz</h1>
-    <p>Elige una clase o un simulado general para comenzar.</p>
-    <div class="creatorNote">Sitio creado por Emmanuel Farias. Espero que pueda ayudar en tus estudios.</div>
+    <p id="heroLead">Antes de comenzar, escribe tu nombre para personalizar tu experiencia.</p>
+    <div class="creatorNote" id="heroCreatorNote">Sitio creado por Emmanuel Farias. Espero que pueda ayudar en tus estudios.</div>
   </section>
 
-  <section id="menu" class="panel">
+  <section id="login" class="panel loginPanel">
+    <h2>Identificación del estudiante</h2>
+    <p>Escribe tu nombre para entrar al cuestionario. El aplicativo va a saludarte y guardar tu progreso en este dispositivo.</p>
+    <form class="nameForm" onsubmit="submitName(event)">
+      <input id="nameInput" class="nameInput" type="text" placeholder="Tu nombre" autocomplete="name" required maxlength="40" />
+      <button class="btn" type="submit">Entrar al cuestionario</button>
+    </form>
+    <p class="analyticsNote">Tu nombre queda guardado solo en este navegador para mantener tu progreso personalizado.</p>
+  </section>
+
+  <section id="menu" class="panel hidden">
     <div class="menuTitle">
       <div>
         <h2>Elige cómo quieres estudiar hoy</h2>
         <p>Selecciona un bloque y decide si quieres aprender con feedback o entrenar como prueba.</p>
       </div>
-      <button class="btn secondary" onclick="clearHistory()">Borrar historial</button>
+      <div class="menuActions">
+        <button class="btn secondary" onclick="changeVisitorName()">Cambiar nombre</button>
+        <button class="btn secondary" onclick="clearHistory()">Borrar historial</button>
+      </div>
     </div>
+    <div id="greetingBox" class="greetingBox"></div>
     <div class="modeHelp"><b>Modo Estudio:</b> muestra la respuesta y explicación inmediatamente. <b>Modo Simulado:</b> no muestra la corrección hasta el final.<div class="themeNote">El tema claro u oscuro se ajusta automáticamente según tu dispositivo.</div></div>
     <h3 class="groupTitle">Clases individuales</h3>
     <p class="groupHint">Repasa un tema específico con 25 preguntas.</p>
@@ -216,6 +258,15 @@ const SECTIONS = [{"key":"clase1","title":"Clase 1","subtitle":"Sistema Nervioso
 let currentSection=null, questions=[], idx=0, answers=[], locked=false, selectedChoice=null, currentMode='study';
 const letters=['A','B','C','D'];
 
+const NAME_KEY='neuroquiz_student_name';
+const VISITOR_ID_KEY='neuroquiz_visitor_id';
+const LOCAL_VISIT_COUNT_KEY='neuroquiz_local_visit_count';
+const SESSION_VISIT_KEY='neuroquiz_visit_registered_this_session';
+// Para activar conteo real de visitas, crea una propiedad GA4 y pega aquí el ID, por ejemplo: G-XXXXXXXXXX.
+// Sin ese ID, el aplicativo funciona normal, pero no puede enviar estadísticas globales al creador.
+const GA_MEASUREMENT_ID='';
+// Google Tag Manager instalado: GTM-PJR32V3. Los eventos del app se envían a window.dataLayer.
+
 function $(id){return document.getElementById(id)}
 function shuffle(arr){const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]} return a}
 function shuffleQuestionOptions(q){
@@ -225,6 +276,93 @@ function shuffleQuestionOptions(q){
 function prepareQuestions(qs){ return shuffle(qs).map(shuffleQuestionOptions); }
 function pct(n,d){return d?Math.round((n/d)*100):0}
 function escHtml(str){return String(str).replace(/[&<>"]/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+
+function cleanName(name){return String(name||'').trim().replace(/\s+/g,' ').slice(0,40)}
+function getVisitorName(){return cleanName(localStorage.getItem(NAME_KEY)||'')}
+function ensureVisitorId(){
+  let id=localStorage.getItem(VISITOR_ID_KEY);
+  if(!id){
+    id='v_'+Date.now().toString(36)+'_'+Math.random().toString(36).slice(2,10);
+    localStorage.setItem(VISITOR_ID_KEY,id);
+  }
+  return id;
+}
+function initAnalytics(){
+  if(!GA_MEASUREMENT_ID || !GA_MEASUREMENT_ID.startsWith('G-')) return;
+  if(document.querySelector('script[data-ga-loader]')) return;
+  window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){dataLayer.push(arguments)};
+  const script=document.createElement('script');
+  script.async=true;
+  script.setAttribute('data-ga-loader','true');
+  script.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(GA_MEASUREMENT_ID);
+  document.head.appendChild(script);
+  gtag('js', new Date());
+  gtag('config', GA_MEASUREMENT_ID, {send_page_view:true});
+}
+function trackAnalyticsEvent(name,params={}){
+  const payload={app:'NeuroQuiz', ...params};
+  window.dataLayer=window.dataLayer||[];
+  window.dataLayer.push({event:name, ...payload});
+  if(typeof window.gtag==='function'){
+    window.gtag('event', name, payload);
+  }
+}
+function registerVisit(){
+  ensureVisitorId();
+  if(sessionStorage.getItem(SESSION_VISIT_KEY)) return;
+  const localCount=Number(localStorage.getItem(LOCAL_VISIT_COUNT_KEY)||0)+1;
+  localStorage.setItem(LOCAL_VISIT_COUNT_KEY,String(localCount));
+  sessionStorage.setItem(SESSION_VISIT_KEY,'1');
+  trackAnalyticsEvent('neuroquiz_visit',{local_visit_number:localCount});
+}
+function showLogin(){
+  $('login').classList.remove('hidden');
+  $('menu').classList.add('hidden');
+  $('quiz').classList.add('hidden');
+  $('result').classList.add('hidden');
+  if($('heroLead')) $('heroLead').textContent='Antes de comenzar, escribe tu nombre para personalizar tu experiencia.';
+  setTimeout(()=>{ if($('nameInput')) $('nameInput').focus(); },60);
+}
+function showMenuForUser(){
+  const name=getVisitorName();
+  $('login').classList.add('hidden');
+  $('quiz').classList.add('hidden');
+  $('result').classList.add('hidden');
+  $('menu').classList.remove('hidden');
+  if($('heroLead')) $('heroLead').textContent='Elige una clase o un simulado general para comenzar.';
+  const greeting=$('greetingBox');
+  if(greeting){
+    greeting.innerHTML=`<span class="helloName">Hola, ${escHtml(name)}.</span> ¡Qué bueno verte! Soy Emmanuel, espero que este cuestionario pueda ayudarte en tus estudios para neurociencia.`;
+  }
+  renderCards();
+}
+function submitName(event){
+  event.preventDefault();
+  const input=$('nameInput');
+  const name=cleanName(input ? input.value : '');
+  if(!name){ alert('Escribe tu nombre para entrar.'); return; }
+  localStorage.setItem(NAME_KEY,name);
+  registerVisit();
+  trackAnalyticsEvent('student_name_saved');
+  showMenuForUser();
+}
+function changeVisitorName(){
+  const current=getVisitorName();
+  localStorage.removeItem(NAME_KEY);
+  showLogin();
+  if($('nameInput')) $('nameInput').value=current;
+}
+function initApp(){
+  initAnalytics();
+  ensureVisitorId();
+  if(getVisitorName()){
+    registerVisit();
+    showMenuForUser();
+  } else {
+    showLogin();
+  }
+}
 function modeLabel(){return currentMode==='exam'?'Modo Simulado':'Modo Estudio'}
 function modeClass(){return currentMode==='exam'?'exam':'study'}
 function attemptKey(key, mode){return 'neuroquiz_progress_'+key+'_'+mode}
@@ -335,6 +473,7 @@ function startSection(key, mode='study', openList=false){
   if(!sec){ alert('Bloque no encontrado.'); return; }
   const wantedMode=mode==='exam'?'exam':'study';
   const saved=readProgress(sec.key,wantedMode,false);
+  trackAnalyticsEvent('start_block',{block_key:sec.key, mode:wantedMode});
   applyStateToQuiz(sec, saved, wantedMode);
   if(!saved) saveProgress();
   showQuizShell(openList);
@@ -488,6 +627,7 @@ function showResult(){
   $('quiz').classList.add('hidden'); $('result').classList.remove('hidden');
   const score=answers.filter(a=>a.correct).length; const total=questions.length; const p=pct(score,total);
   localStorage.setItem(scoreKey(currentSection.key), JSON.stringify({score,total,p,mode:currentMode,date:new Date().toISOString()}));
+  trackAnalyticsEvent('finish_block',{block_key:currentSection.key, mode:currentMode, score_percent:p});
   saveProgress({completed:true});
   $('resultPill').textContent=currentSection.title;
   const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass();
@@ -509,7 +649,7 @@ function showResult(){
   $('review').innerHTML=rev;
   renderCards();
 }
-function backToMenu(){saveProgress();$('quiz').classList.add('hidden');$('result').classList.add('hidden');$('menu').classList.remove('hidden');renderCards();}
+function backToMenu(){saveProgress();showMenuForUser();}
 function restartCurrent(){
   if(!currentSection) return;
   localStorage.removeItem(attemptKey(currentSection.key,currentMode));
@@ -525,7 +665,7 @@ function clearHistory(){
     renderCards();
   }
 }
-renderCards();
+initApp();
 </script>
 </body>
 </html>
