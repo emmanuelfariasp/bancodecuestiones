@@ -1,6 +1,6 @@
 {
-  "version": "4.0.0",
-  "description": "Manifest de preguntas para Banco de cuestiones 4º semestre. Las preguntas quedan separadas por área y bloque.",
+  "version": "4.2.0",
+  "description": "Manifest de preguntas para Banco de cuestiones 4º semestre. V4.2 agrega el bloque Especial para examen final ordinário en Neurociencias.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -56,6 +56,10 @@
         {
           "key": "clase12",
           "file": "data/neuro/clase12.json"
+        },
+        {
+          "key": "clase13_final_ordinario",
+          "file": "data/neuro/clase13_final_ordinario.json"
         },
         {
           "key": "general_medio",

@@ -205,7 +205,7 @@ function saveProgress(extra={}){
 }
 function shortMenuName(sec){
   if(currentSubject==='fisio') return sec.subtitle;
-  const names={clase1:'Sistema Nervioso',clase2:'Médula espinal I',clase3:'Médula espinal II',clase4:'Tronco cerebral',clase5:'Cerebelo y ventrículos',clase6:'Configuración del cerebro',clase7:'Pares craneales I–VII',clase8:'Pares craneales VIII–XII',clase9:'Neuroglia y sinapsis',clase10:'HTEC, edema y ACV',clase11:'Hidrocefalia',clase12:'Absceso y empiema',general_medio:'Todo el contenido · nivel medio',general_dificil:'Todo el contenido · nivel difícil'};
+  const names={clase1:'Sistema Nervioso',clase2:'Médula espinal I',clase3:'Médula espinal II',clase4:'Tronco cerebral',clase5:'Cerebelo y ventrículos',clase6:'Configuración del cerebro',clase7:'Pares craneales I–VII',clase8:'Pares craneales VIII–XII',clase9:'Neuroglia y sinapsis',clase10:'HTEC, edema y ACV',clase11:'Hidrocefalia',clase12:'Absceso y empiema',general_medio:'Todo el contenido · nivel medio',clase13_final_ordinario:'Especial para examen final ordinario',general_dificil:'Todo el contenido · nivel difícil'};
   return names[sec.key] || sec.subtitle;
 }
 function progressMarkup(sec){
@@ -236,7 +236,7 @@ function renderCards(){
   const classCards=$('classCards'), generalCards=$('generalCards'); classCards.innerHTML=''; generalCards.innerHTML='';
   const sections=getSections();
   if(currentSubject==='neuro'){
-    $('groupTitleClasses').textContent='Clases individuales'; $('groupHintClasses').textContent='Repasa un tema específico con 25 preguntas.';
+    $('groupTitleClasses').textContent='Clases y bloque especial'; $('groupHintClasses').textContent='Repasa un tema específico o el bloque especial para el examen final ordinario.';
     $('generalBlock').classList.remove('hidden');
     sections.filter(s=>s.key.startsWith('clase')).forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
     sections.filter(s=>s.key.includes('general')).forEach((sec,i)=>generalCards.appendChild(makeCard(sec,i,true)));

@@ -108,3 +108,14 @@ En GitHub Pages funcionará normalmente.
 ## V4.1 - Modo simulado
 
 En modo simulado no se muestran aciertos, errores ni lista de preguntas durante el intento. La corrección aparece solamente al finalizar.
+
+
+## Actualización V4.2
+
+Se agregó en Neurociencias el bloque **Especial para examen final ordinário** con 200 preguntas tomadas del archivo `Cuestionario_Neurociencia_Final.pdf`.
+
+Para editar ese bloque, modifica:
+
+```text
+data/neuro/clase13_final_ordinario.json
+```
