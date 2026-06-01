@@ -103,3 +103,8 @@ http://localhost:8000
 ```
 
 En GitHub Pages funcionará normalmente.
+
+
+## V4.1 - Modo simulado
+
+En modo simulado no se muestran aciertos, errores ni lista de preguntas durante el intento. La corrección aparece solamente al finalizar.
