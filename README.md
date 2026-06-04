@@ -136,3 +136,15 @@ data/neuro/clase13_final_ordinario.json
 - Agrega 39 preguntas verificadas al bloque Fisiología → Capítulo 78.
 - Mantiene las 28 preguntas agregadas al Capítulo 75 en V4.5.
 - Archivo modificado: `data/fisio/fisio_cap78_aleatorio.json`.
+
+
+## Versión 4.7
+- Agrega el PDF completo de Fisiología con 567 preguntas.
+- Incluye índice interactivo por bloque y gabarito explicado al final.
+- El botón de descarga de Fisiología apunta a `pdf_fisiologia_banco_completo_567_preguntas_emmanuel.pdf`.
+
+
+## V4.8
+- PDF completo de Fisiología en formato simple de 2 columnas.
+- Índice interactivo para todos los bloques, incluyendo los cuestionarios finales.
+- Gabarito simplificado al final.
