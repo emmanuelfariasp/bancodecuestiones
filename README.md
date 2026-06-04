@@ -129,3 +129,10 @@ data/neuro/clase13_final_ordinario.json
 
 ## V4.4
 - Corrección del bloque de Fisiología: Cuestionario difícil. Se retiraron textos residuales del PDF que aparecían dentro de algunas alternativas y explicaciones.
+
+
+## V4.6
+
+- Agrega 39 preguntas verificadas al bloque Fisiología → Capítulo 78.
+- Mantiene las 28 preguntas agregadas al Capítulo 75 en V4.5.
+- Archivo modificado: `data/fisio/fisio_cap78_aleatorio.json`.
