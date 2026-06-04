@@ -119,3 +119,13 @@ Para editar ese bloque, modifica:
 ```text
 data/neuro/clase13_final_ordinario.json
 ```
+
+
+## V4.3
+- En modo simulado no se muestra progreso durante el intento.
+- En modo simulado no aparece la lista de preguntas.
+- La corrección y los resultados aparecen solamente al finalizar.
+
+
+## V4.4
+- Corrección del bloque de Fisiología: Cuestionario difícil. Se retiraron textos residuales del PDF que aparecían dentro de algunas alternativas y explicaciones.

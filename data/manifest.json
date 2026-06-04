@@ -1,6 +1,6 @@
 {
-  "version": "4.2.0",
-  "description": "Manifest de preguntas para Banco de cuestiones 4º semestre. V4.2 agrega el bloque Especial para examen final ordinário en Neurociencias.",
+  "version": "4.4.0",
+  "description": "Manifest de preguntas para Banco de cuestiones 4º semestre. V4.4 corrige alternativas del bloque de Fisiología: Cuestionario difícil.",
   "subjects": {
     "neuro": {
       "key": "neuro",
