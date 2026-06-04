@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0",
-  "description": "Manifest de preguntas para Banco de cuestiones 4º semestre. V4.4 corrige alternativas del bloque de Fisiología: Cuestionario difícil.",
+  "version": "4.5.0",
+  "description": "V4.5 agrega 28 preguntas verificadas al bloque Fisiología Capítulo 75.",
   "subjects": {
     "neuro": {
       "key": "neuro",
