@@ -1,12 +1,12 @@
 {
-  "version": "4.10.0",
-  "description": "V4.10 agrega preguntas del capítulo 80 y actualiza PDF completo de Fisiología en 2 columnas.",
+  "version": "4.12.0",
+  "description": "V4.12 verificada: corrige contador de Fisiología, ajusta enlace del PDF de Neurociencias al archivo incluido y mantiene 708 preguntas de Fisiología.",
   "subjects": {
     "neuro": {
       "key": "neuro",
       "label": "Neurociencias",
       "subtitle": "Sistema nervioso, médula, tronco cerebral, cerebelo, pares craneales, sinapsis, HTEC, hidrocefalia, absceso y empiema.",
-      "pdf": "pdf_todas_questoes_neuroquiz_400_emmanuel.pdf",
+      "pdf": "Cuestionario_Neurociencia_Final.pdf",
       "pdfLabel": "Descargar PDF Neurociencias",
       "sections": [
         {
@@ -75,7 +75,7 @@
       "key": "fisio",
       "label": "Fisiología",
       "subtitle": "Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
-      "pdf": "pdf_fisiologia_banco_completo_640_preguntas_2_columnas_emmanuel.pdf",
+      "pdf": "pdf_fisiologia_banco_completo_708_preguntas_2_columnas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Fisiología - 2 columnas",
       "sections": [
         {
