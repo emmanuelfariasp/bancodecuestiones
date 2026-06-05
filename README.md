@@ -1,4 +1,4 @@
-# Banco de cuestiones 4º semestre - V4.12 verificada
+# Banco de cuestiones 4º semestre - V4.13
 
 Versión verificada del sitio de Emmanuel Farias.
 
@@ -17,18 +17,18 @@ data/manifest.json
 data/neuro/*.json
 data/fisio/*.json
 Cuestionario_Neurociencia_Final.pdf
-pdf_fisiologia_banco_completo_708_preguntas_2_columnas_emmanuel.pdf
+pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf
 ```
 
 ## Conteo actual
 
 - Neurociencias: 15 bloques, 600 preguntas.
-- Fisiología: 11 bloques, 708 preguntas.
+- Fisiología: 11 bloques, 747 preguntas.
 
 ## PDFs usados por el sitio
 
 - Neurociencias: `Cuestionario_Neurociencia_Final.pdf`
-- Fisiología: `pdf_fisiologia_banco_completo_708_preguntas_2_columnas_emmanuel.pdf`
+- Fisiología: `pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf`
 
 ## Cómo agregar preguntas
 

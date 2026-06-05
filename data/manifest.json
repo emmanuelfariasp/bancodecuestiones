@@ -1,6 +1,6 @@
 {
-  "version": "4.12.0",
-  "description": "V4.12 verificada: corrige contador de Fisiología, ajusta enlace del PDF de Neurociencias al archivo incluido y mantiene 708 preguntas de Fisiología.",
+  "version": "4.13.0",
+  "description": "V4.13: agrega 39 preguntas al capítulo 81 de Fisiología y actualiza el PDF completo de Fisiología a 747 preguntas.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -75,7 +75,7 @@
       "key": "fisio",
       "label": "Fisiología",
       "subtitle": "Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
-      "pdf": "pdf_fisiologia_banco_completo_708_preguntas_2_columnas_emmanuel.pdf",
+      "pdf": "pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Fisiología - 2 columnas",
       "sections": [
         {
