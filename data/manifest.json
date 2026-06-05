@@ -1,6 +1,6 @@
 {
-  "version": "4.9.0",
-  "description": "V4.9 agrega preguntas del capítulo 79 y actualiza PDF completo de Fisiología en 2 columnas.",
+  "version": "4.10.0",
+  "description": "V4.10 agrega preguntas del capítulo 80 y actualiza PDF completo de Fisiología en 2 columnas.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -75,7 +75,7 @@
       "key": "fisio",
       "label": "Fisiología",
       "subtitle": "Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
-      "pdf": "pdf_fisiologia_banco_completo_605_preguntas_2_columnas_emmanuel.pdf",
+      "pdf": "pdf_fisiologia_banco_completo_640_preguntas_2_columnas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Fisiología - 2 columnas",
       "sections": [
         {

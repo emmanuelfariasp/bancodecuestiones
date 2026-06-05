@@ -148,3 +148,10 @@ data/neuro/clase13_final_ordinario.json
 - PDF completo de Fisiología en formato simple de 2 columnas.
 - Índice interactivo para todos los bloques, incluyendo los cuestionarios finales.
 - Gabarito simplificado al final.
+
+## V4.10 - Capítulo 80 y PDF actualizado
+
+- Agrega 35 preguntas revisadas del capítulo 80 al bloque de Fisiología.
+- El bloque `Capítulo 80` pasa de 25 a 60 preguntas.
+- El banco completo de Fisiología pasa a 640 preguntas.
+- El botón de descarga de Fisiología apunta a `pdf_fisiologia_banco_completo_640_preguntas_2_columnas_emmanuel.pdf`.
