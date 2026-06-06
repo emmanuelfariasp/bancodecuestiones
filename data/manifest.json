@@ -1,6 +1,6 @@
 {
-  "version": "4.13.0",
-  "description": "V4.13: agrega 39 preguntas al capítulo 81 de Fisiología y actualiza el PDF completo de Fisiología a 747 preguntas.",
+  "version": "4.16.0",
+  "description": "V4.16: fuerza la recarga de la Unidad V renal con rutas JSON nuevas y preguntas sin la frase repetida del capítulo.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -71,10 +71,10 @@
         }
       ]
     },
-    "fisio": {
-      "key": "fisio",
-      "label": "Fisiología",
-      "subtitle": "Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
+    "fisio_endocrino": {
+      "key": "fisio_endocrino",
+      "label": "Fisiología - Unidad XIV",
+      "subtitle": "Unidad XIV - Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
       "pdf": "pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Fisiología - 2 columnas",
       "sections": [
@@ -121,6 +121,45 @@
         {
           "key": "fisio_cuestionario_dificiles",
           "file": "data/fisio/fisio_cuestionario_dificiles.json"
+        }
+      ],
+      "unit": "Unidad XIV - Endocrinología y reproducción"
+    },
+    "fisio_renal": {
+      "key": "fisio_renal",
+      "label": "Fisiología - Unidad V",
+      "subtitle": "Unidad V: Los líquidos corporales y los riñones. Capítulos 25 a 31 con 50 preguntas por capítulo.",
+      "unit": "Unidad V: Los líquidos corporales y los riñones",
+      "pdf": "pdf_fisiologia_renal_unidad_v_350_preguntas_2_columnas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Unidad V - Renal limpio",
+      "sections": [
+        {
+          "key": "fisio_renal_cap25",
+          "file": "data/fisio/unidad_v_limpia_v416/cap25.json"
+        },
+        {
+          "key": "fisio_renal_cap26",
+          "file": "data/fisio/unidad_v_limpia_v416/cap26.json"
+        },
+        {
+          "key": "fisio_renal_cap27",
+          "file": "data/fisio/unidad_v_limpia_v416/cap27.json"
+        },
+        {
+          "key": "fisio_renal_cap28",
+          "file": "data/fisio/unidad_v_limpia_v416/cap28.json"
+        },
+        {
+          "key": "fisio_renal_cap29",
+          "file": "data/fisio/unidad_v_limpia_v416/cap29.json"
+        },
+        {
+          "key": "fisio_renal_cap30",
+          "file": "data/fisio/unidad_v_limpia_v416/cap30.json"
+        },
+        {
+          "key": "fisio_renal_cap31",
+          "file": "data/fisio/unidad_v_limpia_v416/cap31.json"
         }
       ]
     }
