@@ -1,6 +1,6 @@
 {
-  "version": "4.16.0",
-  "description": "V4.16: fuerza la recarga de la Unidad V renal con rutas JSON nuevas y preguntas sin la frase repetida del capítulo.",
+  "version": "4.17.0",
+  "description": "V4.17: Unidad V renal con preguntas y alternativas limpias, sin frases de capítulo ni títulos pegados dentro de las opciones.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -135,31 +135,31 @@
       "sections": [
         {
           "key": "fisio_renal_cap25",
-          "file": "data/fisio/unidad_v_limpia_v416/cap25.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap25.json"
         },
         {
           "key": "fisio_renal_cap26",
-          "file": "data/fisio/unidad_v_limpia_v416/cap26.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap26.json"
         },
         {
           "key": "fisio_renal_cap27",
-          "file": "data/fisio/unidad_v_limpia_v416/cap27.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap27.json"
         },
         {
           "key": "fisio_renal_cap28",
-          "file": "data/fisio/unidad_v_limpia_v416/cap28.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap28.json"
         },
         {
           "key": "fisio_renal_cap29",
-          "file": "data/fisio/unidad_v_limpia_v416/cap29.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap29.json"
         },
         {
           "key": "fisio_renal_cap30",
-          "file": "data/fisio/unidad_v_limpia_v416/cap30.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap30.json"
         },
         {
           "key": "fisio_renal_cap31",
-          "file": "data/fisio/unidad_v_limpia_v416/cap31.json"
+          "file": "data/fisio/unidad_v_limpia_v417/cap31.json"
         }
       ]
     }

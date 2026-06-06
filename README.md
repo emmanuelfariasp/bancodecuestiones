@@ -1,6 +1,6 @@
-# Banco de cuestiones 4º semestre - V4.16
+# Banco de cuestiones 4º semestre - V4.17
 
-Versión V4.16 del sitio de Emmanuel Farias.
+Versión V4.17 del sitio de Emmanuel Farias.
 
 ## Estructura
 
@@ -49,10 +49,10 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 
 - Fisiología ahora se divide en dos unidades: Unidad XIV - Endocrinología y reproducción, y Unidad V - Los líquidos corporales y los riñones.
 - Unidad V incluye 7 bloques nuevos, capítulos 25 a 31, con 50 preguntas por capítulo.
-- Para agregar preguntas renales, edita los archivos en `data/fisio/unidad_v/`.
+- Para agregar preguntas renales, edita los archivos en `data/fisio/unidad_v_limpia_v417/`.
 
 
-## V4.16
+## V4.17
 
 - Se retiró la frase repetida "señale la alternativa correcta según el capítulo" de las preguntas de la Unidad V.
 - Se mantuvieron 350 preguntas renales: 50 por capítulo, capítulos 25 a 31.

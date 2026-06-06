@@ -72,4 +72,4 @@ Ctrl + F5
 
 ## Unidad V - Fisiología renal
 
-Los capítulos 25 a 31 están en `data/fisio/unidad_v/`. Cada archivo corresponde a un capítulo. Ejemplo: `data/fisio/unidad_v/cap25.json`.
+Los capítulos 25 a 31 están en `data/fisio/unidad_v_limpia_v417/`. Cada archivo corresponde a un capítulo. Ejemplo: `data/fisio/unidad_v_limpia_v417/cap25.json`.

@@ -1,0 +1,22 @@
+VERIFICACIÓN V4.17 - Unidad V renal
+Corrección: se eliminaron títulos de capítulos pegados dentro de alternativas y se revisó toda la Unidad V.
+
+Total preguntas: 350
+cap25: 50 preguntas
+cap26: 50 preguntas
+cap27: 50 preguntas
+cap28: 50 preguntas
+cap29: 50 preguntas
+cap30: 50 preguntas
+cap31: 50 preguntas
+Cambios de limpieza aplicados: 6
+- fisio_renal_cap25_050 option_4: El edema extracelular siempre se debe a entrada de agua en las células. Capítulo 26 - Sistema urinario y anatomía funcional -> El edema extracelular siempre se debe a entrada de agua en las células.
+- fisio_renal_cap26_050 option_4: El túbulo distal antecede directamente a la cápsula de Bowman. Capítulo 27 - Filtración glomerular y flujo renal -> El túbulo distal antecede directamente a la cápsula de Bowman.
+- fisio_renal_cap27_050 option_4: La inulina se reabsorbe por completo en el túbulo proximal. Capítulo 28 - Reabsorción y secreción tubular -> La inulina se reabsorbe por completo en el túbulo proximal.
+- fisio_renal_cap28_050 option_4: El transporte máximo aparece cuando no hay transportadores. Capítulo 29 - Concentración/dilución urinaria y ADH-sed -> El transporte máximo aparece cuando no hay transportadores.
+- fisio_renal_cap29_050 option_4: El alcohol inhibe ADH y favorece diuresis acuosa. Capítulo 30 - Potasio, calcio, fosfato, magnesio y volumen -> El alcohol inhibe ADH y favorece diuresis acuosa.
+- fisio_renal_cap30_050 option_4: Insulina saca potasio de las células después de una comida. Capítulo 31 - Regulación acidobásica -> Insulina saca potasio de las células después de una comida.
+
+Validación:
+IDs duplicados: 0
+Problemas detectados: 0
