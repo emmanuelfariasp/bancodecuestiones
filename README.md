@@ -1,6 +1,6 @@
-# Banco de cuestiones 4º semestre - V4.18
+# Banco de cuestiones 4º semestre - V4.19
 
-Versión V4.18 del sitio de Emmanuel Farias.
+Versión V4.19 - Unidad V renal reemplazada con nuevas preguntas importantes.
 
 ## Estructura
 
@@ -18,6 +18,7 @@ data/neuro/*.json
 data/fisio/*.json
 Cuestionario_Neurociencia_Final.pdf
 pdf_fisiologia_banco_completo_790_preguntas_2_columnas_emmanuel.pdf
+pdf_fisiologia_renal_unidad_v_350_preguntas_2_columnas_emmanuel.pdf
 ```
 
 ## Conteo actual
@@ -30,7 +31,7 @@ pdf_fisiologia_banco_completo_790_preguntas_2_columnas_emmanuel.pdf
 
 - Neurociencias: `Cuestionario_Neurociencia_Final.pdf`
 - Fisiología Unidad XIV: `pdf_fisiologia_banco_completo_790_preguntas_2_columnas_emmanuel.pdf`
-- Fisiología Unidad V: `cuestionario_fisiologia_renal_capitulos_25_31.pdf`
+- Fisiología Unidad V: `pdf_fisiologia_renal_unidad_v_350_preguntas_2_columnas_emmanuel.pdf`
 
 ## Cómo agregar preguntas
 
@@ -49,7 +50,7 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 
 - Fisiología ahora se divide en dos unidades: Unidad XIV - Endocrinología y reproducción, y Unidad V - Los líquidos corporales y los riñones.
 - Unidad V incluye 7 bloques nuevos, capítulos 25 a 31, con 50 preguntas por capítulo.
-- Para agregar preguntas renales, edita los archivos en `data/fisio/unidad_v_limpia_v417/`.
+- Para agregar preguntas renales, edita los archivos en `data/fisio/unidad_v_v419/`.
 
 
 ## V4.17
@@ -64,3 +65,11 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Se agregaron 43 preguntas al bloque Fisiología - Unidad XIV - Capítulo 82.
 - El bloque Capítulo 82 pasó de 25 a 68 preguntas.
 - El PDF de la Unidad XIV fue actualizado a 790 preguntas.
+
+
+## V4.19
+
+- Se reemplazaron todas las preguntas de Fisiología Unidad V renal.
+- Cada capítulo 25-31 ahora usa el nuevo PDF de preguntas importantes correspondiente.
+- Se mantiene la Unidad V con 7 bloques y 350 preguntas.
+- PDF de la Unidad V renal actualizado en 2 columnas.
