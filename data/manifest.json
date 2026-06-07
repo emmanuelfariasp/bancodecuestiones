@@ -1,6 +1,6 @@
 {
-  "version": "4.19.0",
-  "description": "V4.19: todas las preguntas de la Unidad V renal fueron sustituidas por los nuevos PDFs de preguntas importantes de los capítulos 25 a 31.",
+  "version": "4.20.0",
+  "description": "V4.20: misma base de V4.19 con Unidad V renal reemplazada, más reset automático de actividades antiguas y carga sin caché cuando cambia el banco de preguntas.",
   "subjects": {
     "neuro": {
       "key": "neuro",

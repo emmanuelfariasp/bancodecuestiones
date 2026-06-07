@@ -7,6 +7,29 @@ const VISITOR_ID_KEY='banco4_visitor_id';
 const LOCAL_VISIT_COUNT_KEY='banco4_local_visit_count';
 const SESSION_VISIT_KEY='banco4_visit_registered_this_session';
 const SUBJECT_KEY='banco4_last_subject';
+const APP_STORAGE_VERSION_KEY='banco4_storage_version';
+const CURRENT_BANK_VERSION=window.BANCO_DATA_VERSION || '4.20.0';
+
+function resetLocalDataIfBankChanged(){
+  let savedVersion=null;
+  try{ savedVersion=localStorage.getItem(APP_STORAGE_VERSION_KEY); }catch(e){ return; }
+  if(savedVersion===CURRENT_BANK_VERSION) return;
+
+  const keepKeys=new Set([NAME_KEY,VISITOR_ID_KEY,LOCAL_VISIT_COUNT_KEY,APP_STORAGE_VERSION_KEY]);
+  const keysToRemove=[];
+  for(let i=0;i<localStorage.length;i++){
+    const key=localStorage.key(i);
+    if(key && key.startsWith('banco4_') && !keepKeys.has(key)) keysToRemove.push(key);
+  }
+  keysToRemove.forEach(key=>localStorage.removeItem(key));
+  try{ sessionStorage.clear(); }catch(e){}
+  localStorage.setItem(APP_STORAGE_VERSION_KEY,CURRENT_BANK_VERSION);
+
+  if('caches' in window){
+    caches.keys().then(keys=>keys.forEach(key=>caches.delete(key))).catch(()=>{});
+  }
+}
+resetLocalDataIfBankChanged();
 
 function $(id){return document.getElementById(id)}
 function shuffle(arr){const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]} return a}
@@ -27,6 +50,11 @@ function attemptKeyFor(subject,key,mode){return 'banco4_progress_'+subject+'_'+k
 function scoreKeyFor(subject,key){return 'banco4_score_'+subject+'_'+key}
 function attemptKey(key, mode){return attemptKeyFor(currentSubject,key,mode)}
 function scoreKey(key){return scoreKeyFor(currentSubject,key)}
+function readScore(subject,key){
+  const hist=safeParse(localStorage.getItem(scoreKeyFor(subject,key))||'null');
+  if(!hist || hist.bankVersion !== CURRENT_BANK_VERSION) return null;
+  return hist;
+}
 function safeParse(value){try{return JSON.parse(value)}catch(e){return null}}
 function uniqueAnsweredCount(list=answers){return new Set((list||[]).map(a=>a.id)).size}
 function answerFor(qid){return (answers||[]).find(a=>a.id===qid)}
@@ -64,7 +92,7 @@ function getDashboardStats(){
         totals.bad += (prog.answers||[]).filter(a=>a.correct===false).length;
       }
     }
-    const hist=safeParse(localStorage.getItem(scoreKeyFor(currentSubject,sec.key))||'null');
+    const hist=readScore(currentSubject,sec.key);
     if(hist){
       totals.completed++;
       const item={title:sec.title,p:hist.p};
@@ -213,6 +241,7 @@ async function initApp(){
 function readProgress(subject,key,mode,includeCompleted=false){
   const state=safeParse(localStorage.getItem(attemptKeyFor(subject,key,mode))||'null');
   if(!state || !Array.isArray(state.questions) || !Array.isArray(state.answers)) return null;
+  if(state.bankVersion !== CURRENT_BANK_VERSION) return null;
   if(!includeCompleted && state.completed) return null;
   const sec=getSections(subject).find(s=>s.key===key);
   if(!sec || state.questions.length!==sec.questions.length) return null;
@@ -230,7 +259,7 @@ function latestProgress(subject,key, includeCompleted=true){
 }
 function saveProgress(extra={}){
   if(!currentSubject || !currentSection || !questions.length || (typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))) return;
-  const state={version:4,subject:currentSubject,sectionKey:currentSection.key,mode:currentMode,idx:Math.min(idx,Math.max(questions.length-1,0)),questions,answers,selectedChoice,completed:!!extra.completed,updatedAt:new Date().toISOString()};
+  const state={version:4,bankVersion:CURRENT_BANK_VERSION,subject:currentSubject,sectionKey:currentSection.key,mode:currentMode,idx:Math.min(idx,Math.max(questions.length-1,0)),questions,answers,selectedChoice,completed:!!extra.completed,updatedAt:new Date().toISOString()};
   localStorage.setItem(attemptKey(currentSection.key,currentMode), JSON.stringify(state));
 }
 function shortMenuName(sec){
@@ -248,7 +277,7 @@ function progressMarkup(sec){
   return `<div class="miniProgress"><span>Avance ${modeName}: ${done}/${total} (${pp}%)</span><div class="track"><div class="fill" style="width:${pp}%"></div></div><div class="miniStats"><span class="ok">✓ ${ok}</span><span class="bad">✕ ${bad}</span><span>Pendientes: ${pending}</span></div></div>`;
 }
 function makeCard(sec,i,isGeneral=false){
-  const hist=safeParse(localStorage.getItem(scoreKey(sec.key))||'null');
+  const hist=readScore(currentSubject,sec.key);
   const studyProgress=readProgress(currentSubject,sec.key,'study',false);
   const examProgress=readProgress(currentSubject,sec.key,'exam',false);
   let statusClass=''; if(hist){ statusClass = hist.p > 60 ? ' score-ok' : ' score-bad'; }
@@ -352,8 +381,22 @@ function toggleQuestionList(){
 function storeAnswer(choice, options={}){const q=questions[idx], correct=choice===q.answer, existing=answers.findIndex(a=>a.id===q.id); const record={id:q.id,q:q.q,options:q.options,answer:q.answer,choice,correct,exp:q.exp,topic:q.topic}; if(existing>=0) answers[existing]=record; else answers.push(record); const updateWrongBank=options.updateWrongBank!==false; if(updateWrongBank && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ if(correct) removeWrongAnswer(q.id); else saveWrongAnswer(record); } return record;}
 function selectOption(choice){const q=questions[idx]; selectedChoice=choice; const buttons=[...$('options').children]; buttons.forEach((b,i)=>{b.classList.toggle('selected',i===choice);}); $('nextBtn').disabled=false; if(currentMode==='exam'){storeAnswer(choice,{updateWrongBank:false}); saveProgress(); $('questionList').classList.add('hidden'); $('feedback').className='feedback'; $('feedback').innerHTML=''; updateProgressUI(); return;} if(locked) return; locked=true; const rec=storeAnswer(choice); buttons.forEach((b,i)=>{b.disabled=true; if(i===q.answer) b.classList.add('correct'); if(i===choice&&i!==q.answer) b.classList.add('wrong'); if(i!==choice&&i!==q.answer) b.classList.add('dim');}); const fb=$('feedback'); fb.className='feedback '+(rec.correct?'good':'bad'); fb.innerHTML=rec.correct?`<strong>✅ Correcto</strong>${escHtml(q.exp)}`:`<strong>❌ Incorrecto</strong>Respuesta correcta: <b>${letters[q.answer]}) ${escHtml(q.options[q.answer])}</b><br>${escHtml(q.exp)}`; saveProgress(); updateProgressUI(); renderQuestionList();}
 function nextQuestion(){if(currentMode==='exam'){if(selectedChoice===null&&!answerForCurrent()) return; if(selectedChoice!==null) storeAnswer(selectedChoice,{updateWrongBank:false});} saveProgress(); if(idx<questions.length-1){idx++; saveProgress(); renderQuestion(); if(currentMode!=='exam' && !$('questionList').classList.contains('hidden')) renderQuestionList();} else showResult();}
-function showResult(){saveProgress({completed:true}); ['quiz','menu','subjectSelect','unitSelect','login'].forEach(id=>$(id).classList.add('hidden')); $('result').classList.remove('hidden'); const total=questions.length, score=answers.filter(a=>a.correct).length, p=pct(score,total); if(currentMode==='exam' && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ answers.forEach(a=>{ if(a.correct) removeWrongAnswer(a.id); else saveWrongAnswer(a); }); } if(!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))){ localStorage.setItem(scoreKey(currentSection.key),JSON.stringify({score,total,p,date:new Date().toISOString()})); } trackAnalyticsEvent('finish_block',{block_key:currentSection.key,mode:currentMode,score,total,percent:p,synthetic:!!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))}); $('resultPill').textContent=subjectLabel()+' · '+currentSection.title; const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass(); $('resultSub').textContent=currentSection.subtitle; $('resultTitle').textContent=p>=80?'Muy bien, estás fuerte en este bloque.':p>=60?'Buen avance, pero hay puntos para revisar.':'Necesitas reforzar este contenido antes de la prueba.'; $('scorePct').textContent=p+'%'; $('scoreNum').textContent=score+'/'+total; $('scoreMsg').textContent=p>=80?'Dominio alto':p>=60?'Regular/medio':'Reforzar'; const topicMap={}; answers.forEach(a=>{if(!topicMap[a.topic]) topicMap[a.topic]={ok:0,total:0}; topicMap[a.topic].total++; if(a.correct) topicMap[a.topic].ok++;}); let topicHtml='<h3>Resultado por tema</h3>'; Object.entries(topicMap).sort((a,b)=>pct(a[1].ok,a[1].total)-pct(b[1].ok,b[1].total)).forEach(([t,v])=>{const pp=pct(v.ok,v.total); topicHtml+=`<span class="topicTag">${escHtml(t)}: ${v.ok}/${v.total} (${pp}%)</span>`;}); $('topicResults').innerHTML=topicHtml; const wrong=answers.filter(a=>!a.correct); let rev='<h3>Revisión de errores</h3>'; if(!wrong.length) rev+='<p class="small">No hubo errores en este intento.</p>'; wrong.forEach((a,i)=>{rev+=`<details><summary>${i+1}. ${escHtml(a.q)}</summary><p><b>Tu respuesta:</b> ${letters[a.choice]}) ${escHtml(a.options[a.choice])}</p><p><b>Correcta:</b> ${letters[a.answer]}) ${escHtml(a.options[a.answer])}</p><p>${escHtml(a.exp)}</p></details>`;}); $('review').innerHTML=rev; renderDashboard(); renderCards();}
+function showResult(){saveProgress({completed:true}); ['quiz','menu','subjectSelect','unitSelect','login'].forEach(id=>$(id).classList.add('hidden')); $('result').classList.remove('hidden'); const total=questions.length, score=answers.filter(a=>a.correct).length, p=pct(score,total); if(currentMode==='exam' && typeof removeWrongAnswer==='function' && typeof saveWrongAnswer==='function'){ answers.forEach(a=>{ if(a.correct) removeWrongAnswer(a.id); else saveWrongAnswer(a); }); } if(!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))){ localStorage.setItem(scoreKey(currentSection.key),JSON.stringify({score,total,p,bankVersion:CURRENT_BANK_VERSION,date:new Date().toISOString()})); } trackAnalyticsEvent('finish_block',{block_key:currentSection.key,mode:currentMode,score,total,percent:p,synthetic:!!(typeof isSyntheticSection==='function' && isSyntheticSection(currentSection))}); $('resultPill').textContent=subjectLabel()+' · '+currentSection.title; const rm=$('resultMode'); rm.textContent=modeLabel(); rm.className='modeTag '+modeClass(); $('resultSub').textContent=currentSection.subtitle; $('resultTitle').textContent=p>=80?'Muy bien, estás fuerte en este bloque.':p>=60?'Buen avance, pero hay puntos para revisar.':'Necesitas reforzar este contenido antes de la prueba.'; $('scorePct').textContent=p+'%'; $('scoreNum').textContent=score+'/'+total; $('scoreMsg').textContent=p>=80?'Dominio alto':p>=60?'Regular/medio':'Reforzar'; const topicMap={}; answers.forEach(a=>{if(!topicMap[a.topic]) topicMap[a.topic]={ok:0,total:0}; topicMap[a.topic].total++; if(a.correct) topicMap[a.topic].ok++;}); let topicHtml='<h3>Resultado por tema</h3>'; Object.entries(topicMap).sort((a,b)=>pct(a[1].ok,a[1].total)-pct(b[1].ok,b[1].total)).forEach(([t,v])=>{const pp=pct(v.ok,v.total); topicHtml+=`<span class="topicTag">${escHtml(t)}: ${v.ok}/${v.total} (${pp}%)</span>`;}); $('topicResults').innerHTML=topicHtml; const wrong=answers.filter(a=>!a.correct); let rev='<h3>Revisión de errores</h3>'; if(!wrong.length) rev+='<p class="small">No hubo errores en este intento.</p>'; wrong.forEach((a,i)=>{rev+=`<details><summary>${i+1}. ${escHtml(a.q)}</summary><p><b>Tu respuesta:</b> ${letters[a.choice]}) ${escHtml(a.options[a.choice])}</p><p><b>Correcta:</b> ${letters[a.answer]}) ${escHtml(a.options[a.answer])}</p><p>${escHtml(a.exp)}</p></details>`;}); $('review').innerHTML=rev; renderDashboard(); renderCards();}
 function backToMenu(){saveProgress(); showMenuForUser();}
 function restartCurrent(){if(!currentSection) return; if(typeof restartSyntheticQuiz==='function' && restartSyntheticQuiz()) return; localStorage.removeItem(attemptKey(currentSection.key,currentMode)); startSection(currentSection.key,currentMode,false);}
 function clearHistory(){if(!currentSubject) return; if(confirm('¿Quieres borrar los resultados, avances y errores guardados de '+subjectLabel()+'?')){getSections().forEach(s=>{localStorage.removeItem(scoreKeyFor(currentSubject,s.key)); localStorage.removeItem(attemptKeyFor(currentSubject,s.key,'study')); localStorage.removeItem(attemptKeyFor(currentSubject,s.key,'exam'));}); if(typeof wrongKeyFor==='function') localStorage.removeItem(wrongKeyFor(currentSubject)); renderDashboard(); renderCards();}}
+function resetAllActivitiesKeepName(){
+  const keepKeys=new Set([NAME_KEY,VISITOR_ID_KEY,LOCAL_VISIT_COUNT_KEY,APP_STORAGE_VERSION_KEY]);
+  const keysToRemove=[];
+  for(let i=0;i<localStorage.length;i++){
+    const key=localStorage.key(i);
+    if(key && key.startsWith('banco4_') && !keepKeys.has(key)) keysToRemove.push(key);
+  }
+  keysToRemove.forEach(key=>localStorage.removeItem(key));
+  try{ sessionStorage.clear(); }catch(e){}
+  localStorage.setItem(APP_STORAGE_VERSION_KEY,CURRENT_BANK_VERSION);
+  if('caches' in window){ caches.keys().then(keys=>keys.forEach(key=>caches.delete(key))).catch(()=>{}); }
+  location.reload();
+}
+window.resetAllActivitiesKeepName=resetAllActivitiesKeepName;
 initApp();
