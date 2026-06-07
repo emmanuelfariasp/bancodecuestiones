@@ -1,6 +1,6 @@
 {
-  "version": "4.17.0",
-  "description": "V4.17: Unidad V renal con preguntas y alternativas limpias, sin frases de capítulo ni títulos pegados dentro de las opciones.",
+  "version": "4.18.0",
+  "description": "V4.18: se agregaron 43 preguntas del capítulo 82 a la Unidad XIV - Endocrinología y reproducción.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -75,7 +75,7 @@
       "key": "fisio_endocrino",
       "label": "Fisiología - Unidad XIV",
       "subtitle": "Unidad XIV - Endocrinología y reproducción: capítulos 75 al 82, cuestionarios mixtos y cuestionario difícil.",
-      "pdf": "pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf",
+      "pdf": "pdf_fisiologia_banco_completo_790_preguntas_2_columnas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Fisiología - 2 columnas",
       "sections": [
         {

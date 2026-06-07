@@ -1,0 +1,15 @@
+VERIFICACIÓN V4.18 - CAPÍTULO 82
+
+Versión: 4.18.0
+Archivo fuente usado: Documento sin título.pdf
+Preguntas agregadas al Capítulo 82: 43
+Capítulo 82 antes: 25 preguntas
+Capítulo 82 ahora: 68 preguntas
+Unidad XIV ahora: 790 preguntas
+
+Validaciones:
+- JSON válidos: sí
+- IDs únicos en todo el sitio: sí
+- Respuestas dentro del rango de alternativas: sí
+- PDF de Unidad XIV actualizado: sí
+- Conteo de Fisiología total: Unidad XIV 790 + Unidad V 350 = 1140 preguntas

@@ -1,6 +1,6 @@
-# Banco de cuestiones 4º semestre - V4.17
+# Banco de cuestiones 4º semestre - V4.18
 
-Versión V4.17 del sitio de Emmanuel Farias.
+Versión V4.18 del sitio de Emmanuel Farias.
 
 ## Estructura
 
@@ -17,19 +17,19 @@ data/manifest.json
 data/neuro/*.json
 data/fisio/*.json
 Cuestionario_Neurociencia_Final.pdf
-pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf
+pdf_fisiologia_banco_completo_790_preguntas_2_columnas_emmanuel.pdf
 ```
 
 ## Conteo actual
 
 - Neurociencias: 15 bloques, 600 preguntas.
-- Fisiología Unidad XIV: 11 bloques, 747 preguntas.
+- Fisiología Unidad XIV: 11 bloques, 790 preguntas.
 - Fisiología Unidad V: 7 bloques, 350 preguntas.
 
 ## PDFs usados por el sitio
 
 - Neurociencias: `Cuestionario_Neurociencia_Final.pdf`
-- Fisiología Unidad XIV: `pdf_fisiologia_banco_completo_747_preguntas_2_columnas_emmanuel.pdf`
+- Fisiología Unidad XIV: `pdf_fisiologia_banco_completo_790_preguntas_2_columnas_emmanuel.pdf`
 - Fisiología Unidad V: `cuestionario_fisiologia_renal_capitulos_25_31.pdf`
 
 ## Cómo agregar preguntas
@@ -57,3 +57,10 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Se retiró la frase repetida "señale la alternativa correcta según el capítulo" de las preguntas de la Unidad V.
 - Se mantuvieron 350 preguntas renales: 50 por capítulo, capítulos 25 a 31.
 - Se verificaron JSON, IDs, respuestas, conteos y coherencia básica entre alternativa correcta y explicación.
+
+
+## V4.18
+
+- Se agregaron 43 preguntas al bloque Fisiología - Unidad XIV - Capítulo 82.
+- El bloque Capítulo 82 pasó de 25 a 68 preguntas.
+- El PDF de la Unidad XIV fue actualizado a 790 preguntas.
