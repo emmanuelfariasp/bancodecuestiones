@@ -1,16 +1,11 @@
 // Carga dinámica de preguntas desde archivos JSON separados.
 // V4: Para agregar preguntas, edita los archivos dentro de /data/.
 
-const BANCO_DATA_VERSION = '4.20.0';
-window.BANCO_DATA_VERSION = BANCO_DATA_VERSION;
+const BANCO_DATA_VERSION = '4.19.0';
 
 async function fetchJSON(path){
   const separator = path.includes('?') ? '&' : '?';
-  const cacheToken = `${BANCO_DATA_VERSION}-${Date.now()}`;
-  const response = await fetch(`${path}${separator}v=${encodeURIComponent(cacheToken)}`, {
-    cache: 'no-store',
-    headers: { 'Cache-Control': 'no-cache' }
-  });
+  const response = await fetch(`${path}${separator}v=${encodeURIComponent(BANCO_DATA_VERSION)}`, { cache: 'no-store' });
   if(!response.ok){
     throw new Error(`No se pudo cargar ${path} (${response.status})`);
   }

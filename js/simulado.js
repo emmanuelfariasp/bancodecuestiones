@@ -9,7 +9,7 @@ function wrongKeyFor(subject = currentSubject){
 }
 
 function getWrongBank(subject = currentSubject){
-  return BancoStore.getJSON(wrongKeyFor(subject), []).filter(item => item.bankVersion === (window.BANCO_DATA_VERSION || '4.20.0'));
+  return BancoStore.getJSON(wrongKeyFor(subject), []);
 }
 
 function setWrongBank(bank, subject = currentSubject){
@@ -25,7 +25,6 @@ function saveWrongAnswer(record){
   const bank = getWrongBank(currentSubject).filter(item => item.id !== record.id);
   bank.unshift({
     id: record.id,
-    bankVersion: window.BANCO_DATA_VERSION || '4.20.0',
     q: record.q,
     options: record.options,
     answer: record.answer,
