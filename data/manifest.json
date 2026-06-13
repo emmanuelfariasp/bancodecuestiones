@@ -1,6 +1,6 @@
 {
-  "version": "4.19.0",
-  "description": "V4.19: todas las preguntas de la Unidad V renal fueron sustituidas por los nuevos PDFs de preguntas importantes de los capítulos 25 a 31.",
+  "version": "4.20.0",
+  "description": "V4.20: agrega Microbiología con bloques de Virología, Parasitología, Artrópodos y Serpientes; 230 preguntas con explicaciones detalladas del PDF.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -160,6 +160,138 @@
         {
           "key": "fisio_renal_cap31",
           "file": "data/fisio/unidad_v_v419/cap31.json"
+        }
+      ]
+    },
+    "micro_virologia": {
+      "key": "micro_virologia",
+      "label": "Microbiología - Virología",
+      "subtitle": "Virología: 12 clases, 10 preguntas por clase, con explicación detallada al responder.",
+      "unit": "Microbiología - Virología",
+      "pdf": "pdf_microbiologia_ii_230_preguntas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Microbiología II",
+      "sections": [
+        {
+          "key": "micro_viro_01_generalidades",
+          "file": "data/microbiologia/virologia/micro_viro_01_generalidades.json"
+        },
+        {
+          "key": "micro_viro_02_herpes_vvz",
+          "file": "data/microbiologia/virologia/micro_viro_02_herpes_vvz.json"
+        },
+        {
+          "key": "micro_viro_03_veb_cmv_vhh",
+          "file": "data/microbiologia/virologia/micro_viro_03_veb_cmv_vhh.json"
+        },
+        {
+          "key": "micro_viro_04_papilomavirus",
+          "file": "data/microbiologia/virologia/micro_viro_04_papilomavirus.json"
+        },
+        {
+          "key": "micro_viro_05_adenovirus",
+          "file": "data/microbiologia/virologia/micro_viro_05_adenovirus.json"
+        },
+        {
+          "key": "micro_viro_06_parvovirus_poxvirus",
+          "file": "data/microbiologia/virologia/micro_viro_06_parvovirus_poxvirus.json"
+        },
+        {
+          "key": "micro_viro_07_picornavirus",
+          "file": "data/microbiologia/virologia/micro_viro_07_picornavirus.json"
+        },
+        {
+          "key": "micro_viro_08_orthomixovirus_reovirus",
+          "file": "data/microbiologia/virologia/micro_viro_08_orthomixovirus_reovirus.json"
+        },
+        {
+          "key": "micro_viro_09_paramixovirus",
+          "file": "data/microbiologia/virologia/micro_viro_09_paramixovirus.json"
+        },
+        {
+          "key": "micro_viro_10_rhabdovirus",
+          "file": "data/microbiologia/virologia/micro_viro_10_rhabdovirus.json"
+        },
+        {
+          "key": "micro_viro_11_togavirus_flavivirus",
+          "file": "data/microbiologia/virologia/micro_viro_11_togavirus_flavivirus.json"
+        },
+        {
+          "key": "micro_viro_12_retrovirus",
+          "file": "data/microbiologia/virologia/micro_viro_12_retrovirus.json"
+        }
+      ]
+    },
+    "micro_parasitologia": {
+      "key": "micro_parasitologia",
+      "label": "Microbiología - Parasitología",
+      "subtitle": "Parasitología: generalidades, paludismo, protozoarios y helmintos, con explicación detallada al responder.",
+      "unit": "Microbiología - Parasitología",
+      "pdf": "pdf_microbiologia_ii_230_preguntas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Microbiología II",
+      "sections": [
+        {
+          "key": "micro_para_01_generalidades",
+          "file": "data/microbiologia/parasitologia/micro_para_01_generalidades.json"
+        },
+        {
+          "key": "micro_para_02_paludismo",
+          "file": "data/microbiologia/parasitologia/micro_para_02_paludismo.json"
+        },
+        {
+          "key": "micro_para_03_trypanosoma",
+          "file": "data/microbiologia/parasitologia/micro_para_03_trypanosoma.json"
+        },
+        {
+          "key": "micro_para_04_toxoplasma",
+          "file": "data/microbiologia/parasitologia/micro_para_04_toxoplasma.json"
+        },
+        {
+          "key": "micro_para_05_leishmania",
+          "file": "data/microbiologia/parasitologia/micro_para_05_leishmania.json"
+        },
+        {
+          "key": "micro_para_06_protozoarios",
+          "file": "data/microbiologia/parasitologia/micro_para_06_protozoarios.json"
+        },
+        {
+          "key": "micro_para_07_nematodos",
+          "file": "data/microbiologia/parasitologia/micro_para_07_nematodos.json"
+        },
+        {
+          "key": "micro_para_08_cestodos",
+          "file": "data/microbiologia/parasitologia/micro_para_08_cestodos.json"
+        },
+        {
+          "key": "micro_para_09_trematodos",
+          "file": "data/microbiologia/parasitologia/micro_para_09_trematodos.json"
+        }
+      ]
+    },
+    "micro_artropodes": {
+      "key": "micro_artropodes",
+      "label": "Microbiología - Artrópodos",
+      "subtitle": "Artrópodos de importancia médica: 10 preguntas con explicación detallada al responder.",
+      "unit": "Microbiología - Artrópodos",
+      "pdf": "pdf_microbiologia_ii_230_preguntas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Microbiología II",
+      "sections": [
+        {
+          "key": "micro_artropodes_01",
+          "file": "data/microbiologia/artropodes/micro_artropodes_01.json"
+        }
+      ]
+    },
+    "micro_serpientes": {
+      "key": "micro_serpientes",
+      "label": "Microbiología - Serpientes",
+      "subtitle": "Importancia médica de serpientes: 10 preguntas con explicación detallada al responder.",
+      "unit": "Microbiología - Serpientes",
+      "pdf": "pdf_microbiologia_ii_230_preguntas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Microbiología II",
+      "sections": [
+        {
+          "key": "micro_serpientes_01",
+          "file": "data/microbiologia/serpientes/micro_serpientes_01.json"
         }
       ]
     }

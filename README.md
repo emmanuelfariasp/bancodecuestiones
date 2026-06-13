@@ -73,3 +73,9 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Cada capítulo 25-31 ahora usa el nuevo PDF de preguntas importantes correspondiente.
 - Se mantiene la Unidad V con 7 bloques y 350 preguntas.
 - PDF de la Unidad V renal actualizado en 2 columnas.
+
+
+## V4.20
+- Agrega Microbiología al menú principal.
+- Microbiología se divide en Virología, Parasitología, Artrópodos y Serpientes.
+- Incluye 230 preguntas del PDF de Microbiología II, con 10 preguntas por clase y explicaciones detalladas.
