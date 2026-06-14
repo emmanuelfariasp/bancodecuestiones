@@ -1,0 +1,451 @@
+{
+  "key": "micro_viro_05_adenovirus",
+  "title": "Adenovirus",
+  "subtitle": "Virología · 31 preguntas · Fuente: Unidad 4.1 Adenovirus.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_05_adenovirus_001",
+      "q": "La descripcion estructural más correcta para adenovirus es:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ADN bicatenario lineal, sin envoltura.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: la estructura de adenovirus: ADN lineal de doble cadena y cápside desnuda. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “ARN negativo segmentado, con envoltura.”: un genoma que debe ser transcrito por una polimerasa viral antes de producir proteínas. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN bicatenario lineal, sin envoltura.”.\nb) No. El concepto de esta alternativa es “ADN monocatenario circular, con envoltura.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN bicatenario lineal, sin envoltura.”.\nc) No. Esta alternativa se refiere a “ARN bicatenario, cápside helicoidal.”: ARN de doble cadena, característico de Reovirus/Rotavirus y distinto de influenza, picornavirus o paramixovirus. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN bicatenario lineal, sin envoltura.”.\nd) Correcta. “ADN bicatenario lineal, sin envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esa opción apunta a “ARN positivo, sin cápside.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN bicatenario lineal, sin envoltura.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "ARN negativo segmentado, con envoltura.",
+        "ADN monocatenario circular, con envoltura.",
+        "ARN bicatenario, cápside helicoidal.",
+        "ADN bicatenario lineal, sin envoltura.",
+        "ARN positivo, sin cápside."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_002",
+      "q": "Los principales antigenos de adenovirus se relacionan con:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Hexonas, pentonas y fibras.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: componentes de la cápside de adenovirus; son antígenos importantes y ayudan a la unión/entrada. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Hexonas, pentonas y fibras.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “HA, NA y proteina M2.”: hemaglutinina y neuraminidasa: antígenos principales de influenza y base de su clasificación. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Hexonas, pentonas y fibras.”.\nc) No. Aquí se está describiendo “E1, E2 y proteina NS1.”: glucoproteínas de alfavirus/flavivirus; no equivalen a HA/NA de influenza ni a hexonas/pentonas de adenovirus. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Hexonas, pentonas y fibras.”.\nd) No. Esa opción apunta a “Gp120, gp41 e integrasa.”: enzima retroviral que inserta el ADN proviral en el genoma de la célula hospedadora. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Hexonas, pentonas y fibras.”.\ne) No. Lo que menciona esta opción corresponde a “Esporozoito, merozoito y gametocito.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Hexonas, pentonas y fibras.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Hexonas, pentonas y fibras.",
+        "HA, NA y proteina M2.",
+        "E1, E2 y proteina NS1.",
+        "Gp120, gp41 e integrasa.",
+        "Esporozoito, merozoito y gametocito."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_003",
+      "q": "La replicacion del ADN adenoviral ocurre principalmente en:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Nucleo célular.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Mitocondria.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleo célular.”.\nb) No. Aquí se está describiendo “Citoplasma libre.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleo célular.”.\nc) Correcta. “Nucleo célular.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Lo que menciona esta opción corresponde a “Ribosoma bacteriano.”: un concepto de bacteriología. Puede ser válido para bacterias, pero desplaza la respuesta hacia otro tipo de microorganismo. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleo célular.”.\ne) No. El concepto de esta alternativa es “Vacuola digestiva.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Nucleo célular.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Mitocondria.",
+        "Citoplasma libre.",
+        "Nucleo célular.",
+        "Ribosoma bacteriano.",
+        "Vacuola digestiva."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_004",
+      "q": "Una infección por adenovirus puede comprometer respiratorio, digestivo, urinario y ojo. Qué cuadro ocular es compatible?",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Conjuntivitis.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: manifestación ocular compatible con adenovirus, especialmente en faringoconjuntivitis. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Catarata congenita.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Conjuntivitis.”.\nb) No. Esa opción apunta a “Uveitis toxoplásmica obligatoria.”: hospedador definitivo de Toxoplasma gondii y fuente de ooquistes por heces. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Conjuntivitis.”.\nc) No. Lo que menciona esta opción corresponde a “Retinopatia hipertensiva.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Conjuntivitis.”.\nd) No. El concepto de esta alternativa es “Glaucoma agudo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Conjuntivitis.”.\ne) Correcta. “Conjuntivitis.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Catarata congenita.",
+        "Uveitis toxoplásmica obligatoria.",
+        "Retinopatia hipertensiva.",
+        "Glaucoma agudo.",
+        "Conjuntivitis."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_005",
+      "q": "Si se observan cuerpos de inclusion nuclear con acumulacion de ADN y particulas defectuosas, el dato encaja con:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Adenovirus.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: virus ADN bicatenario lineal, sin envoltura, con resistencia ambiental y tropismo respiratorio, ocular, digestivo y urinario. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Trypanosoma.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Adenovirus.”.\nb) Correcta. “Adenovirus.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. El concepto de esta alternativa es “Strongyloides.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Adenovirus.”.\nd) No. Esta alternativa se refiere a “Fasciola.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Adenovirus.”.\ne) No. Aquí se está describiendo “Echinococcus.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Adenovirus.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Trypanosoma.",
+        "Adenovirus.",
+        "Strongyloides.",
+        "Fasciola.",
+        "Echinococcus."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_006",
+      "q": "A diferencia de varios virus envueltos, los adenovirus son relevantes en brotes porque:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Tienen mayor resistencia ambiental al carecer de envoltura.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Mueren rápidamente fuera del hospedador.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tienen mayor resistencia ambiental al carecer de envoltura.”.\nb) No. El concepto de esta alternativa es “Solo infectan por vía sexual.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tienen mayor resistencia ambiental al carecer de envoltura.”.\nc) No. Esta alternativa se refiere a “No se liberan nunca por lisis.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tienen mayor resistencia ambiental al carecer de envoltura.”.\nd) Correcta. “Tienen mayor resistencia ambiental al carecer de envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Esa opción apunta a “No se transmiten entre humanos.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Tienen mayor resistencia ambiental al carecer de envoltura.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Mueren rápidamente fuera del hospedador.",
+        "Solo infectan por vía sexual.",
+        "No se liberan nunca por lisis.",
+        "Tienen mayor resistencia ambiental al carecer de envoltura.",
+        "No se transmiten entre humanos."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_007",
+      "q": "Qué afirmacion sobre oncogenicidad es la más fiel al material?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Algunos tipos son oncogenicos en animales, no asi en humanos.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Todos causan cáncer cervical humano.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Algunos tipos son oncogenicos en animales, no asi en humanos.”.\nb) No. Esta alternativa se refiere a “Solo producen sarcoma de Kaposi.”: neoplasia asociada a VHH-8, sobre todo en inmunodepresión. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Algunos tipos son oncogenicos en animales, no asi en humanos.”.\nc) Correcta. “Algunos tipos son oncogenicos en animales, no asi en humanos.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “Son oncogenicos solo por mosquitos.”: artrópodo vector; puede transmitir arbovirus o Plasmodium según el género y contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Algunos tipos son oncogenicos en animales, no asi en humanos.”.\ne) No. Lo que menciona esta opción corresponde a “Transforman eritrocitos maduros.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Algunos tipos son oncogenicos en animales, no asi en humanos.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Todos causan cáncer cervical humano.",
+        "Solo producen sarcoma de Kaposi.",
+        "Algunos tipos son oncogenicos en animales, no asi en humanos.",
+        "Son oncogenicos solo por mosquitos.",
+        "Transforman eritrocitos maduros."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_008",
+      "q": "La liberacion del adenovirus desde la célula infectada se produce principalmente por:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Lisis célular.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: modo de liberación de adenovirus, que permanece hasta romper la célula. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Lisis célular.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Aquí se está describiendo “Gemacion apical permanente.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Lisis célular.”.\nc) No. Esa opción apunta a “Exocitosis de ooquistes.”: formas eliminadas por felinos en toxoplasmosis o presentes en coccidios; requieren maduración/esporulación para ser infectantes según el agente. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Lisis célular.”.\nd) No. Lo que menciona esta opción corresponde a “Salida por huevo embrionado.”: forma infectante de algunos nematodos como Ascaris cuando se ingiere desde suelo/alimentos contaminados. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Lisis célular.”.\ne) No. El concepto de esta alternativa es “Fagocitosis inversa.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Lisis célular.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Lisis célular.",
+        "Gemacion apical permanente.",
+        "Exocitosis de ooquistes.",
+        "Salida por huevo embrionado.",
+        "Fagocitosis inversa."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_009",
+      "q": "Una infección latente por adenovirus puede persistir en:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Celulas linfoides y adenoides.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: sitio donde adenovirus puede mantener infección latente. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Eritrocitos circulantes.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas linfoides y adenoides.”.\nb) No. Esa opción apunta a “Ganglios sensitivos exclusivamente.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas linfoides y adenoides.”.\nc) No. Lo que menciona esta opción corresponde a “Macrofagos hepaticos obligados.”: células donde Leishmania vive y se multiplica como amastigote. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas linfoides y adenoides.”.\nd) No. El concepto de esta alternativa es “Neumocitos sin núcleo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas linfoides y adenoides.”.\ne) Correcta. “Celulas linfoides y adenoides.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Eritrocitos circulantes.",
+        "Ganglios sensitivos exclusivamente.",
+        "Macrofagos hepaticos obligados.",
+        "Neumocitos sin núcleo.",
+        "Celulas linfoides y adenoides."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_010",
+      "q": "En una epidemia de faringoconjuntivitis con piscina y conjuntivitis, que dato apoya adenovirus?",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Virus ADN sin envoltura resistente.” porque, dentro de UNIDAD 4.1 - Adenovirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Protozoo flagelado transmitido por vinchuca.”: nombre común de triatominos transmisores de Chagas. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus ADN sin envoltura resistente.”.\nb) Correcta. “Virus ADN sin envoltura resistente.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. El concepto de esta alternativa es “Helminto con caracol intermediario.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Virus ADN sin envoltura resistente.”.\nd) No. Esta alternativa se refiere a “Virus ARN con transcriptasa inversa.”: la enzima de los retrovirus que transforma ARN viral en ADN para integrarse al genoma celular. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus ADN sin envoltura resistente.”.\ne) No. Aquí se está describiendo “Cestodo por pescado crudo.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Virus ADN sin envoltura resistente.”.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Protozoo flagelado transmitido por vinchuca.",
+        "Virus ADN sin envoltura resistente.",
+        "Helminto con caracol intermediario.",
+        "Virus ARN con transcriptasa inversa.",
+        "Cestodo por pescado crudo."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_001",
+      "q": "¿En qué tipo de cultivo celular se identificaron originalmente los adenovirus, lo que dio lugar a su nombre?",
+      "exp": "Respuesta correcta: A) Células de adenoides\nEl nombre adenovirus proviene de su aislamiento inicial en tejido/cultivo de adenoides.\nAnálisis de las alternativas:\nA) Correcta. Células de adenoides coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Linfocitos T CD4+ representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Células epiteliales conjuntivales representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Enterocitos del intestino delgado representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Células de adenoides",
+        "Linfocitos T CD4+",
+        "Células epiteliales conjuntivales",
+        "Enterocitos del intestino delgado"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_002",
+      "q": "¿Cuál es la configuración estructural característica del genoma de los adenovirus?",
+      "exp": "Respuesta correcta: D) ADN bicatenario lineal\nAdenovirus posee ADN bicatenario lineal y cápside desnuda.\nAnálisis de las alternativas:\nA) No. ADN monocatenario lineal representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. ADN bicatenario circular representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. ARN monocatenario de sentido positivo representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. ADN bicatenario lineal coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "ADN monocatenario lineal",
+        "ADN bicatenario circular",
+        "ARN monocatenario de sentido positivo",
+        "ADN bicatenario lineal"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_003",
+      "q": "¿En qué compartimento celular tiene lugar la replicación del ADN vírico de los adenovirus?",
+      "exp": "Respuesta correcta: D) Núcleo\nLa replicación del ADN de adenovirus ocurre en el núcleo de la célula infectada.\nAnálisis de las alternativas:\nA) No. Citoplasma representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Ribosomas representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Retículo endoplásmico representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Núcleo coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Citoplasma",
+        "Ribosomas",
+        "Retículo endoplásmico",
+        "Núcleo"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_004",
+      "q": "¿Qué componentes estructurales constituyen los principales antígenos de los adenovirus?",
+      "exp": "Respuesta correcta: B) Hexonas, pentonas y fibras\nHexonas, pentonas y fibras son componentes antigénicos importantes de la cápside adenoviral.\nAnálisis de las alternativas:\nA) No. Polimerasa de ADN y helicasa representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Hexonas, pentonas y fibras coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Glucoproteínas de envoltura representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Proteína de matriz y nucleocápside representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Polimerasa de ADN y helicasa",
+        "Hexonas, pentonas y fibras",
+        "Glucoproteínas de envoltura",
+        "Proteína de matriz y nucleocápside"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_005",
+      "q": "¿Cuál es la causa histológica de la formación de cuerpos de inclusión nuclear en células infectadas por adenovirus?",
+      "exp": "Respuesta correcta: D) Procesos de replicación y ensamblaje ineficaces\nLos cuerpos de inclusión nuclear reflejan replicación y ensamblaje viral ineficaces o acumulativos dentro del núcleo.\nAnálisis de las alternativas:\nA) No. Fusión de membranas celulares para formar sincitios representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Aumento masivo del tamaño celular (citomegalia) representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Degradación del nucleolo por enzimas víricas representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Procesos de replicación y ensamblaje ineficaces coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Fusión de membranas celulares para formar sincitios",
+        "Aumento masivo del tamaño celular (citomegalia)",
+        "Degradación del nucleolo por enzimas víricas",
+        "Procesos de replicación y ensamblaje ineficaces"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_006",
+      "q": "¿Qué tipo de infección establecen los adenovirus en las células linfoides y adenoides?",
+      "exp": "Respuesta correcta: B) Infección latente\nAdenovirus puede establecer infección latente en células linfoides y adenoides.\nAnálisis de las alternativas:\nA) No. Infección lítica representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Infección latente coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Infección transformadora representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Infección persistente productiva representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Infección lítica",
+        "Infección latente",
+        "Infección transformadora",
+        "Infección persistente productiva"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_007",
+      "q": "Respecto a la inmunidad contra los adenovirus, ¿cuál de las siguientes afirmaciones es correcta?",
+      "exp": "Respuesta correcta: B) Los anticuerpos no confieren protección contra serotipos diferentes al de la infección original\nLa inmunidad por anticuerpos es específica de serotipo; no protege bien contra serotipos diferentes.\nAnálisis de las alternativas:\nA) No. La inmunidad humoral es el único mecanismo para evitar la proliferación viral representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Los anticuerpos no confieren protección contra serotipos diferentes al de la infección original coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. La infección previa garantiza inmunidad permanente contra todas las enfermedades respiratorias virales representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Existe protección cruzada universal entre los 52 serotipos humanos representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "La inmunidad humoral es el único mecanismo para evitar la proliferación viral",
+        "Los anticuerpos no confieren protección contra serotipos diferentes al de la infección original",
+        "La infección previa garantiza inmunidad permanente contra todas las enfermedades respiratorias virales",
+        "Existe protección cruzada universal entre los 52 serotipos humanos"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_008",
+      "q": "¿Qué característica de los adenovirus les permite transmitirse a través de piscinas con cloración inadecuada?",
+      "exp": "Respuesta correcta: C) Resistencia a la desecación, detergentes y cloro leve\nAl carecer de envoltura, adenovirus resiste desecación, detergentes y cloración leve, favoreciendo brotes en piscinas mal cloradas.\nAnálisis de las alternativas:\nA) No. Presencia de una envoltura lipídica protectora representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Termolabilidad extrema que favorece el contagio en agua templada representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Resistencia a la desecación, detergentes y cloro leve coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Capacidad de replicación en ambientes acuáticos salinos representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Presencia de una envoltura lipídica protectora",
+        "Termolabilidad extrema que favorece el contagio en agua templada",
+        "Resistencia a la desecación, detergentes y cloro leve",
+        "Capacidad de replicación en ambientes acuáticos salinos"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_009",
+      "q": "¿Cuáles son los serotipos de adenovirus más frecuentemente asociados con infecciones pediátricas de las vías respiratorias?",
+      "exp": "Respuesta correcta: A) Tipos 1, 2, 5 y 6\nLos tipos 1, 2, 5 y 6 se asocian frecuentemente a infecciones respiratorias pediátricas.\nAnálisis de las alternativas:\nA) Correcta. Tipos 1, 2, 5 y 6 coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Tipos 40 y 41 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Tipos 8, 19 y 37 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Tipos 4, 7 y 21 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Tipos 1, 2, 5 y 6",
+        "Tipos 40 y 41",
+        "Tipos 8, 19 y 37",
+        "Tipos 4, 7 y 21"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_010",
+      "q": "¿Qué serotipos de adenovirus se propagan con mayor facilidad en entornos militares debido al hacinamiento y estilo de vida riguroso?",
+      "exp": "Respuesta correcta: D) Tipos 4 y 7\nLos tipos 4 y 7 se propagan con facilidad en ambientes militares por hacinamiento y contacto estrecho.\nAnálisis de las alternativas:\nA) No. Tipos 1 y 2 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Tipos 11 y 21 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Tipos 40 y 41 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Tipos 4 y 7 coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Tipos 1 y 2",
+        "Tipos 11 y 21",
+        "Tipos 40 y 41",
+        "Tipos 4 y 7"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_011",
+      "q": "Un paciente presenta la tríada de faringitis, conjuntivitis y fiebre. ¿Qué cuadro clínico es el más probable?",
+      "exp": "Respuesta correcta: B) Fiebre faringoconjuntival\nFiebre faringoconjuntival combina faringitis, conjuntivitis y fiebre, cuadro típico de adenovirus.\nAnálisis de las alternativas:\nA) No. Síndrome de tipo tos ferina representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Fiebre faringoconjuntival coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Enfermedad respiratoria aguda representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Queratoconjuntivitis epidémica representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Síndrome de tipo tos ferina",
+        "Fiebre faringoconjuntival",
+        "Enfermedad respiratoria aguda",
+        "Queratoconjuntivitis epidémica"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_012",
+      "q": "¿Cuál es la principal diferencia clínica entre la conjuntivitis y la queratoconjuntivitis por adenovirus?",
+      "exp": "Respuesta correcta: D) La presencia de dolor en la queratoconjuntivitis\nLa queratoconjuntivitis se diferencia por dolor y compromiso corneal, no solo conjuntival.\nAnálisis de las alternativas:\nA) No. La presencia de fiebre en la conjuntivitis representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. La edad del paciente, afectando la queratoconjuntivitis solo a lactantes representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. La vía de transmisión, que es solo fecal-oral en la conjuntivitis representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. La presencia de dolor en la queratoconjuntivitis coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "La presencia de fiebre en la conjuntivitis",
+        "La edad del paciente, afectando la queratoconjuntivitis solo a lactantes",
+        "La vía de transmisión, que es solo fecal-oral en la conjuntivitis",
+        "La presencia de dolor en la queratoconjuntivitis"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_013",
+      "q": "¿Qué serotipos de adenovirus se clasifican en el grupo F y son responsables de diarrea en lactantes?",
+      "exp": "Respuesta correcta: B) Serotipos 40 y 41\nLos serotipos 40 y 41 del grupo F son típicos de diarrea en lactantes.\nAnálisis de las alternativas:\nA) No. Serotipos 3, 4 y 7 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Serotipos 40 y 41 coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Serotipos 11 y 21 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Serotipos 1, 2 y 5 representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Serotipos 3, 4 y 7",
+        "Serotipos 40 y 41",
+        "Serotipos 11 y 21",
+        "Serotipos 1, 2 y 5"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_014",
+      "q": "¿Cuál de las siguientes es una manifestación clínica de los adenovirus en el aparato urinario?",
+      "exp": "Respuesta correcta: B) Cistitis hemorrágica aguda\nAdenovirus puede causar cistitis hemorrágica aguda, especialmente en niños o inmunocomprometidos.\nAnálisis de las alternativas:\nA) No. Insuficiencia renal aguda obstructiva representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Cistitis hemorrágica aguda coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Sepsis urinaria por Gram negativos representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Glomerulonefritis post-infecciosa representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Insuficiencia renal aguda obstructiva",
+        "Cistitis hemorrágica aguda",
+        "Sepsis urinaria por Gram negativos",
+        "Glomerulonefritis post-infecciosa"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_015",
+      "q": "¿Cómo se realiza el diagnóstico definitivo de la infección por adenovirus en el laboratorio?",
+      "exp": "Respuesta correcta: B) PCR y análisis de sondas de ADN\nPCR y sondas de ADN permiten diagnóstico definitivo al detectar material viral.\nAnálisis de las alternativas:\nA) No. Cultivo en agar sangre y chocolate representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. PCR y análisis de sondas de ADN coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Observación macroscópica de las secreciones representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Prueba de la tuberculina (PPD) representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Cultivo en agar sangre y chocolate",
+        "PCR y análisis de sondas de ADN",
+        "Observación macroscópica de las secreciones",
+        "Prueba de la tuberculina (PPD)"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_016",
+      "q": "En cuanto al tratamiento de las infecciones por adenovirus, ¿cuál es la recomendación actual?",
+      "exp": "Respuesta correcta: A) No existe un tratamiento específico aprobado\nNo existe tratamiento específico aprobado de uso general para adenovirus; el manejo suele ser de soporte.\nAnálisis de las alternativas:\nA) Correcta. No existe un tratamiento específico aprobado coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Uso de antibióticos de amplio espectro de forma profiláctica representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Terapia de reemplazo enzimático nuclear representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Administración inmediata de aciclovir oral representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "No existe un tratamiento específico aprobado",
+        "Uso de antibióticos de amplio espectro de forma profiláctica",
+        "Terapia de reemplazo enzimático nuclear",
+        "Administración inmediata de aciclovir oral"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_017",
+      "q": "¿Qué medida de prevención es fundamental para controlar la propagación de adenovirus en instalaciones recreativas?",
+      "exp": "Respuesta correcta: A) Cloración adecuada de las piscinas\nLa cloración adecuada de piscinas disminuye transmisión en instalaciones recreativas.\nAnálisis de las alternativas:\nA) Correcta. Cloración adecuada de las piscinas coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Vacunación universal de la población civil representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Uso de mascarillas N95 en todas las áreas representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Hervir el agua de las piscinas antes de cada uso representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Cloración adecuada de las piscinas",
+        "Vacunación universal de la población civil",
+        "Uso de mascarillas N95 en todas las áreas",
+        "Hervir el agua de las piscinas antes de cada uso"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_018",
+      "q": "¿Para qué población está disponible la vacuna oral contra los tipos 4 y 7 de adenovirus?",
+      "exp": "Respuesta correcta: B) Personal militar\nLa vacuna oral contra adenovirus 4 y 7 se utiliza principalmente en personal militar.\nAnálisis de las alternativas:\nA) No. Adultos mayores inmunodeprimidos representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Personal militar coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Lactantes y niños pequeños representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Pacientes con cáncer de colon representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Adultos mayores inmunodeprimidos",
+        "Personal militar",
+        "Lactantes y niños pequeños",
+        "Pacientes con cáncer de colon"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_019",
+      "q": "¿Cuál es un uso terapéutico moderno de los adenovirus mencionado en el material?",
+      "exp": "Respuesta correcta: C) Vectores para vacunas contra el Ebola y Covid−19\nAdenovirus se emplea como vector en vacunas modernas, como plataformas para Ebola y Covid-19.\nAnálisis de las alternativas:\nA) No. Desinfección de superficies hospitalarias representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Tratamiento antibiótico para la tuberculosis representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Vectores para vacunas contra el Ebola y Covid−19 coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Producción de insulina recombinante en el páncreas representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Desinfección de superficies hospitalarias",
+        "Tratamiento antibiótico para la tuberculosis",
+        "Vectores para vacunas contra el Ebola y Covid−19",
+        "Producción de insulina recombinante en el páncreas"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_020",
+      "q": "¿En qué momento se inicia la transcripción genética tardía durante el ciclo de replicación de los adenovirus?",
+      "exp": "Respuesta correcta: C) Cuando ha finalizado la replicación del ADN\nLa transcripción tardía inicia después de la replicación del ADN, cuando se producen proteínas estructurales.\nAnálisis de las alternativas:\nA) No. Antes de que se sintetice la polimerasa de ADN representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Inmediatamente después de la entrada del virus a la célula representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Cuando ha finalizado la replicación del ADN coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Simultáneamente con la lisis celular representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Antes de que se sintetice la polimerasa de ADN",
+        "Inmediatamente después de la entrada del virus a la célula",
+        "Cuando ha finalizado la replicación del ADN",
+        "Simultáneamente con la lisis celular"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_05_adenovirus_extra_021",
+      "q": "¿Cómo se liberan los viriones de adenovirus de la célula infectada?",
+      "exp": "Respuesta correcta: C) Lisis celular\nLos adenovirus se liberan principalmente por lisis celular.\nAnálisis de las alternativas:\nA) No. Exocitosis mediante vesículas de transporte representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Paso directo a través de poros nucleares representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Lisis celular coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Gemación a través de la membrana plasmática representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Adenovirus",
+      "options": [
+        "Exocitosis mediante vesículas de transporte",
+        "Paso directo a través de poros nucleares",
+        "Lisis celular",
+        "Gemación a través de la membrana plasmática"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    }
+  ]
+}

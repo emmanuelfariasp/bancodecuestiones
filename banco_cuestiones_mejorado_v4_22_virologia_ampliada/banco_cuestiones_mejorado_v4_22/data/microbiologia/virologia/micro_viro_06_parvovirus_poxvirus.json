@@ -1,0 +1,549 @@
+{
+  "key": "micro_viro_06_parvovirus_poxvirus",
+  "title": "Parvovirus y Poxvirus",
+  "subtitle": "Virología · 38 preguntas · Fuente: Unidad 4.2 PARVOVIRUS Y POXVIRUS.pdf",
+  "questions": [
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_001",
+      "q": "Parvovirus B19 se distingue estructuralmente porque es:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “ADN monocatenario lineal, pequeno y sin envoltura.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: la estructura de parvovirus B19: ADN de cadena simple lineal, muy pequeño y sin envoltura. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “ADN monocatenario lineal, pequeno y sin envoltura.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. El concepto de esta alternativa es “ARN segmentado negativo, envuelto.”: un genoma dividido en segmentos, importante en influenza y rotavirus; permite reorganización si dos cepas infectan la misma célula. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.\nc) No. Esta alternativa se refiere a “ADN bicatenario gigante, envuelto.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.\nd) No. Aquí se está describiendo “ARN positivo helicoidal, sin cápside.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.\ne) No. Esa opción apunta a “ADN circular con transcriptasa inversa.”: la enzima de los retrovirus que transforma ARN viral en ADN para integrarse al genoma celular. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “ADN monocatenario lineal, pequeno y sin envoltura.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "ADN monocatenario lineal, pequeno y sin envoltura.",
+        "ARN segmentado negativo, envuelto.",
+        "ADN bicatenario gigante, envuelto.",
+        "ARN positivo helicoidal, sin cápside.",
+        "ADN circular con transcriptasa inversa."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_002",
+      "q": "El tropismo central del parvovirus B19 explica que destruya principalmente:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Celulas precursoras eritroides.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: células de médula ósea que producen la serie roja; B19 las destruye y puede frenar la eritropoyesis. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. El concepto de esta alternativa es “Neurona de ganglio dorsal.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.\nb) No. Esta alternativa se refiere a “Hepatocito adulto.”: célula hepática donde Plasmodium se multiplica primero tras inoculación por mosquito. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.\nc) Correcta. “Celulas precursoras eritroides.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Esa opción apunta a “Queratinocito cornificado.”: célula epitelial superficial queratinizada; HPV infecta queratinocitos, pero la latencia de VHS es neuronal. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.\ne) No. Lo que menciona esta opción corresponde a “Enterocito ciliado.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Celulas precursoras eritroides.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Neurona de ganglio dorsal.",
+        "Hepatocito adulto.",
+        "Celulas precursoras eritroides.",
+        "Queratinocito cornificado.",
+        "Enterocito ciliado."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_003",
+      "q": "Un paciente con anemia hemolitica crónica desarrolla aplasia transitoria intensa. Qué virus debe considerarse?",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Parvovirus B19.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: virus pequeño ADN monocatenario, tropismo por precursores eritroides; causa eritema infeccioso y crisis aplásica. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Adenovirus ocular.”: virus ADN bicatenario lineal, sin envoltura, con resistencia ambiental y tropismo respiratorio, ocular, digestivo y urinario. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\nb) No. Aquí se está describiendo “Virus rubéola.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\nc) No. Esa opción apunta a “VHH-8.”: herpesvirus humano asociado a sarcoma de Kaposi y otros procesos linfoproliferativos. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\nd) No. Lo que menciona esta opción corresponde a “Rinovirus.”: picornavirus lábil al pH ácido y adaptado a 33 °C, típico de vías respiratorias superiores. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Parvovirus B19.”.\ne) Correcta. “Parvovirus B19.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Adenovirus ocular.",
+        "Virus rubéola.",
+        "VHH-8.",
+        "Rinovirus.",
+        "Parvovirus B19."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_004",
+      "q": "En la evolucion bifasica por B19, el exantema y la artralgia suelen ser:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Mediados por respuesta inmunitaria.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Fase de maxima contagiosidad respiratoria.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.\nb) Correcta. “Mediados por respuesta inmunitaria.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “Debidos a larvas pulmonares.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.\nd) No. El concepto de esta alternativa es “Secuela de infección por poxvirus.”: virus ADN grandes y complejos, con envoltura, que se replican en citoplasma. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.\ne) No. Esta alternativa se refiere a “Resultado de huevos en bilis.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Mediados por respuesta inmunitaria.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Fase de maxima contagiosidad respiratoria.",
+        "Mediados por respuesta inmunitaria.",
+        "Debidos a larvas pulmonares.",
+        "Secuela de infección por poxvirus.",
+        "Resultado de huevos en bilis."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_005",
+      "q": "Durante la primera fase de B19, la contagiosidad se relaciona con:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Viremia y secreciones respiratorias.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: vía por la que B19 se elimina en la fase inicial, febril e infecciosa. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Quistes en heces formadas.”: forma resistente e infectante de muchos protozoarios intestinales, eliminada en heces formadas. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.\nb) No. Lo que menciona esta opción corresponde a “Metacercarias en vegetales.”: forma enquistada infectante de trematodos como Fasciola en vegetación acuática. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.\nc) No. El concepto de esta alternativa es “Mordedura de murcielago.”: vía de exposición típica para rabia u ofidismo según el contexto; el significado depende del agente. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.\nd) Correcta. “Viremia y secreciones respiratorias.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Proglotides en heces.”: una etapa parasitaria o helmíntica. Debe usarse solo cuando coincide con el ciclo biológico del parásito mencionado. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Viremia y secreciones respiratorias.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Quistes en heces formadas.",
+        "Metacercarias en vegetales.",
+        "Mordedura de murcielago.",
+        "Viremia y secreciones respiratorias.",
+        "Proglotides en heces."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_006",
+      "q": "En embarazada, B19 preocupa porque puede provocar:",
+      "exp": "La pregunta está evaluando qué mecanismo explica los signos, complicaciones o manifestaciones clínicas del caso. La opción correcta es “Hidropesia fetal por anemia.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: complicación fetal por B19 por anemia severa e insuficiencia cardíaca fetal. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Lo que menciona esta opción corresponde a “Condiloma acuminado fetal.”: verruga anogenital vinculada típicamente a HPV mucoso de bajo riesgo. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.\nb) No. El concepto de esta alternativa es “Hidrofobia neonatal.”: signo neurológico clásico de rabia por espasmos faríngeos y disfunción del SNC. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.\nc) Correcta. “Hidropesia fetal por anemia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nd) No. Aquí se está describiendo “Megacolon congenito.”: manifestación digestiva crónica de Chagas por denervación intestinal. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.\ne) No. Esa opción apunta a “Quiste hidatidico pulmonar.”: lesión por Echinococcus granulosus; no es manifestación de VHH-8. No debe marcarse porque describe otro cuadro clínico o una complicación que no nace del mecanismo principal del enunciado. En cambio, la respuesta correcta exige reconocer “Hidropesia fetal por anemia.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Condiloma acuminado fetal.",
+        "Hidrofobia neonatal.",
+        "Hidropesia fetal por anemia.",
+        "Megacolon congenito.",
+        "Quiste hidatidico pulmonar."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_007",
+      "q": "Una diferencia importante de poxvirus frente a muchos virus ADN es que:",
+      "exp": "La pregunta está evaluando qué rasgo estructural o paso replicativo pertenece a ese agente y no a otro grupo. La opción correcta es “Replica en el citoplasma.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) Correcta. “Replica en el citoplasma.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nb) No. Esta alternativa se refiere a “No posee ningun genoma.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.\nc) No. Aquí se está describiendo “Necesita eritrocitos maduros.”: células sanguíneas donde Plasmodium realiza ciclo eritrocitario; su ruptura causa paroxismos febriles. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.\nd) No. Esa opción apunta a “Es siempre no envuelto.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.\ne) No. Lo que menciona esta opción corresponde a “Solo se transmite por alimentos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque atribuye al agente una estructura o un paso replicativo de otro grupo, lo que cambia su clasificación. En cambio, la respuesta correcta exige reconocer “Replica en el citoplasma.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Replica en el citoplasma.",
+        "No posee ningun genoma.",
+        "Necesita eritrocitos maduros.",
+        "Es siempre no envuelto.",
+        "Solo se transmite por alimentos."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_008",
+      "q": "Los poxvirus se reconocen como virus:",
+      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Grandes, complejos y de ADN bicatenario.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esta alternativa se refiere a “Pequenos, desnudos y de ARN positivo.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\nb) No. Aquí se está describiendo “Helicoidales en forma de bala.”: morfología clásica del virus rábico. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\nc) No. Esa opción apunta a “Segmentados con neuraminidasa.”: glucoproteína de influenza que facilita la liberación de viriones al cortar ácido siálico. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\nd) No. Lo que menciona esta opción corresponde a “Flagelados con cinetoplasto.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Grandes, complejos y de ADN bicatenario.”.\ne) Correcta. “Grandes, complejos y de ADN bicatenario.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Pequenos, desnudos y de ARN positivo.",
+        "Helicoidales en forma de bala.",
+        "Segmentados con neuraminidasa.",
+        "Flagelados con cinetoplasto.",
+        "Grandes, complejos y de ADN bicatenario."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_009",
+      "q": "La vacuna historica que permitio controlar la viruela se relaciona con:",
+      "exp": "La pregunta está evaluando qué medida actúa sobre el riesgo principal o sobre el agente responsable. La opción correcta es “Vaccinia.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: virus usado históricamente en la vacunación que permitió controlar/erradicar la viruela. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Aquí se está describiendo “Rotavirus.”: virus de diarrea infantil por Reoviridae; no infecta queratinocitos ni produce verrugas. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.\nb) Correcta. “Vaccinia.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\nc) No. Lo que menciona esta opción corresponde a “VEB.”: un dato posible dentro de otra unidad o de otro agente. El problema no es que la frase sea absurda, sino que no responde al mecanismo específico que pide este enunciado. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.\nd) No. El concepto de esta alternativa es “Toxoplasma.”: protozoo apicomplejo; felinos son hospedadores definitivos y humanos se infectan por ooquistes o quistes tisulares. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.\ne) No. Esta alternativa se refiere a “Schistosoma.”: trematodo sanguíneo cuyas cercarias penetran activamente la piel y cuyos huevos causan inflamación. No debe marcarse porque no actúa sobre el riesgo o mecanismo principal; sería útil en otro problema, pero no en este. En cambio, la respuesta correcta exige reconocer “Vaccinia.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Rotavirus.",
+        "Vaccinia.",
+        "VEB.",
+        "Toxoplasma.",
+        "Schistosoma."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_010",
+      "q": "Molluscum contagiosum se debe ubicar dentro del grupo de:",
+      "exp": "La pregunta está evaluando cómo entra el agente al humano, qué forma participa o qué vector/hospedador interviene. La opción correcta es “Poxvirus.” porque, dentro de UNIDAD 4.2 - Parvovirus y Poxvirus, ese dato encaja con el tema de virología: virus ADN grandes y complejos, con envoltura, que se replican en citoplasma. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Parvovirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.\nb) No. Lo que menciona esta opción corresponde a “Flavivirus.”: una descripción viral general. Para ser correcta debe coincidir con el virus concreto del enunciado, porque cada familia viral tiene genoma, envoltura y replicación propios. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.\nc) No. El concepto de esta alternativa es “Cestodos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.\nd) Correcta. “Poxvirus.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.\ne) No. Aquí se está describiendo “Trematodos.”: una afirmación absoluta. En microbiología, esos enunciados suelen fallar si el material describe excepciones, tropismos o situaciones dependientes del contexto. No debe marcarse porque modifica la vía de entrada o cambia la forma infectante/vector por otro ciclo biológico. En cambio, la respuesta correcta exige reconocer “Poxvirus.”.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Parvovirus.",
+        "Flavivirus.",
+        "Cestodos.",
+        "Poxvirus.",
+        "Trematodos."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_001",
+      "q": "¿Cuál es la característica estructural distintiva que define a los parvovirus dentro de los virus de ADN?",
+      "exp": "Respuesta correcta: D) Son los virus de ADN de menor tamaño y poseen ADN monocatenario lineal.\nParvovirus son los virus ADN más pequeños y tienen ADN monocatenario lineal.\nAnálisis de las alternativas:\nA) No. Su replicación es exclusivamente citoplasmática. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Presentan una cápside icosaédrica con envoltura lipídica. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Poseen un genoma de ADN bicatenario circular. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Son los virus de ADN de menor tamaño y poseen ADN monocatenario lineal. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Su replicación es exclusivamente citoplasmática.",
+        "Presentan una cápside icosaédrica con envoltura lipídica.",
+        "Poseen un genoma de ADN bicatenario circular.",
+        "Son los virus de ADN de menor tamaño y poseen ADN monocatenario lineal."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_002",
+      "q": "Durante el ciclo de replicación del parvovirus B19, ¿qué paso es indispensable para que ocurra la transcripción y replicación del genoma vírico?",
+      "exp": "Respuesta correcta: D) La síntesis de una cadena complementaria para formar ADN bicatenario.\nPara replicarse, el parvovirus necesita formar una cadena complementaria y convertir su genoma en ADN bicatenario funcional.\nAnálisis de las alternativas:\nA) No. La integración del genoma vírico en el ADN celular. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. La formación de un intermediario de ARN de polaridad negativa. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. La salida del núcleo hacia el citoplasma para el ensamblaje del virión. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. La síntesis de una cadena complementaria para formar ADN bicatenario. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "La integración del genoma vírico en el ADN celular.",
+        "La formación de un intermediario de ARN de polaridad negativa.",
+        "La salida del núcleo hacia el citoplasma para el ensamblaje del virión.",
+        "La síntesis de una cadena complementaria para formar ADN bicatenario."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_003",
+      "q": "En la evolución bifásica de la infección por B19, ¿cuál es el evento fisiopatológico central de la primera fase (fase febril)?",
+      "exp": "Respuesta correcta: D) Una intensa viremia y la destrucción lítica de precursores eritroides.\nLa primera fase de B19 se caracteriza por viremia intensa y destrucción lítica de precursores eritroides.\nAnálisis de las alternativas:\nA) No. La aparición del exantema en 'mejilla abofeteada' por inmunocomplejos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. El desarrollo de poliartritis crónica en pacientes pediátricos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. La producción masiva de anticuerpos IgG específicos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Una intensa viremia y la destrucción lítica de precursores eritroides. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "La aparición del exantema en 'mejilla abofeteada' por inmunocomplejos.",
+        "El desarrollo de poliartritis crónica en pacientes pediátricos.",
+        "La producción masiva de anticuerpos IgG específicos.",
+        "Una intensa viremia y la destrucción lítica de precursores eritroides."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_004",
+      "q": "¿Por qué un paciente con eritema infeccioso (quinta enfermedad) ya no se considera contagioso al momento de aparecer el exantema?",
+      "exp": "Respuesta correcta: A) Porque el exantema es una manifestación inmunológica posterior a la viremia.\nEl exantema del eritema infeccioso aparece cuando la viremia ya disminuyó y predomina la respuesta inmunitaria.\nAnálisis de las alternativas:\nA) Correcta. Porque el exantema es una manifestación inmunológica posterior a la viremia. coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Porque el descenso de la hemoglobina impide la replicación viral. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Porque el virus ha mutado a una forma no patógena. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Porque el virus solo se transmite a través de las costras del exantema. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Porque el exantema es una manifestación inmunológica posterior a la viremia.",
+        "Porque el descenso de la hemoglobina impide la replicación viral.",
+        "Porque el virus ha mutado a una forma no patógena.",
+        "Porque el virus solo se transmite a través de las costras del exantema."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_005",
+      "q": "En adultos infectados por parvovirus B19, ¿cuál es la manifestación clínica que predomina sobre el exantema cutáneo?",
+      "exp": "Respuesta correcta: D) Poliartritis y artralgias que pueden durar semanas o meses.\nEn adultos, B19 se manifiesta con frecuencia como artralgias o poliartritis prolongada más que como exantema típico infantil.\nAnálisis de las alternativas:\nA) No. Crisis aplásica aguda de forma universal. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Bronquiolitis grave y dificultad respiratoria. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Formación de nódulos umbilicados en los genitales. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Poliartritis y artralgias que pueden durar semanas o meses. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Crisis aplásica aguda de forma universal.",
+        "Bronquiolitis grave y dificultad respiratoria.",
+        "Formación de nódulos umbilicados en los genitales.",
+        "Poliartritis y artralgias que pueden durar semanas o meses."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_006",
+      "q": "¿Cuál es la complicación más grave de la infección por parvovirus B19 en pacientes con anemia hemolítica crónica?",
+      "exp": "Respuesta correcta: B) Crisis aplásica debida al agotamiento de precursores eritrocitarios.\nEn anemia hemolítica crónica, B19 puede causar crisis aplásica por agotamiento transitorio de precursores eritrocitarios.\nAnálisis de las alternativas:\nA) No. Desarrollo de malformaciones congénitas cardíacas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Crisis aplásica debida al agotamiento de precursores eritrocitarios. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Insuficiencia hepática fulminante por viremia secundaria. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Eritema infeccioso recidivante. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Desarrollo de malformaciones congénitas cardíacas.",
+        "Crisis aplásica debida al agotamiento de precursores eritrocitarios.",
+        "Insuficiencia hepática fulminante por viremia secundaria.",
+        "Eritema infeccioso recidivante."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_007",
+      "q": "¿Qué riesgo enfrentan las mujeres embarazadas seronegativas ante una infección por parvovirus B19?",
+      "exp": "Respuesta correcta: C) Riesgo de muerte fetal por anemia e insuficiencia cardíaca (hidropesía fetal).\nEn embarazadas seronegativas, B19 puede causar anemia fetal grave, insuficiencia cardíaca e hidropesía fetal.\nAnálisis de las alternativas:\nA) No. Ninguno, ya que el virus no atraviesa la placenta. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Desarrollo inmediato de molusco contagioso gestacional. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Riesgo de muerte fetal por anemia e insuficiencia cardíaca (hidropesía fetal). coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Transmisión de inmunidad pasiva al feto sin riesgos asociados. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Ninguno, ya que el virus no atraviesa la placenta.",
+        "Desarrollo inmediato de molusco contagioso gestacional.",
+        "Riesgo de muerte fetal por anemia e insuficiencia cardíaca (hidropesía fetal).",
+        "Transmisión de inmunidad pasiva al feto sin riesgos asociados."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_008",
+      "q": "¿Cuál es la principal diferencia epidemiológica entre el parvovirus B19 y el bocavirus?",
+      "exp": "Respuesta correcta: C) El bocavirus se asocia con enfermedades respiratorias y se transmite también por las heces.\nEl bocavirus se relaciona con enfermedad respiratoria y también puede transmitirse por heces, diferenciándose epidemiológicamente de B19.\nAnálisis de las alternativas:\nA) No. El B19 afecta a animales domésticos y el bocavirus solo a humanos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. El B19 tiene vacuna disponible y el bocavirus no. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. El bocavirus se asocia con enfermedades respiratorias y se transmite también por las heces. coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. El B19 es un virus de ARN y el bocavirus es de ADN. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "El B19 afecta a animales domésticos y el bocavirus solo a humanos.",
+        "El B19 tiene vacuna disponible y el bocavirus no.",
+        "El bocavirus se asocia con enfermedades respiratorias y se transmite también por las heces.",
+        "El B19 es un virus de ARN y el bocavirus es de ADN."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_009",
+      "q": "Respecto a los poxvirus, ¿cuál es el sitio celular donde completan su ciclo de replicación, a diferencia de la mayoría de los virus de ADN?",
+      "exp": "Respuesta correcta: A) En el citoplasma.\nLos poxvirus replican en el citoplasma, a diferencia de la mayoría de virus ADN que replican en el núcleo.\nAnálisis de las alternativas:\nA) Correcta. En el citoplasma. coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. En la membrana plasmática. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. En el nucleolo celular. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. En las mitocondrias. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "En el citoplasma.",
+        "En la membrana plasmática.",
+        "En el nucleolo celular.",
+        "En las mitocondrias."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_010",
+      "q": "En la patogenia de la viruela humana, ¿qué evento sigue a la viremia secundaria?",
+      "exp": "Respuesta correcta: B) La erupción de pústulas características en la piel y mucosas.\nTras la viremia secundaria de viruela aparecen pústulas características en piel y mucosas.\nAnálisis de las alternativas:\nA) No. La desaparición inmediata de los síntomas sistémicos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. La erupción de pústulas características en la piel y mucosas. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. La inmunización automática contra el parvovirus B19. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. La formación de inclusiones citoplasmáticas denominadas cuerpos de Molluscum. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "La desaparición inmediata de los síntomas sistémicos.",
+        "La erupción de pústulas características en la piel y mucosas.",
+        "La inmunización automática contra el parvovirus B19.",
+        "La formación de inclusiones citoplasmáticas denominadas cuerpos de Molluscum."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_011",
+      "q": "¿Cuál es el reservorio natural de la viruela del mono (Mpox) y cómo se clasifica su transmisión al ser humano?",
+      "exp": "Respuesta correcta: C) Se encuentra en animales (monos, ardillas) y es una zoonosis.\nMpox es una zoonosis con reservorio animal, incluyendo monos y ardillas en el material.\nAnálisis de las alternativas:\nA) No. Es un producto de laboratorio usado para vacunas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Su reservorio son las aves migratorias y es una infección vectorial. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Se encuentra en animales (monos, ardillas) y es una zoonosis. coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Es un virus exclusivo de humanos transmitido por el aire. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Es un producto de laboratorio usado para vacunas.",
+        "Su reservorio son las aves migratorias y es una infección vectorial.",
+        "Se encuentra en animales (monos, ardillas) y es una zoonosis.",
+        "Es un virus exclusivo de humanos transmitido por el aire."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_012",
+      "q": "¿Cuál es la morfología característica de las lesiones producidas por el virus del Molusco Contagioso?",
+      "exp": "Respuesta correcta: D) Nódulos umbilicados con un tapón caseoso central.\nEl molusco contagioso produce nódulos umbilicados con tapón caseoso central.\nAnálisis de las alternativas:\nA) No. Exantema maculopapular difuso en 'encaje'. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Vesículas transparentes que siguen el trayecto de un nervio. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Pústulas hemorrágicas que dejan cicatrices profundas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Nódulos umbilicados con un tapón caseoso central. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Exantema maculopapular difuso en 'encaje'.",
+        "Vesículas transparentes que siguen el trayecto de un nervio.",
+        "Pústulas hemorrágicas que dejan cicatrices profundas.",
+        "Nódulos umbilicados con un tapón caseoso central."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_013",
+      "q": "En el diagnóstico de laboratorio del molusco contagioso, ¿qué hallazgo histopatológico es determinante?",
+      "exp": "Respuesta correcta: A) Presencia de grandes inclusiones citoplásmicas eosinofílicas (cuerpos de Molluscum).\nLos cuerpos de Molluscum son inclusiones citoplasmáticas eosinofílicas características del molusco contagioso.\nAnálisis de las alternativas:\nA) Correcta. Presencia de grandes inclusiones citoplásmicas eosinofílicas (cuerpos de Molluscum). coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Presencia de anticuerpos IgM contra el antígeno eritrocitario P. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Aislamiento de linfocitos CD4 bajos en sangre periférica. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Detección de ADN monocatenario mediante PCR. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Presencia de grandes inclusiones citoplásmicas eosinofílicas (cuerpos de Molluscum).",
+        "Presencia de anticuerpos IgM contra el antígeno eritrocitario P.",
+        "Aislamiento de linfocitos CD4 bajos en sangre periférica.",
+        "Detección de ADN monocatenario mediante PCR."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_014",
+      "q": "¿Cómo se transmiten comúnmente las zoonosis por poxvirus como el Orf y la viruela bovina?",
+      "exp": "Respuesta correcta: A) Por contacto directo con lesiones de animales infectados (ovejas, vacas).\nOrf y viruela bovina se transmiten por contacto directo con lesiones de animales infectados.\nAnálisis de las alternativas:\nA) Correcta. Por contacto directo con lesiones de animales infectados (ovejas, vacas). coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Por la picadura de garrapatas infectadas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. A través del consumo de leche no pasteurizada. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Por inhalación de polvo contaminado en establos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Por contacto directo con lesiones de animales infectados (ovejas, vacas).",
+        "Por la picadura de garrapatas infectadas.",
+        "A través del consumo de leche no pasteurizada.",
+        "Por inhalación de polvo contaminado en establos."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_015",
+      "q": "Un niño de 18 meses presenta bronquiolitis y síntomas de infección respiratoria grave. Se detecta un parvovirus en sus secreciones. ¿Cuál es el agente más probable?",
+      "exp": "Respuesta correcta: C) Bocavirus.\nEl bocavirus es un parvovirus asociado a bronquiolitis e infección respiratoria en lactantes.\nAnálisis de las alternativas:\nA) No. Virus del Molusco Contagioso. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Virus Orf. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Bocavirus. coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Parvovirus B19. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Virus del Molusco Contagioso.",
+        "Virus Orf.",
+        "Bocavirus.",
+        "Parvovirus B19."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_016",
+      "q": "¿Cuál de las siguientes afirmaciones sobre la prevención del parvovirus humano es correcta según el material?",
+      "exp": "Respuesta correcta: B) El lavado de manos y el uso de tapabocas ayudan a prevenir la diseminación.\nLavado de manos y tapabocas reducen la transmisión respiratoria de parvovirus humano.\nAnálisis de las alternativas:\nA) No. La vacunación sistemática en la infancia es el método principal. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. El lavado de manos y el uso de tapabocas ayudan a prevenir la diseminación. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. El uso de preservativos garantiza la eliminación del riesgo de contagio de B19. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Las vacunas para perros y gatos protegen también a los humanos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "La vacunación sistemática en la infancia es el método principal.",
+        "El lavado de manos y el uso de tapabocas ayudan a prevenir la diseminación.",
+        "El uso de preservativos garantiza la eliminación del riesgo de contagio de B19.",
+        "Las vacunas para perros y gatos protegen también a los humanos."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_017",
+      "q": "¿Qué factor puede exacerbar o provocar la recurrencia del exantema en la quinta enfermedad durante varias semanas?",
+      "exp": "Respuesta correcta: B) La exposición a la luz solar, calor o ejercicio físico.\nLuz solar, calor o ejercicio pueden exacerbar o hacer reaparecer el exantema de quinta enfermedad.\nAnálisis de las alternativas:\nA) No. El tratamiento con antibióticos de amplio espectro. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. La exposición a la luz solar, calor o ejercicio físico. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. El consumo de alimentos ácidos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. La reinfección inmediata por el mismo serotipo del virus. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "El tratamiento con antibióticos de amplio espectro.",
+        "La exposición a la luz solar, calor o ejercicio físico.",
+        "El consumo de alimentos ácidos.",
+        "La reinfección inmediata por el mismo serotipo del virus."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_018",
+      "q": "En el contexto de la viruela del mono (Mpox), ¿cuándo se considera que una persona deja de ser infecciosa?",
+      "exp": "Respuesta correcta: C) Cuando las lesiones se han cubierto de costras, estas han caído y hay piel nueva debajo.\nEn Mpox, la persona deja de ser infecciosa cuando las costras caen y se forma piel nueva.\nAnálisis de las alternativas:\nA) No. A los 5 días de iniciado el tratamiento con Cidofovir. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Inmediatamente después de recibir la vacuna post-exposición. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Cuando las lesiones se han cubierto de costras, estas han caído y hay piel nueva debajo. coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. En cuanto desaparece la fiebre inicial. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "A los 5 días de iniciado el tratamiento con Cidofovir.",
+        "Inmediatamente después de recibir la vacuna post-exposición.",
+        "Cuando las lesiones se han cubierto de costras, estas han caído y hay piel nueva debajo.",
+        "En cuanto desaparece la fiebre inicial."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_019",
+      "q": "¿Cuál es la causa del exantema y la artralgia en la segunda fase de la infección por parvovirus B19?",
+      "exp": "Respuesta correcta: B) La respuesta inmunitaria y el depósito de complejos antígeno-anticuerpo.\nEl exantema y artralgias de B19 se explican por respuesta inmunitaria y depósitos de complejos antígeno-anticuerpo.\nAnálisis de las alternativas:\nA) No. La toxicidad sistémica por la liberación de hemoglobina fetal. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. La respuesta inmunitaria y el depósito de complejos antígeno-anticuerpo. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Una sobreinfección bacteriana oportunista en la piel. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. La replicación viral directa en los sinoviocitos y queratinocitos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "La toxicidad sistémica por la liberación de hemoglobina fetal.",
+        "La respuesta inmunitaria y el depósito de complejos antígeno-anticuerpo.",
+        "Una sobreinfección bacteriana oportunista en la piel.",
+        "La replicación viral directa en los sinoviocitos y queratinocitos."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_020",
+      "q": "De acuerdo con la clasificación de los poxvirus, ¿cuál de ellos se asocia con el 'Nódulo del Milker'?",
+      "exp": "Respuesta correcta: C) Seudoviruela bovina.\nEl nódulo del Milker se asocia a seudoviruela bovina, un parapoxvirus ocupacional.\nAnálisis de las alternativas:\nA) No. Virus Vaccinia. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Virus de la estomatitis papulosa bovina. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Seudoviruela bovina. coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Viruela de Tana. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Virus Vaccinia.",
+        "Virus de la estomatitis papulosa bovina.",
+        "Seudoviruela bovina.",
+        "Viruela de Tana."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_021",
+      "q": "En el caso clínico presentado, ¿por qué la madre presentaba cansancio y dolor articular mientras la hija solo tenía el exantema facial?",
+      "exp": "Respuesta correcta: B) Porque el B19 produce síntomas diferentes según la edad (artritis en adultos vs exantema en niños).\nB19 produce expresiones clínicas distintas según la edad: exantema en niños y artralgias/artritis en adultos.\nAnálisis de las alternativas:\nA) No. Porque la madre padecía una enfermedad autoinmune no relacionada. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Porque el B19 produce síntomas diferentes según la edad (artritis en adultos vs exantema en niños). coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Porque el virus B19 muta al pasar de niño a adulto. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Porque la madre estaba en la fase infecciosa y la hija en la fase prodrómica. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Porque la madre padecía una enfermedad autoinmune no relacionada.",
+        "Porque el B19 produce síntomas diferentes según la edad (artritis en adultos vs exantema en niños).",
+        "Porque el virus B19 muta al pasar de niño a adulto.",
+        "Porque la madre estaba en la fase infecciosa y la hija en la fase prodrómica."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_022",
+      "q": "¿Qué característica genómica comparten los virus de las familias Parvoviridae y Poxviridae según el material?",
+      "exp": "Respuesta correcta: B) Ambos son virus cuyo material genético principal es el ADN.\nParvoviridae y Poxviridae comparten ser virus cuyo material genético principal es ADN.\nAnálisis de las alternativas:\nA) No. Ambos son virus con genoma de ADN monocatenario. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Ambos son virus cuyo material genético principal es el ADN. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Ambos requieren una enzima retrotranscriptasa para replicarse. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Ambos poseen genomas de ADN de gran tamaño. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Ambos son virus con genoma de ADN monocatenario.",
+        "Ambos son virus cuyo material genético principal es el ADN.",
+        "Ambos requieren una enzima retrotranscriptasa para replicarse.",
+        "Ambos poseen genomas de ADN de gran tamaño."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_023",
+      "q": "¿Cómo se pueden eliminar físicamente los nódulos del molusco contagioso para acelerar la curación?",
+      "exp": "Respuesta correcta: A) Raspado (curetaje), nitrógeno líquido o soluciones de yodo.\nLos nódulos de molusco pueden eliminarse por curetaje, nitrógeno líquido o soluciones de yodo para acelerar curación.\nAnálisis de las alternativas:\nA) Correcta. Raspado (curetaje), nitrógeno líquido o soluciones de yodo. coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Mediante la aplicación de ungüentos antibióticos potentes. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Aspiración con aguja fina del contenido caseoso. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Exposición prolongada a la luz ultravioleta. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Raspado (curetaje), nitrógeno líquido o soluciones de yodo.",
+        "Mediante la aplicación de ungüentos antibióticos potentes.",
+        "Aspiración con aguja fina del contenido caseoso.",
+        "Exposición prolongada a la luz ultravioleta."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_024",
+      "q": "¿Cuál es la tasa de mortalidad aproximada asociada a la Viruela Mayor?",
+      "exp": "Respuesta correcta: A) Entre el 15% y el 40%.\nLa viruela mayor tuvo una mortalidad alta, aproximadamente entre 15% y 40%.\nAnálisis de las alternativas:\nA) Correcta. Entre el 15% y el 40%. coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Exactamente el 50% debido a la respuesta inmunitaria. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Menos del 1%. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Casi del 100% en todos los casos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Entre el 15% y el 40%.",
+        "Exactamente el 50% debido a la respuesta inmunitaria.",
+        "Menos del 1%.",
+        "Casi del 100% en todos los casos."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_025",
+      "q": "¿Qué síntoma inicial e inespecífico caracteriza el 'periodo prodrómico' del parvovirus B19?",
+      "exp": "Respuesta correcta: B) Fiebre, escalofríos, malestar y mialgias.\nEl período prodrómico de B19 incluye fiebre, escalofríos, malestar y mialgias.\nAnálisis de las alternativas:\nA) No. Anemia hemolítica súbita en pacientes sanos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Fiebre, escalofríos, malestar y mialgias. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Descamación severa de las palmas de las manos. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Cefalea intensa y lumbalgia de tipo pustuloso. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Anemia hemolítica súbita en pacientes sanos.",
+        "Fiebre, escalofríos, malestar y mialgias.",
+        "Descamación severa de las palmas de las manos.",
+        "Cefalea intensa y lumbalgia de tipo pustuloso."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_026",
+      "q": "¿En qué región anatómica suele aparecer primero el exantema de la viruela antes de extenderse al resto del cuerpo?",
+      "exp": "Respuesta correcta: D) En la cavidad bucal.\nEn viruela, el exantema puede iniciar en la cavidad bucal antes de extenderse a piel.\nAnálisis de las alternativas:\nA) No. En el área genital únicamente. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Exclusivamente en las mejillas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. En las plantas de los pies. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. En la cavidad bucal. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "En el área genital únicamente.",
+        "Exclusivamente en las mejillas.",
+        "En las plantas de los pies.",
+        "En la cavidad bucal."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_027",
+      "q": "En pacientes inmunodeprimidos, ¿qué curso suele tomar la infección por parvovirus B19?",
+      "exp": "Respuesta correcta: D) Enfermedad crónica por incapacidad de aclarar la viremia.\nEn inmunodeprimidos, B19 puede hacerse crónico por incapacidad de aclarar la viremia.\nAnálisis de las alternativas:\nA) No. Transformación maligna de los precursores eritroides (leucemia). representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Infección latente en las neuronas sensitivas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Resolución acelerada por hiperactividad inmune. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Enfermedad crónica por incapacidad de aclarar la viremia. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Transformación maligna de los precursores eritroides (leucemia).",
+        "Infección latente en las neuronas sensitivas.",
+        "Resolución acelerada por hiperactividad inmune.",
+        "Enfermedad crónica por incapacidad de aclarar la viremia."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_06_parvovirus_poxvirus_extra_028",
+      "q": "¿Qué característica del genoma de los parvovirus hace que su replicación sea dependiente de la fase S del ciclo celular de la célula huésped?",
+      "exp": "Respuesta correcta: B) La necesidad de polimerasas de ADN celulares que solo se expresan durante la división.\nLa dependencia de fase S se debe a que parvovirus requiere polimerasas celulares de ADN activas durante la división celular.\nAnálisis de las alternativas:\nA) No. Su gran tamaño requiere mucha energía mitocondrial. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. La necesidad de polimerasas de ADN celulares que solo se expresan durante la división. coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. La presencia de una envoltura que se disuelve con el huso mitótico. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Su capacidad para inducir apoptosis en células en reposo. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Parvovirus y Poxvirus",
+      "options": [
+        "Su gran tamaño requiere mucha energía mitocondrial.",
+        "La necesidad de polimerasas de ADN celulares que solo se expresan durante la división.",
+        "La presencia de una envoltura que se disuelve con el huso mitótico.",
+        "Su capacidad para inducir apoptosis en células en reposo."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    }
+  ]
+}
