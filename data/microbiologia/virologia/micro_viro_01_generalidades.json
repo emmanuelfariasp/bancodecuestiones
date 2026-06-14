@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_01_generalidades",
   "title": "Generalidades de Virología",
-  "subtitle": "Virología · 10 preguntas · Fuente: UNIDAD 1 - Generalidades (1).pdf",
+  "subtitle": "Virología · 21 preguntas · Fuente: UNIDAD 1 - Generalidades (1).pdf",
   "questions": [
     {
       "id": "micro_viro_01_generalidades_001",
@@ -151,6 +151,160 @@
         "Clases de antibioticos betalactamicos."
       ],
       "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_001",
+      "q": "¿Cuál es una característica fundamental de los genomas víricos según su composición de ácidos nucleicos?",
+      "exp": "Respuesta correcta: A) Contienen ADN o ARN, pero no ambos tipos de ácido nucleico.\nLos virus poseen un solo tipo de ácido nucleico como genoma: ADN o ARN. Esa regla permite clasificarlos y evita confundir material genómico con intermediarios de replicación.\nAnálisis de las alternativas:\nA) Correcta. Contienen ADN o ARN, pero no ambos tipos de ácido nucleico. coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Carecen de ácido nucleico y se replican mediante proteínas estructurales. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Pueden contener tanto ADN como ARN en una misma partícula. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. El genoma siempre es una cadena doble de ADN circular. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Contienen ADN o ARN, pero no ambos tipos de ácido nucleico.",
+        "Carecen de ácido nucleico y se replican mediante proteínas estructurales.",
+        "Pueden contener tanto ADN como ARN en una misma partícula.",
+        "El genoma siempre es una cadena doble de ADN circular."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_002",
+      "q": "¿Qué unidad de medida se utiliza habitualmente para determinar el tamaño de un virión?",
+      "exp": "Respuesta correcta: A) Nanómetros (nm)\nEl tamaño de los viriones se expresa habitualmente en nanómetros porque son partículas submicroscópicas, menores que bacterias y células eucariotas.\nAnálisis de las alternativas:\nA) Correcta. Nanómetros (nm) coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Micrómetros (μm) representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Milímetros (mm) representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Angstroms (A˚) representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Nanómetros (nm)",
+        "Micrómetros (μm)",
+        "Milímetros (mm)",
+        "Angstroms (A˚)"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_003",
+      "q": "Se define como nucleocápside a la estructura formada por:",
+      "exp": "Respuesta correcta: D) El ácido nucleico asociado a la cápside proteica.\nLa nucleocápside es el conjunto formado por el ácido nucleico viral y la cápside proteica que lo rodea.\nAnálisis de las alternativas:\nA) No. La envoltura lipídica y las glucoproteínas externas. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. El conjunto de capsómeros antes de unirse al genoma. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. La membrana plasmática de la célula que rodea al virus. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. El ácido nucleico asociado a la cápside proteica. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "La envoltura lipídica y las glucoproteínas externas.",
+        "El conjunto de capsómeros antes de unirse al genoma.",
+        "La membrana plasmática de la célula que rodea al virus.",
+        "El ácido nucleico asociado a la cápside proteica."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_004",
+      "q": "¿En qué lugar de la célula hospedadora ocurre generalmente la replicación de los virus ADN?",
+      "exp": "Respuesta correcta: A) Núcleo\nLa mayoría de los virus ADN replica su genoma en el núcleo, porque allí utiliza o imita mecanismos celulares de síntesis de ADN.\nAnálisis de las alternativas:\nA) Correcta. Núcleo coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Retículo endoplásmico representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Aparato de Golgi representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Citoplasma representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Núcleo",
+        "Retículo endoplásmico",
+        "Aparato de Golgi",
+        "Citoplasma"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_005",
+      "q": "¿Qué término describe el periodo en el que un virus está presente en el cuerpo pero en estado de reposo, sin multiplicarse ni producir síntomas?",
+      "exp": "Respuesta correcta: C) Periodo de latencia\nLa latencia describe la permanencia del virus en reposo, sin replicación productiva ni síntomas evidentes, con posibilidad de reactivación posterior.\nAnálisis de las alternativas:\nA) No. Infección lítica representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Periodo de eclipse representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Periodo de latencia coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Fase prodrómica representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Infección lítica",
+        "Periodo de eclipse",
+        "Periodo de latencia",
+        "Fase prodrómica"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_006",
+      "q": "En el contexto de la citopatogenia, una infección transformadora se caracteriza por:",
+      "exp": "Respuesta correcta: D) La integración o persistencia del virus que induce una proliferación celular descontrolada.\nLa infección transformadora implica persistencia o integración de material viral capaz de alterar el control del ciclo celular y favorecer proliferación descontrolada.\nAnálisis de las alternativas:\nA) No. La replicación viral continua a niveles muy bajos sin matar la célula. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. El fracaso total de la entrada del virus a la célula diana. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. La muerte rápida de la célula por lisis. representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. La integración o persistencia del virus que induce una proliferación celular descontrolada. coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "La replicación viral continua a niveles muy bajos sin matar la célula.",
+        "El fracaso total de la entrada del virus a la célula diana.",
+        "La muerte rápida de la célula por lisis.",
+        "La integración o persistencia del virus que induce una proliferación celular descontrolada."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_007",
+      "q": "¿Cuál es el mecanismo de liberación más común para los virus que poseen envoltura?",
+      "exp": "Respuesta correcta: C) Gemación\nLos virus envueltos suelen salir por gemación, tomando parte de membranas celulares como envoltura.\nAnálisis de las alternativas:\nA) No. Difusión simple representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Lisis celular representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Gemación coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Endocitosis inversa representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Difusión simple",
+        "Lisis celular",
+        "Gemación",
+        "Endocitosis inversa"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_008",
+      "q": "¿Qué familia de virus posee un genoma de ARN segmentado y causa la gripe?",
+      "exp": "Respuesta correcta: D) Orthomyxoviridae\nOrthomyxoviridae incluye los virus influenza, que poseen genoma de ARN segmentado y causan la gripe.\nAnálisis de las alternativas:\nA) No. Picornaviridae representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Coronaviridae representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Retroviridae representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) Correcta. Orthomyxoviridae coincide con el dato central del enunciado y con la clase correspondiente.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Picornaviridae",
+        "Coronaviridae",
+        "Retroviridae",
+        "Orthomyxoviridae"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_009",
+      "q": "¿Cuál de las siguientes técnicas se considera el estándar actual para detectar genomas de ARN viral?",
+      "exp": "Respuesta correcta: C) RT-PCR (PCR con transcriptasa inversa)\nLa RT-PCR es el método molecular estándar para detectar genomas de ARN viral porque primero convierte ARN en ADN complementario y luego lo amplifica.\nAnálisis de las alternativas:\nA) No. Hibridación in situ (FISH) representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Microscopía electrónica representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. RT-PCR (PCR con transcriptasa inversa) coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. PCR convencional representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Hibridación in situ (FISH)",
+        "Microscopía electrónica",
+        "RT-PCR (PCR con transcriptasa inversa)",
+        "PCR convencional"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_010",
+      "q": "¿Cuál de estos virus es un ejemplo de virus ADN con cápside desnuda (sin envoltura)?",
+      "exp": "Respuesta correcta: B) Adenovirus\nAdenovirus es un virus ADN sin envoltura; por eso tiene cápside desnuda y buena resistencia ambiental.\nAnálisis de las alternativas:\nA) No. Herpesvirus representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) Correcta. Adenovirus coincide con el dato central del enunciado y con la clase correspondiente.\nC) No. Hepadnavirus representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Poxvirus representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Herpesvirus",
+        "Adenovirus",
+        "Hepadnavirus",
+        "Poxvirus"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_01_generalidades_extra_011",
+      "q": "Los síntomas iniciales e inespecíficos como fiebre, cefalea o dolor corporal que preceden a los síntomas graves se denominan:",
+      "exp": "Respuesta correcta: C) Pródromos\nLos pródromos son síntomas iniciales inespecíficos, como fiebre o malestar, que preceden a manifestaciones más características.\nAnálisis de las alternativas:\nA) No. Recidiva representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Viremia representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Pródromos coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Resolución representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "topic": "Virología - Generalidades",
+      "options": [
+        "Recidiva",
+        "Viremia",
+        "Pródromos",
+        "Resolución"
+      ],
+      "answer": 2,
       "keepOptionOrder": true
     }
   ]

@@ -79,3 +79,11 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Agrega Microbiología al menú principal.
 - Microbiología se divide en Virología, Parasitología, Artrópodos y Serpientes.
 - Incluye 230 preguntas del PDF de Microbiología II, con 10 preguntas por clase y explicaciones detalladas.
+
+
+## V4.22
+
+- Agrega nuevas preguntas del archivo `Banco de cuestiones virus.pdf` en Virología.
+- Combina los bloques de Herpes simple/Varicela-Zóster y VEB/CMV/VHH en un único bloque de Herpesvirus.
+- Microbiología queda con 338 preguntas; Virología queda con 228 preguntas en 11 clases.
+- Mantiene explicaciones detalladas al responder.
