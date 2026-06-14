@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_10_rhabdovirus",
   "title": "Rhabdovirus",
-  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 8 Rhabdovirus.pdf",
+  "subtitle": "Virología · 30 preguntas · Fuente: Unidad 8 Rhabdovirus.pdf",
   "questions": [
     {
       "id": "micro_viro_10_rhabdovirus_001",
@@ -149,6 +149,286 @@
         "Protozoos con flebotomo vector.",
         "Cestodos por carne bovina.",
         "Trematodos con caracol Lymnaea."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_011",
+      "q": "¿Cuál es la característica estructural que define la forma del virión de la familia Rhabdoviridae?",
+      "exp": "La respuesta correcta es B) Morfología en forma de bala con envoltura lipídica.\nEl virus de la rabia, Rhabdoviridae, es un virus envuelto con morfología clásica en forma de bala.\n\nAnálisis de las alternativas:\nA) No. Cápside filamentosa de gran longitud sin envoltura. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Morfología en forma de bala con envoltura lipídica. responde directamente al dato clave solicitado en el enunciado.\nC) No. Forma pleomórfica con genoma de ADN bicatenario. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Estructura icosaédrica desnuda con espículas de glucoproteína. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Cápside filamentosa de gran longitud sin envoltura.",
+        "Morfología en forma de bala con envoltura lipídica.",
+        "Forma pleomórfica con genoma de ADN bicatenario.",
+        "Estructura icosaédrica desnuda con espículas de glucoproteína."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_012",
+      "q": "¿En qué compartimento celular tiene lugar la replicación del virus de la rabia?",
+      "exp": "La respuesta correcta es A) Citoplasma de la célula hospedadora.\nEl virus rábico es un virus ARN negativo que replica en el citoplasma.\n\nAnálisis de las alternativas:\nA) Correcta. Citoplasma de la célula hospedadora. responde directamente al dato clave solicitado en el enunciado.\nB) No. Asociado exclusivamente a la membrana citoplasmática. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Dentro de las mitocondrias para aprovechar el ATP. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Núcleo celular para la transcripción genómica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Citoplasma de la célula hospedadora.",
+        "Asociado exclusivamente a la membrana citoplasmática.",
+        "Dentro de las mitocondrias para aprovechar el ATP.",
+        "Núcleo celular para la transcripción genómica."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_013",
+      "q": "Durante la fase de incubación, ¿dónde se replica principalmente el virus antes de invadir el sistema nervioso central?",
+      "exp": "La respuesta correcta es B) En el tejido muscular del sitio de inoculación.\nTras la mordedura, el virus puede replicarse localmente en músculo antes de entrar a nervios periféricos y avanzar al SNC.\n\nAnálisis de las alternativas:\nA) No. En los ganglios linfáticos regionales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. En el tejido muscular del sitio de inoculación. responde directamente al dato clave solicitado en el enunciado.\nC) No. Directamente en la sangre. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. En las glándulas salivales del humano infectado. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "En los ganglios linfáticos regionales.",
+        "En el tejido muscular del sitio de inoculación.",
+        "Directamente en la sangre.",
+        "En las glándulas salivales del humano infectado."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_014",
+      "q": "¿Cuál es la duración típica del periodo de incubación en humanos según el material proporcionado?",
+      "exp": "La respuesta correcta es D) De 60 a 365 días.\nEl periodo de incubación de rabia es variable y puede extenderse de semanas a meses; el material menciona 60 a 365 días.\n\nAnálisis de las alternativas:\nA) No. De 2 a 10 días máximo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. De 1 a 5 años invariablemente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Exactamente 10 días en todos los casos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. De 60 a 365 días. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "De 2 a 10 días máximo.",
+        "De 1 a 5 años invariablemente.",
+        "Exactamente 10 días en todos los casos.",
+        "De 60 a 365 días."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_015",
+      "q": "¿Qué factor determina que el periodo de incubación sea más corto en una persona infectada?",
+      "exp": "La respuesta correcta es A) La proximidad de la herida al cerebro.\nCuanto más cerca está la mordedura del SNC y mayor es el inóculo, menor suele ser la incubación.\n\nAnálisis de las alternativas:\nA) Correcta. La proximidad de la herida al cerebro. responde directamente al dato clave solicitado en el enunciado.\nB) No. La administración inmediata de antibióticos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. El tipo de grupo sanguíneo del huésped. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. El sexo de la persona afectada. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "La proximidad de la herida al cerebro.",
+        "La administración inmediata de antibióticos.",
+        "El tipo de grupo sanguíneo del huésped.",
+        "El sexo de la persona afectada."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_016",
+      "q": "Respecto a la inmunidad frente a la infección natural por rabia, ¿cuál es la situación de la respuesta celular?",
+      "exp": "La respuesta correcta es A) Es nula durante el transcurso de la infección.\nEl material señala que la respuesta celular efectiva es prácticamente ausente durante el curso clínico, lo que contribuye a la gravedad.\n\nAnálisis de las alternativas:\nA) Correcta. Es nula durante el transcurso de la infección. responde directamente al dato clave solicitado en el enunciado.\nB) No. Es la principal defensa que elimina al virus del músculo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Solo se activa en la fase de coma. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Se activa rápidamente tras la mordedura del animal. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Es nula durante el transcurso de la infección.",
+        "Es la principal defensa que elimina al virus del músculo.",
+        "Solo se activa en la fase de coma.",
+        "Se activa rápidamente tras la mordedura del animal."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_017",
+      "q": "¿Por qué la inmunidad humoral no suele salvar al paciente una vez aparecen los síntomas?",
+      "exp": "La respuesta correcta es A) Porque los anticuerpos no aparecen hasta que el cuadro clínico ya está establecido.\nCuando aparecen anticuerpos, el virus ya suele estar en el sistema nervioso y el cuadro clínico está avanzado.\n\nAnálisis de las alternativas:\nA) Correcta. Porque los anticuerpos no aparecen hasta que el cuadro clínico ya está establecido. responde directamente al dato clave solicitado en el enunciado.\nB) No. Porque los anticuerpos no pueden entrar al SNC. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Porque el virus destruye los linfocitos B del suero. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Porque el virus cambia sus antígenos de superficie constantemente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Porque los anticuerpos no aparecen hasta que el cuadro clínico ya está establecido.",
+        "Porque los anticuerpos no pueden entrar al SNC.",
+        "Porque el virus destruye los linfocitos B del suero.",
+        "Porque el virus cambia sus antígenos de superficie constantemente."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_018",
+      "q": "¿Cuál es el reservorio principal de la rabia salvaje mencionado como de mayor importancia actual en humanos?",
+      "exp": "La respuesta correcta es C) Murciélago hematófago (Desmodus rotundus).\nEl material destaca al murciélago hematófago como reservorio relevante de rabia silvestre.\n\nAnálisis de las alternativas:\nA) No. Perros callejeros sin vacunar. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Ratones y otros pequeños roedores domésticos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Murciélago hematófago (Desmodus rotundus). responde directamente al dato clave solicitado en el enunciado.\nD) No. Aves de rapiña infectadas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Perros callejeros sin vacunar.",
+        "Ratones y otros pequeños roedores domésticos.",
+        "Murciélago hematófago (Desmodus rotundus).",
+        "Aves de rapiña infectadas."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_019",
+      "q": "¿A qué se debe el síntoma característico de la hidrofobia en los pacientes con rabia?",
+      "exp": "La respuesta correcta es D) Al dolor intenso que sienten al intentar tragar agua.\nLa hidrofobia se relaciona con espasmos dolorosos al intentar deglutir, no con miedo psicológico simple al agua.\n\nAnálisis de las alternativas:\nA) No. A que el agua destruye la envoltura del virus en la garganta. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. A una mutación del virus que lo hace hidrofóbico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. A la pérdida total del sentido de la sed. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Al dolor intenso que sienten al intentar tragar agua. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "A que el agua destruye la envoltura del virus en la garganta.",
+        "A una mutación del virus que lo hace hidrofóbico.",
+        "A la pérdida total del sentido de la sed.",
+        "Al dolor intenso que sienten al intentar tragar agua."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_020",
+      "q": "¿Qué son los Corpúsculos de Negri y en qué porcentaje de pacientes aparecen?",
+      "exp": "La respuesta correcta es B) Agregados de nucleocápsides víricas; aparecen en el 70%-90% de los casos.\nLos corpúsculos de Negri son inclusiones citoplasmáticas neuronales asociadas a nucleocápsides del virus rábico.\n\nAnálisis de las alternativas:\nA) No. Células gigantes multinucleadas; aparecen en el 100% de los infectados. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Agregados de nucleocápsides víricas; aparecen en el 70%-90% de los casos. responde directamente al dato clave solicitado en el enunciado.\nC) No. Cristales de sales de calcio; aparecen en el 15% de los pacientes. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Vacuolas de grasa en el citoplasma; aparecen solo en perros. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Células gigantes multinucleadas; aparecen en el 100% de los infectados.",
+        "Agregados de nucleocápsides víricas; aparecen en el 70%-90% de los casos.",
+        "Cristales de sales de calcio; aparecen en el 15% de los pacientes.",
+        "Vacuolas de grasa en el citoplasma; aparecen solo en perros."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_021",
+      "q": "¿Cuál es el método de elección para la detección del genoma del virus de la rabia por su rapidez y sensibilidad?",
+      "exp": "La respuesta correcta es C) RT-PCR.\nLa RT-PCR permite detectar ARN viral de forma rápida y sensible.\n\nAnálisis de las alternativas:\nA) No. Cultivo en huevos embrionados. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Tinción de Gram en líquido cefalorraquídeo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. RT-PCR. responde directamente al dato clave solicitado en el enunciado.\nD) No. Prueba de aglutinación en látex. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Cultivo en huevos embrionados.",
+        "Tinción de Gram en líquido cefalorraquídeo.",
+        "RT-PCR.",
+        "Prueba de aglutinación en látex."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_022",
+      "q": "¿Cuál es la primera medida recomendada inmediatamente después de la mordedura de un animal sospechoso?",
+      "exp": "La respuesta correcta es D) Lavar profundamente la herida con agua y jabón.\nEl lavado inmediato y profundo reduce la carga viral local antes de que el virus entre en nervios periféricos.\n\nAnálisis de las alternativas:\nA) No. Suturar la herida lo más rápido posible. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Aplicar un torniquete por encima de la lesión. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Administrar analgésicos potentes y esperar síntomas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Lavar profundamente la herida con agua y jabón. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Suturar la herida lo más rápido posible.",
+        "Aplicar un torniquete por encima de la lesión.",
+        "Administrar analgésicos potentes y esperar síntomas.",
+        "Lavar profundamente la herida con agua y jabón."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_023",
+      "q": "¿En qué consiste la profilaxis post-exposición completa para una persona no vacunada previamente?",
+      "exp": "La respuesta correcta es B) Vacuna de virus muertos combinada con inmunoglobulina antirrábica humana.\nLa profilaxis completa combina vacuna antirrábica e inmunoglobulina en personas no vacunadas previamente, según riesgo.\n\nAnálisis de las alternativas:\nA) No. Dosis única de suero fisiológico y antibióticos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Vacuna de virus muertos combinada con inmunoglobulina antirrábica humana. responde directamente al dato clave solicitado en el enunciado.\nC) No. Aislamiento en cuarto oscuro durante 40 días sin medicación. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Inyección de virus vivos atenuados directamente en la herida. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Dosis única de suero fisiológico y antibióticos.",
+        "Vacuna de virus muertos combinada con inmunoglobulina antirrábica humana.",
+        "Aislamiento en cuarto oscuro durante 40 días sin medicación.",
+        "Inyección de virus vivos atenuados directamente en la herida."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_024",
+      "q": "¿Cuál es el tiempo recomendado para observar a un perro o gato que ha mordido a una persona antes de descartar riesgo de transmisión?",
+      "exp": "La respuesta correcta es A) 10 días.\nLa observación de perros y gatos agresores durante 10 días se usa para valorar riesgo de transmisión.\n\nAnálisis de las alternativas:\nA) Correcta. 10 días. responde directamente al dato clave solicitado en el enunciado.\nB) No. 6 meses. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. 24 horas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. 45 días. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "10 días.",
+        "6 meses.",
+        "24 horas.",
+        "45 días."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_025",
+      "q": "En la fase neurológica, ¿qué otros síntomas fobígenos se presentan además de la hidrofobia?",
+      "exp": "La respuesta correcta es C) Fobias al viento y a movimientos bruscos.\nLa rabia puede presentar aerofobia y espasmos desencadenados por estímulos como aire o movimientos.\n\nAnálisis de las alternativas:\nA) No. Fobia al contacto con metales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Miedo intenso a la oscuridad. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Fobias al viento y a movimientos bruscos. responde directamente al dato clave solicitado en el enunciado.\nD) No. Rechazo absoluto a los alimentos sólidos únicamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Fobia al contacto con metales.",
+        "Miedo intenso a la oscuridad.",
+        "Fobias al viento y a movimientos bruscos.",
+        "Rechazo absoluto a los alimentos sólidos únicamente."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_026",
+      "q": "¿Cuál de las siguientes es una vía de transmisión menos frecuente pero posible para la rabia humana?",
+      "exp": "La respuesta correcta es C) Trasplante de tejidos infectados, como la córnea.\nAunque la mordedura es la vía principal, se han descrito transmisiones por trasplante de tejidos infectados.\n\nAnálisis de las alternativas:\nA) No. Contacto estrecho piel con piel sin heridas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Picadura de mosquitos que previamente picaron a un animal rabioso. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Trasplante de tejidos infectados, como la córnea. responde directamente al dato clave solicitado en el enunciado.\nD) No. Consumo de carne de perro cocida. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Contacto estrecho piel con piel sin heridas.",
+        "Picadura de mosquitos que previamente picaron a un animal rabioso.",
+        "Trasplante de tejidos infectados, como la córnea.",
+        "Consumo de carne de perro cocida."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_027",
+      "q": "En la estructura del Rhabdovirus, ¿dónde se localizan las espículas de glucoproteína?",
+      "exp": "La respuesta correcta es A) Insertadas en la envoltura lipídica externa.\nLas espículas glucoproteicas de los virus envueltos se proyectan desde la envoltura externa.\n\nAnálisis de las alternativas:\nA) Correcta. Insertadas en la envoltura lipídica externa. responde directamente al dato clave solicitado en el enunciado.\nB) No. En el interior del núcleo helicoidal. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Libres en el citoplasma de la célula sin formar parte del virión. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Constituyendo la matriz proteica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Insertadas en la envoltura lipídica externa.",
+        "En el interior del núcleo helicoidal.",
+        "Libres en el citoplasma de la célula sin formar parte del virión.",
+        "Constituyendo la matriz proteica."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_028",
+      "q": "¿Qué tipo de parálisis se menciona como causa final de muerte en la progresión de la rabia?",
+      "exp": "La respuesta correcta es B) Parálisis que origina insuficiencia respiratoria.\nLa muerte en rabia se relaciona con compromiso neurológico progresivo y falla respiratoria por parálisis.\n\nAnálisis de las alternativas:\nA) No. Parálisis intestinal con necrosis gástrica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Parálisis que origina insuficiencia respiratoria. responde directamente al dato clave solicitado en el enunciado.\nC) No. Parálisis de los músculos de la visión. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Parálisis de los miembros inferiores únicamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Parálisis intestinal con necrosis gástrica.",
+        "Parálisis que origina insuficiencia respiratoria.",
+        "Parálisis de los músculos de la visión.",
+        "Parálisis de los miembros inferiores únicamente."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_029",
+      "q": "Ante una mordedura, ¿en qué caso se podría evitar iniciar la profilaxis post-exposición de inmediato?",
+      "exp": "La respuesta correcta es A) Si se analiza al animal y se demuestra que no presenta la infección.\nLa decisión puede modificarse si el animal es evaluado y se demuestra que no está infectado; no debe basarse en tamaño, localización o aparente fortaleza inmune.\n\nAnálisis de las alternativas:\nA) Correcta. Si se analiza al animal y se demuestra que no presenta la infección. responde directamente al dato clave solicitado en el enunciado.\nB) No. Si la mordedura fue en el pie y no sangró mucho. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Si el paciente tiene un sistema inmune muy fuerte. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Si el perro es de raza pequeña o cachorro. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Si se analiza al animal y se demuestra que no presenta la infección.",
+        "Si la mordedura fue en el pie y no sangró mucho.",
+        "Si el paciente tiene un sistema inmune muy fuerte.",
+        "Si el perro es de raza pequeña o cachorro."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_10_rhabdovirus_030",
+      "q": "¿Cuál es la recomendación de la OMS respecto al uso de suero antirrábico local?",
+      "exp": "La respuesta correcta es B) Gotear o infiltrar suero antirrábico alrededor de la herida.\nLa inmunoglobulina debe infiltrarse localmente alrededor de la herida para neutralizar virus en el sitio de entrada.\n\nAnálisis de las alternativas:\nA) No. Beber el suero mezclado con jugos cítricos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Gotear o infiltrar suero antirrábico alrededor de la herida. responde directamente al dato clave solicitado en el enunciado.\nC) No. Inyectarlo por vía intravenosa en el brazo opuesto. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. No utilizarlo nunca para evitar alergias cutáneas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Rhabdovirus",
+      "options": [
+        "Beber el suero mezclado con jugos cítricos.",
+        "Gotear o infiltrar suero antirrábico alrededor de la herida.",
+        "Inyectarlo por vía intravenosa en el brazo opuesto.",
+        "No utilizarlo nunca para evitar alergias cutáneas."
       ],
       "answer": 1,
       "keepOptionOrder": true

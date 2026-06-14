@@ -87,3 +87,11 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Combina los bloques de Herpes simple/Varicela-Zóster y VEB/CMV/VHH en un único bloque de Herpesvirus.
 - Microbiología queda con 338 preguntas; Virología queda con 228 preguntas en 11 clases.
 - Mantiene explicaciones detalladas al responder.
+
+
+## V4.23
+
+- Agrega nuevas preguntas de Virología desde el segundo PDF.
+- Picornavirus, Orthomixovirus/Reovirus, Paramixovirus y Rhabdovirus fueron ampliados.
+- Microbiología queda con 431 preguntas; Virología queda con 321 preguntas en 11 clases.
+- PDF descargable de Microbiología actualizado.

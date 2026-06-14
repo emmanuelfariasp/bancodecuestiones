@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_07_picornavirus",
   "title": "Picornavirus",
-  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 5 Picornavirus.pdf",
+  "subtitle": "Virología · 34 preguntas · Fuente: Unidad 5 Picornavirus.pdf",
   "questions": [
     {
       "id": "micro_viro_07_picornavirus_001",
@@ -149,6 +149,340 @@
         "Antibiotico betalactamico.",
         "Desparasitacion canina unica.",
         "Coccion de pescado."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_011",
+      "q": "En términos de estabilidad ambiental, ¿qué diferencia fundamental existe entre los Rinovirus y los Enterovirus?",
+      "exp": "La respuesta correcta es B) Los Rinovirus son lábiles al pH ácido, mientras que los Enterovirus son resistentes a un rango de pH de 3 a 9.\nLos rinovirus se adaptan mejor a vías respiratorias superiores y son sensibles al pH ácido; los enterovirus resisten ácido gástrico y por eso pueden transmitirse por vía fecal-oral.\n\nAnálisis de las alternativas:\nA) No. Los Enterovirus se inactivan rápidamente a temperatura ambiente, a diferencia de los Rinovirus. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Los Rinovirus son lábiles al pH ácido, mientras que los Enterovirus son resistentes a un rango de pH de 3 a 9. responde directamente al dato clave solicitado en el enunciado.\nC) No. Los Enterovirus requieren temperaturas de 33 °C para replicarse, mientras que los Rinovirus prefieren los 37 °C. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Los Rinovirus son resistentes a los detergentes y solventes orgánicos, pero los Enterovirus no. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Los Enterovirus se inactivan rápidamente a temperatura ambiente, a diferencia de los Rinovirus.",
+        "Los Rinovirus son lábiles al pH ácido, mientras que los Enterovirus son resistentes a un rango de pH de 3 a 9.",
+        "Los Enterovirus requieren temperaturas de 33 °C para replicarse, mientras que los Rinovirus prefieren los 37 °C.",
+        "Los Rinovirus son resistentes a los detergentes y solventes orgánicos, pero los Enterovirus no."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_012",
+      "q": "¿Por qué el nombre 'Enterovirus' se considera paradójico en relación con la patología que provocan habitualmente?",
+      "exp": "La respuesta correcta es A) Porque normalmente no provocan enfermedades entéricas, a pesar de transmitirse por vía fecal-oral.\nAunque entran y se eliminan por el tubo digestivo, muchas manifestaciones importantes de enterovirus son neurológicas, musculares, cutáneas o sistémicas, no diarreas entéricas típicas.\n\nAnálisis de las alternativas:\nA) Correcta. Porque normalmente no provocan enfermedades entéricas, a pesar de transmitirse por vía fecal-oral. responde directamente al dato clave solicitado en el enunciado.\nB) No. Porque su replicación principal ocurre en los pulmones antes de migrar al tejido diana. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Porque son los únicos virus que requieren de la bilis para activar su cápside infectante. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Porque solo infectan el sistema nervioso central y nunca entran en contacto con el intestino. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Porque normalmente no provocan enfermedades entéricas, a pesar de transmitirse por vía fecal-oral.",
+        "Porque su replicación principal ocurre en los pulmones antes de migrar al tejido diana.",
+        "Porque son los únicos virus que requieren de la bilis para activar su cápside infectante.",
+        "Porque solo infectan el sistema nervioso central y nunca entran en contacto con el intestino."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_013",
+      "q": "Durante la patogenia de una infección por Enterovirus, ¿qué evento precede inmediatamente a la aparición de los síntomas clínicos?",
+      "exp": "La respuesta correcta es A) La viremia secundaria que distribuye el virus al tejido diana.\nTras replicarse en tejido linfático, los enterovirus pueden producir viremia secundaria y alcanzar órganos diana; allí aparecen las manifestaciones clínicas.\n\nAnálisis de las alternativas:\nA) Correcta. La viremia secundaria que distribuye el virus al tejido diana. responde directamente al dato clave solicitado en el enunciado.\nB) No. La inhibición total de la replicación por anticuerpos humorales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. La eliminación masiva del virus únicamente a través de las secreciones orales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. La formación de lesiones vesiculares en la mucosa orofaríngea exclusivamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "La viremia secundaria que distribuye el virus al tejido diana.",
+        "La inhibición total de la replicación por anticuerpos humorales.",
+        "La eliminación masiva del virus únicamente a través de las secreciones orales.",
+        "La formación de lesiones vesiculares en la mucosa orofaríngea exclusivamente."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_014",
+      "q": "¿Qué porcentaje aproximado de las infecciones por Poliovirus resultan en una enfermedad asintomática?",
+      "exp": "La respuesta correcta es A) 90%\nLa mayoría de las infecciones por poliovirus son subclínicas o asintomáticas; la parálisis ocurre solo en una pequeña proporción.\n\nAnálisis de las alternativas:\nA) Correcta. 90% responde directamente al dato clave solicitado en el enunciado.\nB) No. 10% puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. 50% puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. 1% puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "90%",
+        "10%",
+        "50%",
+        "1%"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_015",
+      "q": "¿Cuál es el serotipo de Poliovirus responsable del 85% de los casos de poliomielitis paralítica?",
+      "exp": "La respuesta correcta es A) Tipo 1\nEl poliovirus tipo 1 es el serotipo más asociado a poliomielitis paralítica y brotes importantes.\n\nAnálisis de las alternativas:\nA) Correcta. Tipo 1 responde directamente al dato clave solicitado en el enunciado.\nB) No. Tipo 2 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Tipo 4 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Tipo 3 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Tipo 1",
+        "Tipo 2",
+        "Tipo 4",
+        "Tipo 3"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_016",
+      "q": "La poliomielitis paralítica se caracteriza clínicamente por presentar:",
+      "exp": "La respuesta correcta es D) Parálisis flácida asimétrica sin pérdida sensorial.\nEl poliovirus destruye neuronas motoras del asta anterior; por eso genera parálisis flácida, usualmente asimétrica, sin compromiso sensitivo primario.\n\nAnálisis de las alternativas:\nA) No. Rigidez de nuca persistente que evoluciona a coma profundo en 24 horas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Debilidad muscular progresiva que siempre comienza en los músculos craneales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Parálisis espástica simétrica con pérdida total de la sensibilidad térmica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Parálisis flácida asimétrica sin pérdida sensorial. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Rigidez de nuca persistente que evoluciona a coma profundo en 24 horas.",
+        "Debilidad muscular progresiva que siempre comienza en los músculos craneales.",
+        "Parálisis espástica simétrica con pérdida total de la sensibilidad térmica.",
+        "Parálisis flácida asimétrica sin pérdida sensorial."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_017",
+      "q": "En el contexto de las infecciones por Coxsackievirus, ¿cuál es la principal diferencia clínica entre los grupos A y B?",
+      "exp": "La respuesta correcta es B) El grupo A se asocia frecuentemente con lesiones vesiculares, mientras que el grupo B causa miocarditis y pleurodinia.\nCoxsackie A se recuerda por herpangina y mano-pie-boca; Coxsackie B se relaciona más con miocarditis, pericarditis y pleurodinia.\n\nAnálisis de las alternativas:\nA) No. Solo el grupo B es capaz de causar meningitis aséptica en adultos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. El grupo A se asocia frecuentemente con lesiones vesiculares, mientras que el grupo B causa miocarditis y pleurodinia. responde directamente al dato clave solicitado en el enunciado.\nC) No. El grupo B produce únicamente infecciones respiratorias, mientras que el grupo A afecta al hígado. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. El grupo A es transmitido por mosquitos, a diferencia del grupo B que es fecal-oral. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Solo el grupo B es capaz de causar meningitis aséptica en adultos.",
+        "El grupo A se asocia frecuentemente con lesiones vesiculares, mientras que el grupo B causa miocarditis y pleurodinia.",
+        "El grupo B produce únicamente infecciones respiratorias, mientras que el grupo A afecta al hígado.",
+        "El grupo A es transmitido por mosquitos, a diferencia del grupo B que es fecal-oral."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_018",
+      "q": "¿Qué cuadro clínico se caracteriza por fiebre, faringitis y lesiones vesiculares en el paladar blando y la úvula?",
+      "exp": "La respuesta correcta es C) Herpangina\nLa herpangina produce fiebre, odinofagia y vesículas o úlceras en la orofaringe posterior, especialmente paladar blando y úvula.\n\nAnálisis de las alternativas:\nA) No. Enfermedad de manos, pies y boca puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Meningitis aséptica puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Herpangina responde directamente al dato clave solicitado en el enunciado.\nD) No. Pleurodinia puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Enfermedad de manos, pies y boca",
+        "Meningitis aséptica",
+        "Herpangina",
+        "Pleurodinia"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_019",
+      "q": "La pleurodinia, también conocida como 'abrazo del diablo', es causada predominantemente por:",
+      "exp": "La respuesta correcta es B) Coxsackievirus grupo B\nLa pleurodinia epidémica se asocia clásicamente a Coxsackievirus B y causa dolor torácico muscular intenso.\n\nAnálisis de las alternativas:\nA) No. Poliovirus tipo 1 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Coxsackievirus grupo B responde directamente al dato clave solicitado en el enunciado.\nC) No. Rinovirus humano puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Echovirus 11 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Poliovirus tipo 1",
+        "Coxsackievirus grupo B",
+        "Rinovirus humano",
+        "Echovirus 11"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_020",
+      "q": "¿Cuál es el agente causal más frecuentemente asociado con la meningitis vírica por Echovirus mencionada en el material?",
+      "exp": "La respuesta correcta es C) Echovirus 11\nDentro de los echovirus, el material destaca Echovirus 11 como causa frecuente de meningitis vírica.\n\nAnálisis de las alternativas:\nA) No. Poliovirus tipo 2 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Coxsackie A16 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Echovirus 11 responde directamente al dato clave solicitado en el enunciado.\nD) No. Echovirus 7 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Poliovirus tipo 2",
+        "Coxsackie A16",
+        "Echovirus 11",
+        "Echovirus 7"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_021",
+      "q": "Para el diagnóstico de laboratorio de poliomielitis, ¿cuál es la muestra clínica donde el virus se detecta con mayor dificultad?",
+      "exp": "La respuesta correcta es C) Líquido cefalorraquídeo (LCR)\nEl poliovirus se detecta con mayor facilidad en heces y, al inicio, en faringe; en LCR la detección viral directa es más difícil.\n\nAnálisis de las alternativas:\nA) No. Faringe puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Heces puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Líquido cefalorraquídeo (LCR) responde directamente al dato clave solicitado en el enunciado.\nD) No. Sangre puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Faringe",
+        "Heces",
+        "Líquido cefalorraquídeo (LCR)",
+        "Sangre"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_022",
+      "q": "En la actualidad, ¿por qué se prefiere el uso de la Vacuna de Poliomielitis Inactivada (VPI) sobre la Oral (VPO)?",
+      "exp": "La respuesta correcta es C) Debido a su mejor perfil de seguridad al eliminar el riesgo de poliomielitis asociada a la vacuna.\nLa VPI no contiene virus vivos capaces de revertir a neurovirulencia; por eso elimina el riesgo de poliomielitis asociada a vacuna.\n\nAnálisis de las alternativas:\nA) No. Porque es más económica y fácil de administrar en campañas masivas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Porque genera una mayor producción de anticuerpos secretores (IgA) en el intestino. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Debido a su mejor perfil de seguridad al eliminar el riesgo de poliomielitis asociada a la vacuna. responde directamente al dato clave solicitado en el enunciado.\nD) No. Porque induce una inmunidad de por vida con una sola dosis. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Porque es más económica y fácil de administrar en campañas masivas.",
+        "Porque genera una mayor producción de anticuerpos secretores (IgA) en el intestino.",
+        "Debido a su mejor perfil de seguridad al eliminar el riesgo de poliomielitis asociada a la vacuna.",
+        "Porque induce una inmunidad de por vida con una sola dosis."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_023",
+      "q": "¿Cuál es uno de los inconvenientes significativos de la Vacuna de la Poliomielitis Oral (VPO) mencionado en el material?",
+      "exp": "La respuesta correcta es D) Riesgo de diseminación del virus atenuado a personas próximas no vacunadas.\nLa VPO contiene virus vivos atenuados; puede diseminarse a contactos y, raramente, asociarse a virus derivados de vacuna.\n\nAnálisis de las alternativas:\nA) No. Incapacidad absoluta para generar inmunidad de grupo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Es el único tipo de vacuna que se inactiva por la luz solar. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Necesidad estricta de jeringuillas y agujas esterilizadas para su uso. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Riesgo de diseminación del virus atenuado a personas próximas no vacunadas. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Incapacidad absoluta para generar inmunidad de grupo.",
+        "Es el único tipo de vacuna que se inactiva por la luz solar.",
+        "Necesidad estricta de jeringuillas y agujas esterilizadas para su uso.",
+        "Riesgo de diseminación del virus atenuado a personas próximas no vacunadas."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_024",
+      "q": "¿Qué factor ambiental favorece la replicación de los Rinovirus en el cuerpo humano?",
+      "exp": "La respuesta correcta es C) La temperatura de 33 °C de las vías respiratorias superiores.\nLos rinovirus crecen mejor a temperaturas cercanas a 33 °C, propias de la mucosa nasal y vías respiratorias superiores.\n\nAnálisis de las alternativas:\nA) No. La alta acidez del tracto gastrointestinal. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. La presencia de enzimas proteolíticas en el páncreas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. La temperatura de 33 °C de las vías respiratorias superiores. responde directamente al dato clave solicitado en el enunciado.\nD) No. Un ambiente con baja humedad y alta concentración de CO2. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "La alta acidez del tracto gastrointestinal.",
+        "La presencia de enzimas proteolíticas en el páncreas.",
+        "La temperatura de 33 °C de las vías respiratorias superiores.",
+        "Un ambiente con baja humedad y alta concentración de CO2."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_025",
+      "q": "¿Cuál es la medida de prevención más eficaz recomendada para evitar la propagación de los Rinovirus?",
+      "exp": "La respuesta correcta es C) Lavado de manos frecuente y desinfección de objetos contaminados.\nLos rinovirus se transmiten por contacto con secreciones y fómites; por eso higiene de manos y desinfección son medidas centrales.\n\nAnálisis de las alternativas:\nA) No. Inhalación de aire seco y frío para reducir la carga viral. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Uso de antibióticos profilácticos durante el invierno. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Lavado de manos frecuente y desinfección de objetos contaminados. responde directamente al dato clave solicitado en el enunciado.\nD) No. Administración de la vacuna anual polivalente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Inhalación de aire seco y frío para reducir la carga viral.",
+        "Uso de antibióticos profilácticos durante el invierno.",
+        "Lavado de manos frecuente y desinfección de objetos contaminados.",
+        "Administración de la vacuna anual polivalente."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_026",
+      "q": "El periodo de incubación general mencionado para los Enterovirus varía entre:",
+      "exp": "La respuesta correcta es D) 1 y 35 días.\nEl material presenta un rango amplio de incubación para enterovirus, aproximadamente de 1 a 35 días, según el virus y el cuadro.\n\nAnálisis de las alternativas:\nA) No. 24 y 48 horas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Exactamente 14 días en todos los casos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. 3 y 6 meses. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. 1 y 35 días. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "24 y 48 horas.",
+        "Exactamente 14 días en todos los casos.",
+        "3 y 6 meses.",
+        "1 y 35 días."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_027",
+      "q": "¿Qué determina la extensión de la parálisis en un paciente con poliomielitis paralítica?",
+      "exp": "La respuesta correcta es A) La localización y el número de neuronas motoras destruidas por el virus.\nLa parálisis depende de cuántas neuronas motoras fueron dañadas y de qué grupos musculares inervaban.\n\nAnálisis de las alternativas:\nA) Correcta. La localización y el número de neuronas motoras destruidas por el virus. responde directamente al dato clave solicitado en el enunciado.\nB) No. La cantidad de virus eliminada a través de las heces. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. La presencia de anticuerpos en el líquido cefalorraquídeo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. La velocidad de la viremia primaria inicial. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "La localización y el número de neuronas motoras destruidas por el virus.",
+        "La cantidad de virus eliminada a través de las heces.",
+        "La presencia de anticuerpos en el líquido cefalorraquídeo.",
+        "La velocidad de la viremia primaria inicial."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_028",
+      "q": "¿Cuál es el tiempo de recuperación promedio mencionado para los casos de poliomielitis que no resultan en muerte?",
+      "exp": "La respuesta correcta es A) 6 meses a 2 años.\nLa recuperación neuromuscular de la poliomielitis paralítica puede ser lenta y extenderse de meses a años.\n\nAnálisis de las alternativas:\nA) Correcta. 6 meses a 2 años. responde directamente al dato clave solicitado en el enunciado.\nB) No. 30 días exactos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. 1 a 2 semanas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Más de 10 años. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "6 meses a 2 años.",
+        "30 días exactos.",
+        "1 a 2 semanas.",
+        "Más de 10 años."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_029",
+      "q": "En neonatos, las infecciones por Coxsackievirus grupo B son especialmente graves debido a que pueden provocar:",
+      "exp": "La respuesta correcta es B) Fiebre e insuficiencia cardíaca.\nEn recién nacidos, Coxsackie B puede causar enfermedad sistémica grave con miocarditis, fiebre e insuficiencia cardíaca.\n\nAnálisis de las alternativas:\nA) No. Sordera permanente por destrucción del nervio auditivo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Fiebre e insuficiencia cardíaca. responde directamente al dato clave solicitado en el enunciado.\nC) No. Diabetes insulinodependiente de inicio súbito. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Ceguera por conjuntivitis hemorrágica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Sordera permanente por destrucción del nervio auditivo.",
+        "Fiebre e insuficiencia cardíaca.",
+        "Diabetes insulinodependiente de inicio súbito.",
+        "Ceguera por conjuntivitis hemorrágica."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_030",
+      "q": "¿Cuál es la función principal de la técnica de RT-PCR en el diagnóstico de meningitis por Enterovirus?",
+      "exp": "La respuesta correcta es B) Distinguir rápidamente una meningitis por Enterovirus de una meningitis bacteriana.\nLa RT-PCR permite detectar ARN viral en LCR y ayuda a diferenciar meningitis viral por enterovirus de meningitis bacteriana.\n\nAnálisis de las alternativas:\nA) No. Sustituir por completo a la vacunación como medida de salud pública. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Distinguir rápidamente una meningitis por Enterovirus de una meningitis bacteriana. responde directamente al dato clave solicitado en el enunciado.\nC) No. Determinar la resistencia del virus al cloro en aguas residuales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Cuantificar la cantidad de bilis presente en el estómago del paciente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Sustituir por completo a la vacunación como medida de salud pública.",
+        "Distinguir rápidamente una meningitis por Enterovirus de una meningitis bacteriana.",
+        "Determinar la resistencia del virus al cloro en aguas residuales.",
+        "Cuantificar la cantidad de bilis presente en el estómago del paciente."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_031",
+      "q": "¿Verdadero o Falso? Los Enterovirus son conocidos por causar frecuentemente diarreas profusas en niños pequeños.",
+      "exp": "La respuesta correcta es B) Falso\nA pesar de su nombre y transmisión fecal-oral, los enterovirus no se caracterizan principalmente por diarreas profusas.\n\nAnálisis de las alternativas:\nA) No. Verdadero puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Falso responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_032",
+      "q": "¿Qué género de la familia Picornaviridae incluye al virus de la Hepatitis A?",
+      "exp": "La respuesta correcta es A) Hepatovirus\nEl virus de la hepatitis A pertenece al género Hepatovirus dentro de Picornaviridae.\n\nAnálisis de las alternativas:\nA) Correcta. Hepatovirus responde directamente al dato clave solicitado en el enunciado.\nB) No. Enterovirus puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Aphthovirus puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Cardiovirus puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Hepatovirus",
+        "Enterovirus",
+        "Aphthovirus",
+        "Cardiovirus"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_033",
+      "q": "Sobre la replicación viral de los Picornavirus, se puede afirmar que:",
+      "exp": "La respuesta correcta es A) El virus se replica íntegramente en el citoplasma de la célula huésped.\nLos picornavirus son virus ARN positivo sin envoltura y realizan su replicación en el citoplasma.\n\nAnálisis de las alternativas:\nA) Correcta. El virus se replica íntegramente en el citoplasma de la célula huésped. responde directamente al dato clave solicitado en el enunciado.\nB) No. Utilizan el núcleo celular para la síntesis de sus proteínas de cápside. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Requieren integrar su genoma en el ADN celular mediante una retrotranscriptasa. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. La replicación ocurre exclusivamente dentro de las mitocondrias para obtener energía. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "El virus se replica íntegramente en el citoplasma de la célula huésped.",
+        "Utilizan el núcleo celular para la síntesis de sus proteínas de cápside.",
+        "Requieren integrar su genoma en el ADN celular mediante una retrotranscriptasa.",
+        "La replicación ocurre exclusivamente dentro de las mitocondrias para obtener energía."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_07_picornavirus_034",
+      "q": "La enfermedad de manos, pies y boca se asocia específicamente con el serotipo:",
+      "exp": "La respuesta correcta es A) Coxsackie A16\nLa enfermedad mano-pie-boca se asocia de forma clásica a Coxsackie A16, aunque también pueden participar otros enterovirus.\n\nAnálisis de las alternativas:\nA) Correcta. Coxsackie A16 responde directamente al dato clave solicitado en el enunciado.\nB) No. Poliovirus tipo 1 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Coxsackie B5 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Echovirus 11 puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Picornavirus",
+      "options": [
+        "Coxsackie A16",
+        "Poliovirus tipo 1",
+        "Coxsackie B5",
+        "Echovirus 11"
       ],
       "answer": 0,
       "keepOptionOrder": true

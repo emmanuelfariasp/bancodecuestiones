@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_08_orthomixovirus_reovirus",
   "title": "Orthomixovirus y Reovirus",
-  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 6 Orthomixovirus y Reovirus.pdf",
+  "subtitle": "Virología · 33 preguntas · Fuente: Unidad 6 Orthomixovirus y Reovirus.pdf",
   "questions": [
     {
       "id": "micro_viro_08_orthomixovirus_reovirus_001",
@@ -151,6 +151,328 @@
         "Uso de preservativo exclusivo."
       ],
       "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_011",
+      "q": "¿Cuál es la principal diferencia estructural en el genoma segmentado entre los virus de la gripe A y B comparados con el virus de la gripe C?",
+      "exp": "La respuesta correcta es C) Los virus A y B poseen 8 segmentos de ARN, mientras que el C posee 7.\nInfluenza A y B tienen 8 segmentos de ARN monocatenario negativo; influenza C tiene 7 segmentos.\n\nAnálisis de las alternativas:\nA) No. Los virus A y B poseen 7 segmentos de ARN, mientras que el C posee 8. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. El virus de la gripe C no posee genoma segmentado, a diferencia de A y B. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Los virus A y B poseen 8 segmentos de ARN, mientras que el C posee 7. responde directamente al dato clave solicitado en el enunciado.\nD) No. Los virus A y B poseen genoma bicatenario, mientras que el C es monocatenario. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Los virus A y B poseen 7 segmentos de ARN, mientras que el C posee 8.",
+        "El virus de la gripe C no posee genoma segmentado, a diferencia de A y B.",
+        "Los virus A y B poseen 8 segmentos de ARN, mientras que el C posee 7.",
+        "Los virus A y B poseen genoma bicatenario, mientras que el C es monocatenario."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_012",
+      "q": "¿Qué proceso es responsable de la aparición de pandemias de gripe y a qué tipo de virus afecta exclusivamente?",
+      "exp": "La respuesta correcta es B) El salto antigénico (reorganización) en el virus de la gripe A.\nLas pandemias se relacionan con cambios mayores por reasociación de segmentos entre cepas humanas y animales, fenómeno característico de influenza A.\n\nAnálisis de las alternativas:\nA) No. La reorganización genómica en el virus de la gripe B. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. El salto antigénico (reorganización) en el virus de la gripe A. responde directamente al dato clave solicitado en el enunciado.\nC) No. La deriva antigénica (mutación) en los virus de la gripe A y B. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. La mutación puntual en la proteína M2 del virus de la gripe A. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "La reorganización genómica en el virus de la gripe B.",
+        "El salto antigénico (reorganización) en el virus de la gripe A.",
+        "La deriva antigénica (mutación) en los virus de la gripe A y B.",
+        "La mutación puntual en la proteína M2 del virus de la gripe A."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_013",
+      "q": "¿En qué parte de la célula hospedadora ocurre la transcripción y replicación del genoma del virus de la gripe, a diferencia de la mayoría de los virus ARN?",
+      "exp": "La respuesta correcta es A) Núcleo.\nLos orthomyxovirus son excepción entre virus ARN porque parte central de su transcripción y replicación ocurre en el núcleo.\n\nAnálisis de las alternativas:\nA) Correcta. Núcleo. responde directamente al dato clave solicitado en el enunciado.\nB) No. Citoplasma. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Aparato de Golgi. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Retículo endoplásmico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Núcleo.",
+        "Citoplasma.",
+        "Aparato de Golgi.",
+        "Retículo endoplásmico."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_014",
+      "q": "¿Cuál es la función principal de la Hemaglutinina (HA) en el ciclo de infección del virus de la gripe?",
+      "exp": "La respuesta correcta es D) Unirse a receptores de ácido siálico y facilitar la fusión de membranas.\nLa HA reconoce ácido siálico y media la unión y fusión; la neuraminidasa participa más en la liberación de viriones.\n\nAnálisis de las alternativas:\nA) No. Escindir el ácido siálico para permitir la liberación de los viriones. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Formar un canal de protones para la pérdida de la envoltura. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Actuar como la polimerasa principal para la síntesis de ARNm. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Unirse a receptores de ácido siálico y facilitar la fusión de membranas. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Escindir el ácido siálico para permitir la liberación de los viriones.",
+        "Formar un canal de protones para la pérdida de la envoltura.",
+        "Actuar como la polimerasa principal para la síntesis de ARNm.",
+        "Unirse a receptores de ácido siálico y facilitar la fusión de membranas."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_015",
+      "q": "En el contexto de la patogenia de la gripe, ¿qué moléculas son responsables de los síntomas sistémicos pseudogripales como fiebre, mialgias y cefalea?",
+      "exp": "La respuesta correcta es D) Respuestas de interferón y citocinas.\nFiebre, mialgias y malestar general se deben en gran parte a la respuesta inmune innata, especialmente interferones y citocinas.\n\nAnálisis de las alternativas:\nA) No. La destrucción directa de las células alveolares. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. La viremia persistente en sangre periférica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. La presencia de anticuerpos IgG en la mucosa. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Respuestas de interferón y citocinas. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "La destrucción directa de las células alveolares.",
+        "La viremia persistente en sangre periférica.",
+        "La presencia de anticuerpos IgG en la mucosa.",
+        "Respuestas de interferón y citocinas."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_016",
+      "q": "¿Cuál es la recomendación principal respecto a la vacuna de la gripe en pacientes con alergia grave al huevo?",
+      "exp": "La respuesta correcta es C) No deben recibir la vacuna convencional, aunque existen alternativas sin proteínas de huevo.\nAlgunas vacunas antigripales se producen en huevos embrionados y pueden contener trazas de proteínas de huevo; existen alternativas para alérgicos graves.\n\nAnálisis de las alternativas:\nA) No. Deben recibir únicamente la vacuna de virus vivos atenuados. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. La alergia al huevo no tiene relación con la vacunación antigripal. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. No deben recibir la vacuna convencional, aunque existen alternativas sin proteínas de huevo. responde directamente al dato clave solicitado en el enunciado.\nD) No. Pueden vacunarse sin restricciones si son mayores de 50 años. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Deben recibir únicamente la vacuna de virus vivos atenuados.",
+        "La alergia al huevo no tiene relación con la vacunación antigripal.",
+        "No deben recibir la vacuna convencional, aunque existen alternativas sin proteínas de huevo.",
+        "Pueden vacunarse sin restricciones si son mayores de 50 años."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_017",
+      "q": "¿Cuál es la característica estructural distintiva de la familia Reoviridae, como Rotavirus?",
+      "exp": "La respuesta correcta es C) ARN bicatenario segmentado y carencia de envoltura.\nReoviridae se caracteriza por ARN bicatenario segmentado y cápside resistente sin envoltura.\n\nAnálisis de las alternativas:\nA) No. ARN monocatenario segmentado con envoltura derivativa. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. ARN monocatenario positivo con envoltura lipídica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. ARN bicatenario segmentado y carencia de envoltura. responde directamente al dato clave solicitado en el enunciado.\nD) No. ADN bicatenario circular con cápside pleomorfa. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "ARN monocatenario segmentado con envoltura derivativa.",
+        "ARN monocatenario positivo con envoltura lipídica.",
+        "ARN bicatenario segmentado y carencia de envoltura.",
+        "ADN bicatenario circular con cápside pleomorfa."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_018",
+      "q": "¿Qué cambio estructural debe sufrir el Rotavirus en el tubo digestivo para volverse infeccioso?",
+      "exp": "La respuesta correcta es C) Proteólisis de la cápside externa para formar una partícula subvírica intermedia.\nLa proteólisis por enzimas intestinales, como tripsina, activa la partícula y facilita la entrada a enterocitos.\n\nAnálisis de las alternativas:\nA) No. Fusión inmediata con la membrana plasmática del estómago. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Adquisición de una envoltura lipídica a partir de los enterocitos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Proteólisis de la cápside externa para formar una partícula subvírica intermedia. responde directamente al dato clave solicitado en el enunciado.\nD) No. Pérdida total de la cápside interna antes de la penetración. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Fusión inmediata con la membrana plasmática del estómago.",
+        "Adquisición de una envoltura lipídica a partir de los enterocitos.",
+        "Proteólisis de la cápside externa para formar una partícula subvírica intermedia.",
+        "Pérdida total de la cápside interna antes de la penetración."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_019",
+      "q": "¿Cuál es el mecanismo fisiopatológico principal por el cual el Rotavirus causa diarrea líquida?",
+      "exp": "La respuesta correcta es C) Atrofia y aplanamiento de las microvellosidades del intestino delgado.\nRotavirus lesiona enterocitos del intestino delgado, altera la absorción y favorece diarrea acuosa.\n\nAnálisis de las alternativas:\nA) No. Invasión de la mucosa colónica con producción de moco y sangre. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Inducción de una respuesta inflamatoria sistémica con leucocitosis fecal. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Atrofia y aplanamiento de las microvellosidades del intestino delgado. responde directamente al dato clave solicitado en el enunciado.\nD) No. Bloqueo irreversible de los receptores de HA en el epitelio respiratorio. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Invasión de la mucosa colónica con producción de moco y sangre.",
+        "Inducción de una respuesta inflamatoria sistémica con leucocitosis fecal.",
+        "Atrofia y aplanamiento de las microvellosidades del intestino delgado.",
+        "Bloqueo irreversible de los receptores de HA en el epitelio respiratorio."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_020",
+      "q": "¿Cuál es el método diagnóstico de elección para confirmar una infección por Rotavirus debido a su sensibilidad?",
+      "exp": "La respuesta correcta es C) PCR.\nLa PCR detecta material genético viral con alta sensibilidad y permite confirmar la infección por rotavirus.\n\nAnálisis de las alternativas:\nA) No. Observación directa de corpúsculos de Negri. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Cultivo en agar sangre a 37 °C. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. PCR. responde directamente al dato clave solicitado en el enunciado.\nD) No. Hemaglutinación indirecta de suero pareado. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Observación directa de corpúsculos de Negri.",
+        "Cultivo en agar sangre a 37 °C.",
+        "PCR.",
+        "Hemaglutinación indirecta de suero pareado."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_021",
+      "q": "¿Qué complicación neurológica se asocia con parálisis y debilidad muscular tras una infección por gripe?",
+      "exp": "La respuesta correcta es C) Síndrome de Guillain-Barré.\nEl síndrome de Guillain-Barré puede aparecer después de infecciones y cursa con debilidad o parálisis progresiva.\n\nAnálisis de las alternativas:\nA) No. Encefalitis espongiforme. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Meningitis bacteriana secundaria. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Síndrome de Guillain-Barré. responde directamente al dato clave solicitado en el enunciado.\nD) No. Síndrome de Reye. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Encefalitis espongiforme.",
+        "Meningitis bacteriana secundaria.",
+        "Síndrome de Guillain-Barré.",
+        "Síndrome de Reye."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_022",
+      "q": "¿Por qué el virus de la gripe B no causa pandemias globales como el virus de la gripe A?",
+      "exp": "La respuesta correcta es D) Porque no experimenta saltos antigénicos por no infectar animales comúnmente.\nInfluenza B tiene circulación principalmente humana y no participa del reasortamiento amplio humano-animal que genera pandemias en influenza A.\n\nAnálisis de las alternativas:\nA) No. Porque es destruido rápidamente por el pH gástrico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Porque carece de Hemaglutinina en su superficie. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Porque su genoma no está segmentado. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Porque no experimenta saltos antigénicos por no infectar animales comúnmente. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Porque es destruido rápidamente por el pH gástrico.",
+        "Porque carece de Hemaglutinina en su superficie.",
+        "Porque su genoma no está segmentado.",
+        "Porque no experimenta saltos antigénicos por no infectar animales comúnmente."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_023",
+      "q": "¿Cuál es el periodo de incubación habitual para el virus de la gripe?",
+      "exp": "La respuesta correcta es D) 1 a 4 días.\nLa gripe tiene incubación corta, habitualmente de 1 a 4 días.\n\nAnálisis de las alternativas:\nA) No. 7 a 14 días. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. 2 a 4 semanas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Menos de 12 horas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. 1 a 4 días. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "7 a 14 días.",
+        "2 a 4 semanas.",
+        "Menos de 12 horas.",
+        "1 a 4 días."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_024",
+      "q": "¿Qué característica del virus de la gripe A permite la clasificación de cepas como H3N2?",
+      "exp": "La respuesta correcta es C) Las variantes de las glucoproteínas Hemaglutinina y Neuraminidasa.\nLa nomenclatura H y N corresponde a los subtipos de Hemaglutinina y Neuraminidasa.\n\nAnálisis de las alternativas:\nA) No. El número de segmentos de ARN en el núcleo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. El tipo de polimerasa PB1 que utiliza el virión. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Las variantes de las glucoproteínas Hemaglutinina y Neuraminidasa. responde directamente al dato clave solicitado en el enunciado.\nD) No. La ciudad donde se aisló el virus por primera vez. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "El número de segmentos de ARN en el núcleo.",
+        "El tipo de polimerasa PB1 que utiliza el virión.",
+        "Las variantes de las glucoproteínas Hemaglutinina y Neuraminidasa.",
+        "La ciudad donde se aisló el virus por primera vez."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_025",
+      "q": "En la replicación del virus de la gripe, ¿cómo abandona la nueva partícula vírica la célula hospedadora?",
+      "exp": "La respuesta correcta es C) Por gemación a través de la membrana plasmática.\nAl ser envuelto, influenza sale principalmente por gemación desde la membrana plasmática.\n\nAnálisis de las alternativas:\nA) No. Por lisis celular explosiva. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Mediante exocitosis a través de vacuolas del aparato de Golgi. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Por gemación a través de la membrana plasmática. responde directamente al dato clave solicitado en el enunciado.\nD) No. A través de puentes intercelulares o nanotubos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Por lisis celular explosiva.",
+        "Mediante exocitosis a través de vacuolas del aparato de Golgi.",
+        "Por gemación a través de la membrana plasmática.",
+        "A través de puentes intercelulares o nanotubos."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_026",
+      "q": "¿Cuál es la función de la proteína M1 en la estructura del virión de la gripe?",
+      "exp": "La respuesta correcta es D) Reviste el interior de la envoltura y favorece el ensamblaje.\nM1 es proteína de matriz, ubicada bajo la envoltura, importante para estructura y ensamblaje del virión.\n\nAnálisis de las alternativas:\nA) No. Degrada el moco respiratorio para alcanzar el epitelio. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Es la encargada de la transcripción del ARN viral. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Actúa como un canal iónico para acidificar el virión. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Reviste el interior de la envoltura y favorece el ensamblaje. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Degrada el moco respiratorio para alcanzar el epitelio.",
+        "Es la encargada de la transcripción del ARN viral.",
+        "Actúa como un canal iónico para acidificar el virión.",
+        "Reviste el interior de la envoltura y favorece el ensamblaje."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_027",
+      "q": "¿Qué grupo de edad es el más afectado sintomáticamente por las infecciones de Rotavirus?",
+      "exp": "La respuesta correcta es D) Lactantes y niños pequeños.\nRotavirus es causa importante de gastroenteritis grave en lactantes y niños pequeños, especialmente cuando disminuye la protección materna.\n\nAnálisis de las alternativas:\nA) No. Recién nacidos en sus primeras 24 horas de vida. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Ancianos mayores de 65 años. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Adolescentes y adultos jóvenes. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Lactantes y niños pequeños. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Recién nacidos en sus primeras 24 horas de vida.",
+        "Ancianos mayores de 65 años.",
+        "Adolescentes y adultos jóvenes.",
+        "Lactantes y niños pequeños."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_028",
+      "q": "¿Cómo se transmite principalmente el Rotavirus en guarderías y entornos preescolares?",
+      "exp": "La respuesta correcta es B) Vía fecal-oral.\nRotavirus se elimina en heces y se transmite por vía fecal-oral, con facilidad en guarderías.\n\nAnálisis de las alternativas:\nA) No. Gotitas de moco de Pflügge. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Vía fecal-oral. responde directamente al dato clave solicitado en el enunciado.\nC) No. Picadura de mosquitos Aedes aegypti. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Contacto directo con sangre infectada. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Gotitas de moco de Pflügge.",
+        "Vía fecal-oral.",
+        "Picadura de mosquitos Aedes aegypti.",
+        "Contacto directo con sangre infectada."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_029",
+      "q": "En el virus de la gripe, ¿qué evento ocurre cada 2 a 3 años causando brotes locales y se debe a mutaciones puntuales?",
+      "exp": "La respuesta correcta es D) Deriva antigénica.\nLa deriva antigénica son cambios menores por mutaciones puntuales; causan brotes y epidemias estacionales.\n\nAnálisis de las alternativas:\nA) No. Reorganización triple. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Inhibición por interferón. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Salto antigénico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Deriva antigénica. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Reorganización triple.",
+        "Inhibición por interferón.",
+        "Salto antigénico.",
+        "Deriva antigénica."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_030",
+      "q": "¿Cuál es la función de la proteína vírica NSP4 en la infección por Rotavirus?",
+      "exp": "La respuesta correcta es D) Actúa como una enterotoxina que induce la secreción de calcio y cloruro.\nNSP4 funciona como enterotoxina viral y contribuye a secreción intestinal y diarrea acuosa.\n\nAnálisis de las alternativas:\nA) No. Inhibe la síntesis de proteínas celulares en el núcleo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Es la proteína de la cápside que se une al ácido siálico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Facilita la gemación del virus a través de la membrana. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Actúa como una enterotoxina que induce la secreción de calcio y cloruro. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Inhibe la síntesis de proteínas celulares en el núcleo.",
+        "Es la proteína de la cápside que se une al ácido siálico.",
+        "Facilita la gemación del virus a través de la membrana.",
+        "Actúa como una enterotoxina que induce la secreción de calcio y cloruro."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_031",
+      "q": "¿Cuál de los siguientes enunciados sobre el virus de la gripe D es correcto según el material proporcionado?",
+      "exp": "La respuesta correcta es A) Infecta al ganado vacuno, pero no se sabe si causa enfermedad en humanos.\nInfluenza D se ha asociado especialmente al ganado bovino; su importancia en humanos es incierta.\n\nAnálisis de las alternativas:\nA) Correcta. Infecta al ganado vacuno, pero no se sabe si causa enfermedad en humanos. responde directamente al dato clave solicitado en el enunciado.\nB) No. Posee 11 segmentos de ARN bicatenario. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Es el único Orthomyxovirus que no posee envoltura. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Es el responsable de la mayoría de las epidemias estivales en niños. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Infecta al ganado vacuno, pero no se sabe si causa enfermedad en humanos.",
+        "Posee 11 segmentos de ARN bicatenario.",
+        "Es el único Orthomyxovirus que no posee envoltura.",
+        "Es el responsable de la mayoría de las epidemias estivales en niños."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_032",
+      "q": "¿Qué efecto tiene el virus de la gripe sobre el epitelio respiratorio que facilita infecciones bacterianas secundarias?",
+      "exp": "La respuesta correcta es D) Pérdida de la función ciliar y descamación de células epiteliales.\nInfluenza daña el epitelio respiratorio, reduce el aclaramiento mucociliar y facilita sobreinfecciones bacterianas.\n\nAnálisis de las alternativas:\nA) No. Cierre de los bronquiolos por inflamación fibrótica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Aumento excesivo de la producción de moco protector. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Inducción de una respuesta de anticuerpos IgA excesiva. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Pérdida de la función ciliar y descamación de células epiteliales. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "Cierre de los bronquiolos por inflamación fibrótica.",
+        "Aumento excesivo de la producción de moco protector.",
+        "Inducción de una respuesta de anticuerpos IgA excesiva.",
+        "Pérdida de la función ciliar y descamación de células epiteliales."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_08_orthomixovirus_reovirus_033",
+      "q": "En la nomenclatura de una cepa de gripe como A/Bangkok/1/79 (H3N2), ¿qué representa el número '1'?",
+      "exp": "La respuesta correcta es A) El número de orden del aislamiento local.\nEn la nomenclatura de influenza, ese número identifica el aislamiento local dentro de los aislamientos registrados.\n\nAnálisis de las alternativas:\nA) Correcta. El número de orden del aislamiento local. responde directamente al dato clave solicitado en el enunciado.\nB) No. La cantidad de segmentos de ARN defectuosos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. El nivel de virulencia en una escala del 1 al 10. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. El mes en que se produjo el brote. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Orthomixovirus y Reovirus",
+      "options": [
+        "El número de orden del aislamiento local.",
+        "La cantidad de segmentos de ARN defectuosos.",
+        "El nivel de virulencia en una escala del 1 al 10.",
+        "El mes en que se produjo el brote."
+      ],
+      "answer": 0,
       "keepOptionOrder": true
     }
   ]

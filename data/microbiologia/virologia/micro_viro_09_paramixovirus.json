@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_09_paramixovirus",
   "title": "Paramixovirus",
-  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 7 Paramixovirus.pdf",
+  "subtitle": "Virología · 36 preguntas · Fuente: Unidad 7 Paramixovirus.pdf",
   "questions": [
     {
       "id": "micro_viro_09_paramixovirus_001",
@@ -151,6 +151,370 @@
         "Infecciones respiratorias, sobre todo en ninos."
       ],
       "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_011",
+      "q": "¿Cuál es la característica estructural del genoma de los Paramixovirus?",
+      "exp": "La respuesta correcta es D) Virión grande con ARN(-) monocatenario en una nucleocápside helicoidal y posee envoltura.\nParamixovirus son virus envueltos con ARN monocatenario de sentido negativo y nucleocápside helicoidal.\n\nAnálisis de las alternativas:\nA) No. Virión con ADN bicatenario circular y nucleocápside icosaédrica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Virión con ARN bicatenario segmentado sin envoltura. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Virión con ARN de cadena positiva, segmentado y desnudo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Virión grande con ARN(-) monocatenario en una nucleocápside helicoidal y posee envoltura. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Virión con ADN bicatenario circular y nucleocápside icosaédrica.",
+        "Virión con ARN bicatenario segmentado sin envoltura.",
+        "Virión con ARN de cadena positiva, segmentado y desnudo.",
+        "Virión grande con ARN(-) monocatenario en una nucleocápside helicoidal y posee envoltura."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_012",
+      "q": "Durante el proceso de replicación de los Paramixovirus, ¿en qué compartimento celular ocurre la multiplicación viral?",
+      "exp": "La respuesta correcta es D) En el citoplasma celular.\nA diferencia de influenza, los paramixovirus realizan su ciclo replicativo en el citoplasma.\n\nAnálisis de las alternativas:\nA) No. En el núcleo de la célula. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. En la cara externa del retículo endoplásmico rugoso exclusivamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. En el espacio intermembranoso de la mitocondria. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. En el citoplasma celular. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "En el núcleo de la célula.",
+        "En la cara externa del retículo endoplásmico rugoso exclusivamente.",
+        "En el espacio intermembranoso de la mitocondria.",
+        "En el citoplasma celular."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_013",
+      "q": "¿A qué componente de la superficie celular se unen inicialmente las proteínas de adhesión HN, H o G de los Paramixovirus?",
+      "exp": "La respuesta correcta es A) Ácido siálico de los glucolípidos de la superficie celular.\nLas proteínas de adhesión de varios paramixovirus reconocen receptores de la superficie celular, como ácido siálico según el virus.\n\nAnálisis de las alternativas:\nA) Correcta. Ácido siálico de los glucolípidos de la superficie celular. responde directamente al dato clave solicitado en el enunciado.\nB) No. Colesterol de las balsas lipídicas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Proteínas de transporte de sodio. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Fosfolípidos neutros de la bicapa lipídica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Ácido siálico de los glucolípidos de la superficie celular.",
+        "Colesterol de las balsas lipídicas.",
+        "Proteínas de transporte de sodio.",
+        "Fosfolípidos neutros de la bicapa lipídica."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_014",
+      "q": "El efecto citopático característico de los Paramixovirus, consistente en células gigantes multinucleadas, se denomina:",
+      "exp": "La respuesta correcta es B) Sincitios.\nLa proteína F favorece fusión célula-célula y formación de sincitios multinucleados.\n\nAnálisis de las alternativas:\nA) No. Coilocitosis. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Sincitios. responde directamente al dato clave solicitado en el enunciado.\nC) No. Lisis por apoptosis. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Cuerpos de Negri. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Coilocitosis.",
+        "Sincitios.",
+        "Lisis por apoptosis.",
+        "Cuerpos de Negri."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_015",
+      "q": "En relación al Virus del Sarampión, ¿cuál afirmación sobre su transmisión es correcta?",
+      "exp": "La respuesta correcta es C) Las gotitas respiratorias pueden quedar suspendidas en el aire hasta 2 horas.\nEl sarampión es extremadamente contagioso por vía respiratoria; partículas infecciosas pueden permanecer suspendidas por un tiempo.\n\nAnálisis de las alternativas:\nA) No. Se requiere contacto directo con fluidos gastrointestinales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Solo se transmite durante la fase de exantema activo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Las gotitas respiratorias pueden quedar suspendidas en el aire hasta 2 horas. responde directamente al dato clave solicitado en el enunciado.\nD) No. Se transmite principalmente por picaduras de mosquitos infectados. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Se requiere contacto directo con fluidos gastrointestinales.",
+        "Solo se transmite durante la fase de exantema activo.",
+        "Las gotitas respiratorias pueden quedar suspendidas en el aire hasta 2 horas.",
+        "Se transmite principalmente por picaduras de mosquitos infectados."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_016",
+      "q": "¿Qué hallazgo clínico es considerado patognomónico para el diagnóstico precoz del sarampión antes del exantema generalizado?",
+      "exp": "La respuesta correcta es A) Manchas de Koplik.\nLas manchas de Koplik en mucosa oral son un dato clásico y muy sugestivo de sarampión antes del exantema.\n\nAnálisis de las alternativas:\nA) Correcta. Manchas de Koplik. responde directamente al dato clave solicitado en el enunciado.\nB) No. Adenopatías cervicales dolorosas crónicas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Fiebre reumática aguda. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Presencia de vesículas umbilicadas en el tronco. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Manchas de Koplik.",
+        "Adenopatías cervicales dolorosas crónicas.",
+        "Fiebre reumática aguda.",
+        "Presencia de vesículas umbilicadas en el tronco."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_017",
+      "q": "¿Cuál es la causa fisiopatológica de la aparición del exantema típico maculopapuloso en el sarampión?",
+      "exp": "La respuesta correcta es B) La respuesta de los linfocitos T frente a las células endoteliales infectadas.\nEl exantema del sarampión se relaciona con la respuesta inmune celular frente a células infectadas, no solo con daño directo viral.\n\nAnálisis de las alternativas:\nA) No. Producción excesiva de histamina por mastocitos pulmonares. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. La respuesta de los linfocitos T frente a las células endoteliales infectadas. responde directamente al dato clave solicitado en el enunciado.\nC) No. Depósito de complejos inmunes circulantes en la dermis. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Lisis directa de los melanocitos por el virus. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Producción excesiva de histamina por mastocitos pulmonares.",
+        "La respuesta de los linfocitos T frente a las células endoteliales infectadas.",
+        "Depósito de complejos inmunes circulantes en la dermis.",
+        "Lisis directa de los melanocitos por el virus."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_018",
+      "q": "¿Cuál es la complicación más grave del sarampión que representa aproximadamente el 60% de las muertes asociadas?",
+      "exp": "La respuesta correcta es C) Neumonía.\nLa neumonía, viral o por sobreinfección bacteriana, es la causa principal de muerte por sarampión.\n\nAnálisis de las alternativas:\nA) No. Panencefalitis esclerosante subaguda. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Diarrea severa con deshidratación. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Neumonía. responde directamente al dato clave solicitado en el enunciado.\nD) No. Encefalitis aguda postinfecciosa. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Panencefalitis esclerosante subaguda.",
+        "Diarrea severa con deshidratación.",
+        "Neumonía.",
+        "Encefalitis aguda postinfecciosa."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_019",
+      "q": "En el diagnóstico citológico del sarampión, ¿qué característica celular se observa típicamente en muestras teñidas con Giemsa?",
+      "exp": "La respuesta correcta es B) Células gigantes multinucleadas con cuerpos de inclusión citoplásmicos.\nParamixovirus producen sincitios; en sarampión pueden observarse células gigantes multinucleadas e inclusiones.\n\nAnálisis de las alternativas:\nA) No. Linfocitos atípicos de Downey. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Células gigantes multinucleadas con cuerpos de inclusión citoplásmicos. responde directamente al dato clave solicitado en el enunciado.\nC) No. Células con núcleos en anillo de sello. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Células en 'ojo de búho'. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Linfocitos atípicos de Downey.",
+        "Células gigantes multinucleadas con cuerpos de inclusión citoplásmicos.",
+        "Células con núcleos en anillo de sello.",
+        "Células en 'ojo de búho'."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_020",
+      "q": "La vacuna SPR para prevenir el sarampión protege contra:",
+      "exp": "La respuesta correcta es D) Sarampión, Paperas y Rubéola.\nSPR o triple viral protege contra sarampión, paperas/parotiditis y rubéola.\n\nAnálisis de las alternativas:\nA) No. Sarampión, Pertussis y Rubéola. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Sarampión, Parainfluenza y Rinovirus. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Sífilis, Polio y Rubéola. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Sarampión, Paperas y Rubéola. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Sarampión, Pertussis y Rubéola.",
+        "Sarampión, Parainfluenza y Rinovirus.",
+        "Sífilis, Polio y Rubéola.",
+        "Sarampión, Paperas y Rubéola."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_021",
+      "q": "¿Cuál es la principal diferencia patogénica entre el Virus de la Parainfluenza y el Virus del Sarampión?",
+      "exp": "La respuesta correcta es C) Parainfluenza no causa viremia ni produce enfermedades sistémicas.\nParainfluenza suele permanecer localizada en vía respiratoria; sarampión es sistémico, con viremia y exantema.\n\nAnálisis de las alternativas:\nA) No. Parainfluenza causa una infección sistémica grave con viremia. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Sarampión solo afecta las vías respiratorias superiores. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Parainfluenza no causa viremia ni produce enfermedades sistémicas. responde directamente al dato clave solicitado en el enunciado.\nD) No. Parainfluenza tiene un solo serotipo, mientras que el sarampión tiene cuatro. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Parainfluenza causa una infección sistémica grave con viremia.",
+        "Sarampión solo afecta las vías respiratorias superiores.",
+        "Parainfluenza no causa viremia ni produce enfermedades sistémicas.",
+        "Parainfluenza tiene un solo serotipo, mientras que el sarampión tiene cuatro."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_022",
+      "q": "Los tipos 1 y 2 del Virus de la Parainfluenza son causas principales de qué síndrome clínico en niños?",
+      "exp": "La respuesta correcta es B) Laringotraqueobronquitis (Crup).\nParainfluenza 1 y 2 se asocian de forma clásica a crup o laringotraqueobronquitis.\n\nAnálisis de las alternativas:\nA) No. Meningitis linfocítica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Laringotraqueobronquitis (Crup). responde directamente al dato clave solicitado en el enunciado.\nC) No. Faringoamigdalitis purulenta. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Bronquiolitis obliterante crónica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Meningitis linfocítica.",
+        "Laringotraqueobronquitis (Crup).",
+        "Faringoamigdalitis purulenta.",
+        "Bronquiolitis obliterante crónica."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_023",
+      "q": "¿Cuál es el tratamiento recomendado para las infecciones por Virus de la Parainfluenza?",
+      "exp": "La respuesta correcta es C) Inhalación de vapores fríos o calientes.\nEl manejo suele ser sintomático y de soporte; el material menciona vapores o medidas locales para aliviar síntomas.\n\nAnálisis de las alternativas:\nA) No. Tratamiento con amoxicilina/ácido clavulánico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Vacunación de emergencia tras la exposición. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Inhalación de vapores fríos o calientes. responde directamente al dato clave solicitado en el enunciado.\nD) No. Administración inmediata de ribavirina intravenosa. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Tratamiento con amoxicilina/ácido clavulánico.",
+        "Vacunación de emergencia tras la exposición.",
+        "Inhalación de vapores fríos o calientes.",
+        "Administración inmediata de ribavirina intravenosa."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_024",
+      "q": "Además de las glándulas parótidas, ¿qué otros órganos se ven frecuentemente afectados por el Virus de la Parotiditis?",
+      "exp": "La respuesta correcta es A) Testículos, ovarios, páncreas y sistema nervioso central.\nEl virus de la parotiditis puede afectar gónadas, páncreas y SNC, además de las parótidas.\n\nAnálisis de las alternativas:\nA) Correcta. Testículos, ovarios, páncreas y sistema nervioso central. responde directamente al dato clave solicitado en el enunciado.\nB) No. Ventrículos cardíacos y válvulas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Solo las glándulas lagrimales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Hígado y bazo exclusivamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Testículos, ovarios, páncreas y sistema nervioso central.",
+        "Ventrículos cardíacos y válvulas.",
+        "Solo las glándulas lagrimales.",
+        "Hígado y bazo exclusivamente."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_025",
+      "q": "¿Cuál es una consecuencia potencial de la orquitis causada por el virus de la parotiditis en varones post-púberes?",
+      "exp": "La respuesta correcta es B) Esterilidad o infertilidad por atrofia testicular.\nLa orquitis pospuberal puede causar atrofia testicular y, en algunos casos, comprometer fertilidad.\n\nAnálisis de las alternativas:\nA) No. Cáncer de próstata a corto plazo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Esterilidad o infertilidad por atrofia testicular. responde directamente al dato clave solicitado en el enunciado.\nC) No. Aumento excesivo de la producción de testosterona. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Desarrollo de hernias inguinales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Cáncer de próstata a corto plazo.",
+        "Esterilidad o infertilidad por atrofia testicular.",
+        "Aumento excesivo de la producción de testosterona.",
+        "Desarrollo de hernias inguinales."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_026",
+      "q": "¿Por qué se asocia el virus de la parotiditis con la aparición de diabetes juvenil en algunos pacientes?",
+      "exp": "La respuesta correcta es D) Debido a la infección y daño directo de las células del páncreas.\nLa parotiditis puede afectar el páncreas; el daño pancreático se ha relacionado con alteraciones metabólicas.\n\nAnálisis de las alternativas:\nA) No. Porque el virus consume todas las reservas de glucosa del cuerpo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Como efecto secundario de la vacuna SPR. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Por una reacción cruzada con la glándula tiroides únicamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Debido a la infección y daño directo de las células del páncreas. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Porque el virus consume todas las reservas de glucosa del cuerpo.",
+        "Como efecto secundario de la vacuna SPR.",
+        "Por una reacción cruzada con la glándula tiroides únicamente.",
+        "Debido a la infección y daño directo de las células del páncreas."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_027",
+      "q": "¿Cuál es la duración de la inmunidad tras una infección natural por el Virus de la Parotiditis?",
+      "exp": "La respuesta correcta es B) Dura toda la vida.\nLa infección natural por parotiditis suele conferir inmunidad duradera.\n\nAnálisis de las alternativas:\nA) No. Breve, requiriendo reinfecciones cada año. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) Correcta. Dura toda la vida. responde directamente al dato clave solicitado en el enunciado.\nC) No. Solo protege contra la orquitis, no contra la parotiditis. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Aproximadamente 5 años solamente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Breve, requiriendo reinfecciones cada año.",
+        "Dura toda la vida.",
+        "Solo protege contra la orquitis, no contra la parotiditis.",
+        "Aproximadamente 5 años solamente."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_028",
+      "q": "¿Cuál es la causa más habitual de infección aguda y mortal de las vías respiratorias en lactantes y niños pequeños?",
+      "exp": "La respuesta correcta es C) Virus Respiratorio Sincitial (VRS).\nEl VRS es causa principal de bronquiolitis y enfermedad respiratoria grave en lactantes.\n\nAnálisis de las alternativas:\nA) No. Metapneumovirus humano. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Bordetella pertussis. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Virus Respiratorio Sincitial (VRS). responde directamente al dato clave solicitado en el enunciado.\nD) No. Virus de la Influenza A. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Metapneumovirus humano.",
+        "Bordetella pertussis.",
+        "Virus Respiratorio Sincitial (VRS).",
+        "Virus de la Influenza A."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_029",
+      "q": "¿Qué mecanismo fisiopatológico explica la dificultad respiratoria severa en lactantes con infección por VRS?",
+      "exp": "La respuesta correcta es D) Obstrucción por tapones de mucosidad, fibrina y material necrótico.\nEl VRS lesiona bronquiolos y genera tapones de moco, fibrina y detritos que obstruyen vías aéreas pequeñas.\n\nAnálisis de las alternativas:\nA) No. Parálisis de los músculos intercostales. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Espasmo laríngeo reflejo permanente. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Destrucción total de los capilares alveolares. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Obstrucción por tapones de mucosidad, fibrina y material necrótico. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Parálisis de los músculos intercostales.",
+        "Espasmo laríngeo reflejo permanente.",
+        "Destrucción total de los capilares alveolares.",
+        "Obstrucción por tapones de mucosidad, fibrina y material necrótico."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_030",
+      "q": "En cuanto a la epidemiología del Virus Respiratorio Sincitial, ¿cuándo suelen producirse los brotes epidémicos?",
+      "exp": "La respuesta correcta es C) Casi siempre en invierno, todos los años.\nLos brotes de VRS son típicos en invierno y se repiten anualmente.\n\nAnálisis de las alternativas:\nA) No. Principalmente durante el verano. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Cada 10 años, coincidiendo con sequías. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Casi siempre en invierno, todos los años. responde directamente al dato clave solicitado en el enunciado.\nD) No. Únicamente en climas tropicales húmedos sin variación estacional. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Principalmente durante el verano.",
+        "Cada 10 años, coincidiendo con sequías.",
+        "Casi siempre en invierno, todos los años.",
+        "Únicamente en climas tropicales húmedos sin variación estacional."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_031",
+      "q": "¿Qué técnica de diagnóstico se está convirtiendo en el método de elección para identificar rápidamente virus como Parainfluenza y Metapneumovirus?",
+      "exp": "La respuesta correcta es C) RT-PCR.\nLa RT-PCR permite detectar genomas virales respiratorios con rapidez y sensibilidad.\n\nAnálisis de las alternativas:\nA) No. Observación directa por microscopía electrónica. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Prueba de la tuberculina. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. RT-PCR. responde directamente al dato clave solicitado en el enunciado.\nD) No. Hemocultivos en medios enriquecidos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Observación directa por microscopía electrónica.",
+        "Prueba de la tuberculina.",
+        "RT-PCR.",
+        "Hemocultivos en medios enriquecidos."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_032",
+      "q": "Respecto al Metapneumovirus humano, ¿en qué grupos puede provocar afecciones respiratorias más graves?",
+      "exp": "La respuesta correcta es C) Niños pequeños, adultos mayores e inmunocomprometidos.\nEl metapneumovirus puede ser más grave en extremos de edad e inmunodeprimidos.\n\nAnálisis de las alternativas:\nA) No. No causa enfermedad grave en ningún grupo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Exclusivamente en pacientes con enfermedades renales crónicas. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Niños pequeños, adultos mayores e inmunocomprometidos. responde directamente al dato clave solicitado en el enunciado.\nD) No. Solo en adultos jóvenes sanos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "No causa enfermedad grave en ningún grupo.",
+        "Exclusivamente en pacientes con enfermedades renales crónicas.",
+        "Niños pequeños, adultos mayores e inmunocomprometidos.",
+        "Solo en adultos jóvenes sanos."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_033",
+      "q": "¿Cuál es la función principal de la proteína de matriz M en el virión de los Paramixovirus?",
+      "exp": "La respuesta correcta es D) Facilitar el ensamblaje y revestir la cara interna de la envoltura.\nLa proteína M organiza el ensamblaje y se ubica asociada a la cara interna de la envoltura viral.\n\nAnálisis de las alternativas:\nA) No. Actuar como receptor para el ácido siálico. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Transcribir el ARN genómico en ARNm. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Inducir la formación de anticuerpos neutralizantes. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) Correcta. Facilitar el ensamblaje y revestir la cara interna de la envoltura. responde directamente al dato clave solicitado en el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Actuar como receptor para el ácido siálico.",
+        "Transcribir el ARN genómico en ARNm.",
+        "Inducir la formación de anticuerpos neutralizantes.",
+        "Facilitar el ensamblaje y revestir la cara interna de la envoltura."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_034",
+      "q": "¿Qué característica epidemiológica comparte el virus del sarampión con el virus de la parotiditis y el de la parainfluenza?",
+      "exp": "La respuesta correcta es A) El ser humano es su único hospedador.\nEl material destaca estos paramixovirus humanos como agentes de transmisión interhumana, sin vector artrópodo.\n\nAnálisis de las alternativas:\nA) Correcta. El ser humano es su único hospedador. responde directamente al dato clave solicitado en el enunciado.\nB) No. Todos requieren ambientes desérticos para su propagación. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Todos se transmiten por vectores artrópodos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Poseen más de 20 serotipos diferentes cada uno. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "El ser humano es su único hospedador.",
+        "Todos requieren ambientes desérticos para su propagación.",
+        "Todos se transmiten por vectores artrópodos.",
+        "Poseen más de 20 serotipos diferentes cada uno."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_035",
+      "q": "En una infección por sarampión, ¿en qué momento se inicia el período de contagio en relación a los síntomas?",
+      "exp": "La respuesta correcta es C) Antes y después de la aparición de los síntomas.\nEl sarampión puede transmitirse desde antes del exantema y continuar durante el periodo sintomático.\n\nAnálisis de las alternativas:\nA) No. Exactamente 14 días después de que desaparece la fiebre. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Solo cuando las costras se caen. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Antes y después de la aparición de los síntomas. responde directamente al dato clave solicitado en el enunciado.\nD) No. Solo durante la presencia de las manchas de Koplik. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Exactamente 14 días después de que desaparece la fiebre.",
+        "Solo cuando las costras se caen.",
+        "Antes y después de la aparición de los síntomas.",
+        "Solo durante la presencia de las manchas de Koplik."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "micro_viro_09_paramixovirus_036",
+      "q": "Si un paciente presenta fiebre, tos, rinorrea y conjuntivitis seguida de un exantema que inicia en la cabeza y baja al tronco, ¿qué diagnóstico se debería sospechar prioritariamente?",
+      "exp": "La respuesta correcta es C) Sarampión.\nLa combinación de fiebre, tos, coriza, conjuntivitis y exantema cefalocaudal es típica de sarampión.\n\nAnálisis de las alternativas:\nA) No. Infección bacteriana por estreptococo. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nB) No. Parotiditis aguda bilateral. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) Correcta. Sarampión. responde directamente al dato clave solicitado en el enunciado.\nD) No. Gripe estacional común. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "topic": "Paramixovirus",
+      "options": [
+        "Infección bacteriana por estreptococo.",
+        "Parotiditis aguda bilateral.",
+        "Sarampión.",
+        "Gripe estacional común."
+      ],
+      "answer": 2,
       "keepOptionOrder": true
     }
   ]
