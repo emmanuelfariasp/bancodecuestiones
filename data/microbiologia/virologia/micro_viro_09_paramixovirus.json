@@ -477,13 +477,13 @@
     },
     {
       "id": "micro_viro_09_paramixovirus_034",
-      "q": "¿Qué característica epidemiológica comparte el virus del sarampión con el virus de la parotiditis y el de la parainfluenza?",
-      "exp": "La respuesta correcta es A) El ser humano es su único hospedador.\nEl material destaca estos paramixovirus humanos como agentes de transmisión interhumana, sin vector artrópodo.\n\nAnálisis de las alternativas:\nA) Correcta. El ser humano es su único hospedador. responde directamente al dato clave solicitado en el enunciado.\nB) No. Todos requieren ambientes desérticos para su propagación. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nC) No. Todos se transmiten por vectores artrópodos. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.\nD) No. Poseen más de 20 serotipos diferentes cada uno. puede parecer relacionada con virología, pero no corresponde al mecanismo, estructura, diagnóstico o cuadro clínico específico que pregunta el enunciado.",
+      "q": "¿Qué característica epidemiológica comparten el virus del sarampión y los virus parainfluenza humanos según la fuente?",
+      "exp": "Respuesta correcta: A) El ser humano es su principal hospedador.\nLa pregunta fue ajustada para comparar solo sarampión y parainfluenza, evitando discusión con otros Paramixovirus. Según la fuente, estos virus se transmiten entre humanos y no dependen de vectores artrópodos ni de reservorios animales para el ciclo clínico habitual.\nAnálisis de las alternativas:\nA) Correcta. Sarampión y parainfluenza son virus humanos de transmisión respiratoria/interhumana.\nB) No. No requieren ambientes desérticos para propagarse.\nC) No. No se transmiten por mosquitos ni otros artrópodos.\nD) No. Sarampión tiene un solo serotipo y parainfluenza no se describe con más de 20 serotipos en la fuente.",
       "topic": "Paramixovirus",
       "options": [
-        "El ser humano es su único hospedador.",
-        "Todos requieren ambientes desérticos para su propagación.",
-        "Todos se transmiten por vectores artrópodos.",
+        "El ser humano es su principal hospedador.",
+        "Ambos requieren ambientes desérticos para su propagación.",
+        "Ambos se transmiten por vectores artrópodos.",
         "Poseen más de 20 serotipos diferentes cada uno."
       ],
       "answer": 0,

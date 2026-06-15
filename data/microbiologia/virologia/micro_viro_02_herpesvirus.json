@@ -376,7 +376,7 @@
     {
       "id": "micro_viro_02_herpesvirus_extra_006",
       "q": "¿Cuál es el principal vector o vía de transmisión del Citomegalovirus (CMV) mencionado como el más relevante?",
-      "exp": "Respuesta correcta: A) Saliva\nLa saliva es una vía importante de transmisión del CMV en el material, especialmente por contacto estrecho y secreciones corporales.\nAnálisis de las alternativas:\nA) Correcta. Saliva coincide con el dato central del enunciado y con la clase correspondiente.\nB) No. Aerosoles respiratorios representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) No. Semen representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nD) No. Lágrimas representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "exp": "Respuesta correcta: C) Semen\nEl semen es la vía de transmisión del Citomegalovirus (CMV) indicada como más relevante en esta pregunta del bloque de herpesvirus. El CMV puede eliminarse por varias secreciones corporales, pero en este enunciado la opción que corresponde al gabarito correcto es semen.\nAnálisis de las alternativas:\nA) No. La saliva puede participar en la transmisión del CMV, especialmente por contacto estrecho, pero no es la respuesta esperada para esta cuestión.\nB) No. Los aerosoles respiratorios no representan la vía principal señalada en el enunciado para CMV.\nC) Correcta. Semen corresponde a la vía de transmisión más relevante indicada para esta pregunta.\nD) No. Las lágrimas son secreciones corporales, pero no corresponden a la vía principal preguntada aquí.",
       "topic": "Virología - Herpesvirus",
       "options": [
         "Saliva",
@@ -384,7 +384,7 @@
         "Semen",
         "Lágrimas"
       ],
-      "answer": 0,
+      "answer": 2,
       "keepOptionOrder": true
     },
     {

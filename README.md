@@ -97,8 +97,20 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - PDF descargable de Microbiología actualizado.
 
 
-## V4.24
+## V4.25
 
 - Agrega preguntas nuevas de Togavirus/Alfavavirus y Retrovirus en Microbiología - Virología.
 - Microbiología queda con 472 preguntas; Virología queda con 362 preguntas en 11 clases.
 - PDF descargable de Microbiología actualizado.
+
+
+## V4.27
+- Corrige Microbiología → Virología → Papilomavirus, pregunta 18. La respuesta correcta ahora es A) Anual / 1 año.
+- PDF de Microbiología actualizado.
+## V4.28
+
+- Ajuste de Papilomavirus, cuestión 5: reformulada para quedar más fiel a la fuente de clase.
+- Ajuste de Toxoplasma gondii, cuestión 2: alternativa corregida a trofozoíto/taquizoíto.
+- Ajuste de Togavirus y Flavivirus, cuestión 27: enunciado reformulado para evitar ambigüedad.
+- Ajuste de Paramixovirus, cuestión 34: comparación limitada a sarampión y parainfluenza.
+

@@ -378,8 +378,8 @@
       "id": "micro_viro_11_togavirus_flavivirus_026"
     },
     {
-      "q": "En la patogenia de los arbovirus, ¿en qué órganos se produce la viremia secundaria?",
-      "exp": "La opción correcta es \"Hígado, bazo y ganglios linfáticos\" porque tras la replicación inicial, muchos arbovirus se amplifican en órganos del sistema reticuloendotelial como hígado, bazo y ganglios, generando viremia secundaria.\nAnálisis de las alternativas:\nA) No. Pulmones y tráquea no son el sitio general descrito para esta amplificación.\nB) No. Intestino delgado y colon no representan el patrón común de viremia secundaria.\nC) No. La médula ósea no se menciona como único órgano de amplificación.\nD) Correcta. Hígado, bazo y ganglios linfáticos son órganos clave para la amplificación viral.",
+      "q": "Durante la viremia secundaria de muchos arbovirus, ¿a qué órganos puede diseminarse o amplificarse el virus antes de alcanzar tejidos diana?",
+      "exp": "Respuesta correcta: D) Hígado, bazo y ganglios linfáticos.\nLa pregunta fue reformulada para evitar afirmar que la viremia “se produce” únicamente en esos órganos. En la patogenia de muchos arbovirus, después de la replicación inicial el virus puede diseminarse y amplificarse en órganos del sistema reticuloendotelial, como hígado, bazo y ganglios linfáticos, antes de alcanzar otros tejidos según su tropismo.\nAnálisis de las alternativas:\nA) No. Pulmones y tráquea no representan el sitio clásico de amplificación sistémica de arbovirus.\nB) No. Intestino delgado y colon no son la respuesta esperada para la viremia secundaria de arbovirus.\nC) No. Médula ósea únicamente es demasiado restrictivo y no corresponde a la descripción general.\nD) Correcta. Hígado, bazo y ganglios linfáticos son órganos compatibles con la diseminación/amplificación secundaria.",
       "topic": "Virología - Togavirus y Flavivirus",
       "options": [
         "Pulmones y tráquea",

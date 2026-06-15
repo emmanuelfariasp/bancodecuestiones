@@ -65,17 +65,17 @@
     },
     {
       "id": "micro_viro_04_papilomavirus_005",
-      "q": "El mecanismo oncogenico del HPV de alto riesgo se explica mejor por:",
-      "exp": "La pregunta está evaluando el dato central que une el enunciado con la unidad correspondiente. La opción correcta es “Inactivacion de p53 y Rb por proteinas virales.” porque, dentro de UNIDAD 3 - Papilomavirus, ese dato encaja con el tema de virología: proteínas reguladoras del ciclo celular inactivadas por E6/E7 de HPV de alto riesgo. Por eso responde al punto solicitado sin cambiar de agente, de vía de transmisión ni de mecanismo. \nAnálisis de las alternativas:\na) No. Esa opción apunta a “Produccion de neurotoxina salival.”: mecanismo de venenos o toxinas, no oncogénesis de HPV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\nb) No. Lo que menciona esta opción corresponde a “Destruccion de eritrocitos por merozoitos.”: mecanismo de malaria, no transformación celular por HPV. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\nc) No. El concepto de esta alternativa es “Bloqueo de canales de sodio bacterianos.”: mecanismo farmacológico antibacteriano, no oncogénesis viral. No debe marcarse porque no mantiene la relación entre el enunciado y el dato correcto de la unidad. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\nd) No. Esta alternativa se refiere a “Formacion de huevos en vía biliar.”: proceso de Fasciola u otros helmintos, no HPV. No debe marcarse porque lleva la explicación hacia parasitología, no hacia el virus preguntado. En cambio, la respuesta correcta exige reconocer “Inactivacion de p53 y Rb por proteinas virales.”.\ne) Correcta. “Inactivacion de p53 y Rb por proteinas virales.” es la opción que conserva el dato clave del enunciado y se ajusta al contenido de la fuente.",
+      "q": "En relación con los VPH de alto riesgo, especialmente VPH-16 y VPH-18, ¿cuál consecuencia clínica se asocia mejor según la fuente?",
+      "exp": "Respuesta correcta: C) Displasia, neoplasia cervical y cáncer de cuello uterino.\nLa fuente de Papilomavirus relaciona los genotipos de alto riesgo, especialmente VPH-16 y VPH-18, con lesiones cervicales, displasia/neoplasia y cáncer de cuello uterino. Por eso esta formulación queda más pegada al material de clase, sin depender de una explicación molecular que no siempre aparece explícita en la fuente.\nAnálisis de las alternativas:\nA) No. Las verrugas plantares se asocian más a VPH cutáneos de bajo riesgo y no explican el riesgo cervical oncogénico.\nB) No. El sarcoma de Kaposi se relaciona con VHH-8, no con Papilomavirus.\nC) Correcta. VPH de alto riesgo se asocia a displasia/neoplasia cervical y cáncer de cuello uterino.\nD) No. La bronquiolitis grave en lactantes se relaciona con virus respiratorios como VRS, no con VPH.\nE) No. Hidrofobia y encefalitis progresiva corresponden a rabia, no a VPH.",
       "topic": "Virología - Papilomavirus",
       "options": [
-        "Produccion de neurotoxina salival.",
-        "Destruccion de eritrocitos por merozoitos.",
-        "Bloqueo de canales de sodio bacterianos.",
-        "Formacion de huevos en vía biliar.",
-        "Inactivacion de p53 y Rb por proteinas virales."
+        "Verrugas plantares benignas sin relación cervical.",
+        "Sarcoma de Kaposi en inmunodeprimidos.",
+        "Displasia, neoplasia cervical y cáncer de cuello uterino.",
+        "Bronquiolitis grave en lactantes pequeños.",
+        "Hidrofobia con encefalitis progresiva."
       ],
-      "answer": 4,
+      "answer": 2,
       "keepOptionOrder": true
     },
     {
@@ -254,7 +254,7 @@
     {
       "id": "micro_viro_04_papilomavirus_extra_008",
       "q": "¿Cuál es la recomendación de frecuencia para el tamizaje con Papanicolaou (PAP) en una mujer con resultados previos negativos?",
-      "exp": "Respuesta correcta: C) Cada 5 años\nCon tamizajes previos negativos, el material permite un intervalo ampliado de control; no corresponde hacerlo semestral ni una sola vez en la vida.\nAnálisis de las alternativas:\nA) No. Anual representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nB) No. Una sola vez en la vida representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.\nC) Correcta. Cada 5 años coincide con el dato central del enunciado y con la clase correspondiente.\nD) No. Cada 6 meses representa otro concepto, una vía distinta o una afirmación que no explica el mecanismo preguntado en esta cuestión.",
+      "exp": "Respuesta correcta: A) Anual / 1 año\nSegún la corrección del bloque, para esta pregunta la frecuencia indicada para el tamizaje con Papanicolaou es anual, es decir, cada 1 año.\nAnálisis de las alternativas:\nA) Correcta. Anual corresponde a 1 año y es la respuesta que debe marcarse en esta cuestión.\nB) No. Una sola vez en la vida no corresponde a un seguimiento periódico.\nC) No. Cada 5 años no corresponde al gabarito corregido de esta cuestión.\nD) No. Cada 6 meses es un intervalo más corto y no corresponde al gabarito corregido.",
       "topic": "Virología - Papilomavirus",
       "options": [
         "Anual",
@@ -262,7 +262,7 @@
         "Cada 5 años",
         "Cada 6 meses"
       ],
-      "answer": 2,
+      "answer": 0,
       "keepOptionOrder": true
     },
     {

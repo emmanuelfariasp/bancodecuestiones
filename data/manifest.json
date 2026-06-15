@@ -1,6 +1,6 @@
 {
-  "version": "4.24.0",
-  "description": "V4.24: agrega nuevas preguntas de Togavirus/Alfavavirus y Retrovirus en Microbiología - Virología, distribuidas por contenido.",
+  "version": "4.28.0",
+  "description": "V4.28: ajustes finos de preguntas en Papilomavirus, Toxoplasma gondii, Togavirus/Flavivirus y Paramixovirus según revisión de gabarito y coherencia con las fuentes.",
   "subjects": {
     "neuro": {
       "key": "neuro",
