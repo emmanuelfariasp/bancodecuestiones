@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_11_togavirus_flavivirus",
   "title": "Togavirus y Flavivirus",
-  "subtitle": "Virología · 10 preguntas · Fuente: Unidad 9 Togavirus y Flavivirus.pdf",
+  "subtitle": "Virología · 30 preguntas · Fuente: Unidad 9 + Togavirus y Alfavirus.pdf",
   "questions": [
     {
       "id": "micro_viro_11_togavirus_flavivirus_001",
@@ -152,6 +152,286 @@
       ],
       "answer": 3,
       "keepOptionOrder": true
+    },
+    {
+      "q": "En el contexto de la epidemiología de los arbovirus, ¿qué papel desempeña el ser humano en la mayoría de los ciclos de transmisión?",
+      "exp": "La opción correcta es \"Hospedador terminal\" porque en muchos arbovirus la viremia humana no alcanza una intensidad suficiente para infectar a nuevos mosquitos, por lo que la transmisión se corta en el ser humano.\nAnálisis de las alternativas:\nA) No. El vector de estos ciclos es un artrópodo hematófago, como mosquitos o garrapatas, no el humano.\nB) Correcta. El ser humano puede enfermar, pero en muchos ciclos no mantiene la transmisión hacia otros vectores.\nC) No. Los reservorios naturales suelen ser animales, como aves o monos, que mantienen el virus en la naturaleza.\nD) No. El humano no suele ser el reservorio natural asintomático; con frecuencia presenta enfermedad clínica.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Vector invertebrado",
+        "Hospedador terminal",
+        "Reservorio primario",
+        "Hospedador natural asintomático"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_011"
+    },
+    {
+      "q": "¿Cuál es la complicación clínica más característica que diferencia a la fiebre amarilla de otros flavivirus?",
+      "exp": "La opción correcta es \"Ictericia con coloración amarilla de piel y ojos\" porque la fiebre amarilla tiene tropismo hepático importante; el daño hepático produce ictericia, signo que la distingue de cuadros como dengue, zika o chikungunya.\nAnálisis de las alternativas:\nA) No. La microcefalia congénita se asocia especialmente a Zika durante la gestación.\nB) Correcta. La ictericia refleja compromiso hepático y es un dato clásico de fiebre amarilla.\nC) No. La artralgia severa y persistente orienta más a chikungunya.\nD) No. El exantema puede aparecer en varias arbovirosis y no diferencia específicamente fiebre amarilla.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Microcefalia congénita",
+        "Ictericia con coloración amarilla de piel y ojos",
+        "Artralgia severa",
+        "Exantema maculopapular"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_012"
+    },
+    {
+      "q": "Sobre el tratamiento de las infecciones por alfavirus y flavivirus, ¿cuál es la recomendación estándar?",
+      "exp": "La opción correcta es \"Tratamiento de soporte con líquidos y paracetamol\" porque no existe un antiviral específico de uso general para la mayoría de estas arbovirosis; el manejo se basa en hidratación, control de fiebre y evitar fármacos que aumenten sangrado.\nAnálisis de las alternativas:\nA) No. Los antibióticos actúan contra bacterias y no tratan infecciones virales por arbovirus.\nB) Correcta. La hidratación y el paracetamol son medidas de soporte adecuadas para fiebre y malestar.\nC) No. La aspirina puede aumentar el riesgo de sangrado, especialmente si se trata de dengue.\nD) No. El aciclovir se usa contra herpesvirus, no contra alfavirus o flavivirus.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Antibioticoterapia de amplio espectro",
+        "Tratamiento de soporte con líquidos y paracetamol",
+        "Uso de aspirina para controlar la fiebre alta",
+        "Administración de aciclovir intravenoso"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_013"
+    },
+    {
+      "q": "¿Qué hallazgo en el diagnóstico de laboratorio confirma una infección activa por un arbovirus?",
+      "exp": "La opción correcta es \"Determinación de anticuerpos IgM\" porque la IgM aparece en infección reciente o activa y es más útil que la IgG aislada para demostrar un proceso agudo.\nAnálisis de las alternativas:\nA) No. La neutrofilia es un dato inespecífico y puede orientar más a procesos bacterianos.\nB) No. La IgG puede persistir por infecciones pasadas o vacunación, por eso no confirma por sí sola infección activa.\nC) No. Los virus no se identifican de rutina por microscopía óptica convencional.\nD) Correcta. La IgM indica respuesta reciente y apoya infección activa o reciente por arbovirus.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Leucocitosis con neutrofilia",
+        "Presencia de IgG persistente",
+        "Visualización del virus por microscopía óptica",
+        "Determinación de anticuerpos IgM"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_014"
+    },
+    {
+      "q": "El virus de la rubéola se diferencia de otros togavirus principalmente por:",
+      "exp": "La opción correcta es \"Su modo de transmisión respiratoria\" porque aunque comparte características estructurales de Togaviridae, la rubéola no es un arbovirus: se transmite de persona a persona por vía respiratoria.\nAnálisis de las alternativas:\nA) No. La rubéola es un virus ARN, no ADN bicatenario.\nB) No. La rubéola es un virus envuelto, como otros togavirus.\nC) No. El material la describe con un solo serotipo, lo que favorece el control por vacuna.\nD) Correcta. La transmisión respiratoria la diferencia de alfavirus transmitidos por artrópodos.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Tener un genoma de ADN bicatenario",
+        "No poseer envoltura lipídica",
+        "Presentar múltiples serotipos",
+        "Su modo de transmisión respiratoria"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_015"
+    },
+    {
+      "q": "¿Qué condición favorece la infección por flavivirus a través de receptores Fc?",
+      "exp": "La opción correcta es \"Presencia de anticuerpos no neutralizantes\" porque los anticuerpos no neutralizantes pueden unirse al virus y facilitar su entrada en células con receptores Fc, fenómeno conocido como potenciación dependiente de anticuerpos.\nAnálisis de las alternativas:\nA) No. El estado de vitamina D no explica este mecanismo de entrada viral.\nB) Correcta. Los anticuerpos no neutralizantes facilitan la entrada viral en células con receptores Fc y pueden agravar la infección.\nC) No. La vacuna contra fiebre amarilla genera anticuerpos protectores neutralizantes contra ese virus.\nD) No. Los antibióticos no modifican la entrada de flavivirus por receptores Fc.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Deficiencia de vitamina D",
+        "Presencia de anticuerpos no neutralizantes",
+        "Vacunación previa contra fiebre amarilla",
+        "Uso previo de antibióticos"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_016"
+    },
+    {
+      "q": "¿Cuál es el vector principal asociado a la transmisión urbana del virus chikungunya y del dengue?",
+      "exp": "La opción correcta es \"Aedes aegypti\" porque Aedes aegypti es el principal mosquito urbano implicado en la transmisión de dengue, chikungunya, zika y fiebre amarilla urbana.\nAnálisis de las alternativas:\nA) No. Anopheles se relaciona principalmente con malaria.\nB) Correcta. Aedes aegypti es el vector urbano más importante para dengue y chikungunya.\nC) No. Culex puede transmitir otros arbovirus, pero no es el principal vector urbano clásico de dengue y chikungunya.\nD) No. Aedes albopictus también puede participar, pero el vector urbano principal señalado es Aedes aegypti.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Anopheles gambiae",
+        "Aedes aegypti",
+        "Culex quinquefasciatus",
+        "Aedes albopictus"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_017"
+    },
+    {
+      "q": "¿Cuál de estos síntomas es un signo de alarma en la fiebre amarilla que indica progresión a etapa grave?",
+      "exp": "La opción correcta es \"Disfunción renal y hemorragias\" porque la etapa grave de fiebre amarilla se asocia con compromiso hepatorrenal, sangrado y falla multiorgánica.\nAnálisis de las alternativas:\nA) No. La cefalea puede aparecer en la fase inicial, pero no define gravedad.\nB) No. El dolor de espalda puede ser parte del cuadro febril inicial.\nC) No. El prurito o exantema no es el signo clásico de progresión grave.\nD) Correcta. La disfunción renal y las hemorragias indican enfermedad sistémica grave.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Cefalea frontal",
+        "Dolor de espalda leve",
+        "Erupciones cutáneas pruriginosas",
+        "Disfunción renal y hemorragias"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_018"
+    },
+    {
+      "q": "En el diagnóstico diferencial de chikungunya, ¿qué característica clínica es más frecuente en dengue según la tabla comparativa?",
+      "exp": "La opción correcta es \"Trombocitopenia\" porque en la comparación, dengue se caracteriza por trombocitopenia más marcada, mientras chikungunya destaca por artralgias intensas.\nAnálisis de las alternativas:\nA) No. La linfopenia marcada se describe más en chikungunya.\nB) No. La fiebre puede aparecer en ambos, y el material marca mayor intensidad en chikungunya.\nC) Correcta. La trombocitopenia intensa es más típica de dengue.\nD) No. Las artralgias intensas son un rasgo cardinal de chikungunya.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Linfopenia severa",
+        "Fiebre muy alta",
+        "Trombocitopenia",
+        "Artralgias intensas"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_019"
+    },
+    {
+      "q": "¿Cuál es el periodo de incubación típico de la fiebre amarilla?",
+      "exp": "La opción correcta es \"3 a 6 días\" porque el periodo de incubación clásico de fiebre amarilla es corto, alrededor de 3 a 6 días después de la picadura infectante.\nAnálisis de las alternativas:\nA) No. Doce a veinticuatro horas es demasiado corto para el periodo típico.\nB) No. Veintiún días excede el periodo habitual.\nC) No. Una a dos semanas no corresponde al intervalo clásico señalado.\nD) Correcta. Tres a seis días es el periodo de incubación típico.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "12 a 24 horas",
+        "21 días",
+        "1 a 2 semanas",
+        "3 a 6 días"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_020"
+    },
+    {
+      "q": "Respecto a la transmisión vertical del chikungunya, ¿cuándo es más probable que la madre infecte al recién nacido?",
+      "exp": "La opción correcta es \"Si presenta fiebre justo al momento del parto o días antes\" porque el riesgo neonatal aumenta cuando la madre está virémica cerca del parto, especialmente si tiene fiebre en los días próximos al nacimiento.\nAnálisis de las alternativas:\nA) No. El riesgo no se limita al primer trimestre.\nB) No. La vía principal señalada no es la lactancia materna exclusiva.\nC) No. La cesárea no es el factor determinante por sí sola.\nD) Correcta. La viremia materna periparto explica la mayor probabilidad de transmisión al recién nacido.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Durante el primer trimestre únicamente",
+        "A través de la lactancia materna exclusiva",
+        "Solo si el parto se realiza por cesárea",
+        "Si presenta fiebre justo al momento del parto o días antes"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_021"
+    },
+    {
+      "q": "La naturaleza de la enfermedad provocada por arbovirus está determinada por tres factores principales. ¿Cuál NO es uno de ellos?",
+      "exp": "La opción correcta es \"Grupo sanguíneo del hospedador\" porque el material relaciona la enfermedad con tropismo viral, dosis o concentración infectante y respuesta del hospedador; el grupo sanguíneo no aparece como factor principal.\nAnálisis de las alternativas:\nA) No. El tropismo determina qué tejidos se afectan y qué síntomas predominan.\nB) No. La respuesta inmune individual modifica gravedad y manifestaciones.\nC) Correcta. El grupo sanguíneo no se presenta como determinante central de la enfermedad por arbovirus.\nD) No. La concentración del virus inoculado influye en el desarrollo del cuadro.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Tropismo celular específico de cada virus",
+        "Respuesta individual a la infección",
+        "Grupo sanguíneo del hospedador",
+        "Concentración del virus infectante"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_022"
+    },
+    {
+      "q": "¿Cuál es la característica principal de la cápside de los alfavirus y flavivirus?",
+      "exp": "La opción correcta es \"Icosaédrica\" porque alfavirus y flavivirus son virus envueltos de ARN positivo con cápside de simetría icosaédrica.\nAnálisis de las alternativas:\nA) No. Pleomórfica describe variación de forma, no la simetría principal de la cápside.\nB) No. La simetría helicoidal no corresponde al grupo.\nC) Correcta. La cápside icosaédrica es la forma característica.\nD) No. Biconvexa no es una clasificación habitual de cápsides virales en este contexto.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Pleomórfica",
+        "Helicoidal",
+        "Icosaédrica",
+        "Biconvexa"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_023"
+    },
+    {
+      "q": "En el vector invertebrado, la infección por arbovirus se caracteriza por ser:",
+      "exp": "La opción correcta es \"Persistente\" porque en el artrópodo vector, el virus suele mantenerse de forma persistente, permitiendo que el vector transmita durante un periodo prolongado.\nAnálisis de las alternativas:\nA) No. No se describe como latencia neuronal del vector.\nB) No. Una infección de pocas horas no permitiría sostener la transmisión vectorial.\nC) No. Si fuera intensamente lítica, dañaría al vector y dificultaría la transmisión persistente.\nD) Correcta. La persistencia en el mosquito permite que actúe como vector eficaz.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Latente en el sistema nervioso",
+        "Transitoria de pocas horas",
+        "Lítica",
+        "Persistente"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_024"
+    },
+    {
+      "q": "¿Qué técnica diagnóstica es preferible para detectar la presencia del virus en sangre durante la fase de fiebre alta?",
+      "exp": "La opción correcta es \"RT-PCR\" porque durante la viremia, la RT-PCR permite detectar ARN viral directamente, antes de depender de anticuerpos tardíos.\nAnálisis de las alternativas:\nA) No. La tuberculina se usa para respuesta celular frente a Mycobacterium tuberculosis.\nB) No. La IgG puede aparecer más tarde y no detecta directamente el virus circulante.\nC) No. Los virus no crecen en agar sangre como las bacterias.\nD) Correcta. La RT-PCR detecta el genoma viral durante la fase febril.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Prueba de la tuberculina",
+        "Aglutinación con látex para IgG",
+        "Cultivo en agar sangre",
+        "RT-PCR"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_025"
+    },
+    {
+      "q": "¿Cuál de las siguientes enfermedades es causada por un alfavirus y se caracteriza por una fase crónica con dolores articulares persistentes?",
+      "exp": "La opción correcta es \"Chikungunya\" porque chikungunya es un alfavirus reconocido por artralgias intensas y, en algunos pacientes, dolor articular persistente en fase subaguda o crónica.\nAnálisis de las alternativas:\nA) No. Zika es un flavivirus y se recuerda más por complicaciones neurológicas o congénitas.\nB) No. Fiebre del Nilo Occidental es un flavivirus asociado a fiebre y neuroinvasión.\nC) Correcta. Chikungunya es el alfavirus clásico de artralgias persistentes.\nD) No. Rubéola es Togaviridae, pero pertenece a Rubivirus y no causa el síndrome articular crónico típico de chikungunya.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Zika",
+        "Fiebre del Nilo Occidental",
+        "Chikungunya",
+        "Rubéola"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_026"
+    },
+    {
+      "q": "En la patogenia de los arbovirus, ¿en qué órganos se produce la viremia secundaria?",
+      "exp": "La opción correcta es \"Hígado, bazo y ganglios linfáticos\" porque tras la replicación inicial, muchos arbovirus se amplifican en órganos del sistema reticuloendotelial como hígado, bazo y ganglios, generando viremia secundaria.\nAnálisis de las alternativas:\nA) No. Pulmones y tráquea no son el sitio general descrito para esta amplificación.\nB) No. Intestino delgado y colon no representan el patrón común de viremia secundaria.\nC) No. La médula ósea no se menciona como único órgano de amplificación.\nD) Correcta. Hígado, bazo y ganglios linfáticos son órganos clave para la amplificación viral.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Pulmones y tráquea",
+        "Intestino delgado y colon",
+        "Médula ósea únicamente",
+        "Hígado, bazo y ganglios linfáticos"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_027"
+    },
+    {
+      "q": "¿Cuál es la principal medida de prevención para evitar la diseminación de cualquier arbovirus en ausencia de vacunas?",
+      "exp": "La opción correcta es \"Eliminación de vectores y sus zonas de reproducción\" porque cuando no hay vacuna disponible, la prevención se centra en cortar la transmisión vectorial eliminando criaderos y evitando picaduras.\nAnálisis de las alternativas:\nA) No. Hervir agua previene infecciones hídricas, no arbovirosis transmitidas por mosquitos.\nB) Correcta. Eliminar criaderos y controlar vectores corta la cadena de transmisión.\nC) No. El paracetamol trata síntomas, pero no previene transmisión.\nD) No. Las mascarillas ayudan en vías respiratorias, no en transmisión por mosquito.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Hervir el agua de consumo",
+        "Eliminación de vectores y sus zonas de reproducción",
+        "Tratamiento preventivo con paracetamol",
+        "Uso de mascarillas N95 en lugares públicos"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_028"
+    },
+    {
+      "q": "Según el material, ¿qué síntoma dermatológico es común en la rubéola?",
+      "exp": "La opción correcta es \"Exantema, uno de los cinco clásicos de la infancia\" porque la rubéola se reconoce por un exantema maculopapular y forma parte de los exantemas clásicos de la infancia.\nAnálisis de las alternativas:\nA) Correcta. El exantema es una manifestación típica de rubéola.\nB) No. Las escamas blanquecinas sugieren procesos dermatológicos no virales como dermatitis seborreica.\nC) No. Las vesículas con costras orientan más a varicela-zóster.\nD) No. Los nódulos subcutáneos dolorosos no son el dato clásico de rubéola.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Exantema, uno de los cinco clásicos de la infancia",
+        "Escamas blanquecinas en cuero cabelludo",
+        "Vesículas con costras tipo varicela",
+        "Nódulos subcutáneos dolorosos"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_029"
+    },
+    {
+      "q": "¿Cuál es el hospedador natural y reservorio frecuente para virus como dengue y fiebre amarilla en ciclos selváticos?",
+      "exp": "La opción correcta es \"Monos\" porque en ciclos selváticos, los primates no humanos actúan como reservorios importantes para mantener virus como dengue o fiebre amarilla en la naturaleza.\nAnálisis de las alternativas:\nA) No. Los roedores no son el reservorio selvático típico señalado para estos virus.\nB) No. Las aves son reservorios de algunos arbovirus, pero no el dato principal aquí.\nC) No. Los cerdos son relevantes en otros ciclos, no como reservorio típico de dengue/fiebre amarilla selvática.\nD) Correcta. Los monos mantienen ciclos selváticos importantes de estos virus.",
+      "topic": "Virología - Togavirus y Flavivirus",
+      "options": [
+        "Roedores pequeños",
+        "Aves migratorias",
+        "Cerdos",
+        "Monos"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_11_togavirus_flavivirus_030"
     }
   ]
 }

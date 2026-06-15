@@ -95,3 +95,10 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Picornavirus, Orthomixovirus/Reovirus, Paramixovirus y Rhabdovirus fueron ampliados.
 - Microbiología queda con 431 preguntas; Virología queda con 321 preguntas en 11 clases.
 - PDF descargable de Microbiología actualizado.
+
+
+## V4.24
+
+- Agrega preguntas nuevas de Togavirus/Alfavavirus y Retrovirus en Microbiología - Virología.
+- Microbiología queda con 472 preguntas; Virología queda con 362 preguntas en 11 clases.
+- PDF descargable de Microbiología actualizado.

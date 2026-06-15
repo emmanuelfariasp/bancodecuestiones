@@ -1,6 +1,6 @@
 {
-  "version": "4.23.0",
-  "description": "V4.23: agrega nuevas preguntas de virología del segundo PDF, distribuidas en Picornavirus, Orthomixovirus/Reovirus, Paramixovirus y Rhabdovirus.",
+  "version": "4.24.0",
+  "description": "V4.24: agrega nuevas preguntas de Togavirus/Alfavavirus y Retrovirus en Microbiología - Virología, distribuidas por contenido.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -166,9 +166,9 @@
     "micro_virologia": {
       "key": "micro_virologia",
       "label": "Microbiología - Virología",
-      "subtitle": "Virología: 11 clases, 321 preguntas, con explicación detallada al responder.",
+      "subtitle": "Virología: 11 clases, 362 preguntas, con explicación detallada al responder.",
       "unit": "Microbiología - Virología",
-      "pdf": "pdf_microbiologia_ii_431_preguntas_emmanuel.pdf",
+      "pdf": "pdf_microbiologia_ii_472_preguntas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Microbiología II",
       "sections": [
         {
@@ -222,7 +222,7 @@
       "label": "Microbiología - Parasitología",
       "subtitle": "Parasitología: generalidades, paludismo, protozoarios y helmintos, con explicación detallada al responder.",
       "unit": "Microbiología - Parasitología",
-      "pdf": "pdf_microbiologia_ii_431_preguntas_emmanuel.pdf",
+      "pdf": "pdf_microbiologia_ii_472_preguntas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Microbiología II",
       "sections": [
         {
@@ -268,7 +268,7 @@
       "label": "Microbiología - Artrópodos",
       "subtitle": "Artrópodos de importancia médica: 10 preguntas con explicación detallada al responder.",
       "unit": "Microbiología - Artrópodos",
-      "pdf": "pdf_microbiologia_ii_431_preguntas_emmanuel.pdf",
+      "pdf": "pdf_microbiologia_ii_472_preguntas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Microbiología II",
       "sections": [
         {
@@ -282,7 +282,7 @@
       "label": "Microbiología - Serpientes",
       "subtitle": "Importancia médica de serpientes: 10 preguntas con explicación detallada al responder.",
       "unit": "Microbiología - Serpientes",
-      "pdf": "pdf_microbiologia_ii_431_preguntas_emmanuel.pdf",
+      "pdf": "pdf_microbiologia_ii_472_preguntas_emmanuel.pdf",
       "pdfLabel": "Descargar PDF Microbiología II",
       "sections": [
         {

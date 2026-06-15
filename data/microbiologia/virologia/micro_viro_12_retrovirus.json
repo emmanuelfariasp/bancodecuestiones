@@ -1,7 +1,7 @@
 {
   "key": "micro_viro_12_retrovirus",
   "title": "Retrovirus",
-  "subtitle": "Virología · 10 preguntas · Fuente: UNIDAD 10 Retrovirus.pdf",
+  "subtitle": "Virología · 31 preguntas · Fuente: Unidad 10 + Togavirus y Alfavirus.pdf",
   "questions": [
     {
       "id": "micro_viro_12_retrovirus_001",
@@ -152,6 +152,300 @@
       ],
       "answer": 2,
       "keepOptionOrder": true
+    },
+    {
+      "q": "¿Cuál es la característica morfológica distintiva de los retrovirus clasificados como Oncovirinae tipo B?",
+      "exp": "La opción correcta es \"Nucleocápside excéntrica dentro del virión maduro\" porque los retrovirus tipo B se distinguen por presentar una nucleocápside excéntrica o asimétrica dentro del virión maduro.\nAnálisis de las alternativas:\nA) Correcta. La nucleocápside excéntrica es el rasgo morfológico del tipo B.\nB) No. La forma cilíndrica se asocia a otros retrovirus, como lentivirus.\nC) No. Los retrovirus son virus envueltos, por lo que no carecen de envoltura.\nD) No. La nucleocápside central y esférica corresponde al tipo C, no al tipo B.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Nucleocápside excéntrica dentro del virión maduro",
+        "Nucleocápside de forma cilíndrica",
+        "Ausencia de envoltura lipídica externa",
+        "Nucleocápside central y esférica"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_011"
+    },
+    {
+      "q": "En la estructura del VIH, ¿qué función específica cumple la enzima integrasa?",
+      "exp": "La opción correcta es \"Insertar el ADN proviral en el genoma de la célula hospedadora\" porque la integrasa cataliza la inserción del ADN viral ya sintetizado dentro del ADN cromosómico de la célula infectada.\nAnálisis de las alternativas:\nA) Correcta. La inserción del ADN proviral es la función propia de la integrasa.\nB) No. El corte de poliproteínas es función de la proteasa viral.\nC) No. La unión a CD4 depende de gp120 y correceptores, no de integrasa.\nD) No. La conversión de ARN a ADN es función de la retrotranscriptasa.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Insertar el ADN proviral en el genoma de la célula hospedadora",
+        "Escindir poliproteínas precursoras",
+        "Facilitar el anclaje inicial de gp120 al CD4",
+        "Convertir el ARN monocatenario en ADN de doble cadena"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_012"
+    },
+    {
+      "q": "Se estima que parte de la población es resistente a la infección por VIH. ¿A qué se debe este fenómeno según el material?",
+      "exp": "La opción correcta es \"Ausencia de correceptores como CCR5 o CXCR4 en sus linfocitos\" porque el VIH necesita CD4 y correceptores como CCR5 o CXCR4 para entrar; alteraciones o ausencia funcional de esos correceptores pueden dificultar la infección.\nAnálisis de las alternativas:\nA) No. Los CD8 ayudan al control, pero no explican por sí solos resistencia de entrada.\nB) No. Los anticuerpos naturales no son el mecanismo señalado.\nC) Correcta. Sin correceptores funcionales, la entrada del VIH se dificulta significativamente.\nD) No. El material apunta a correceptores, no a ausencia total de CD4.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Producción excesiva de linfocitos T CD8 citotóxicos",
+        "Presencia de anticuerpos naturales hiper-eficientes",
+        "Ausencia de correceptores como CCR5 o CXCR4 en sus linfocitos",
+        "Mutación que impide la expresión de receptores CD4"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_013"
+    },
+    {
+      "q": "Durante la replicación del VIH, ¿qué ocurre inmediatamente después de que el ADN viral se inserta en el núcleo celular?",
+      "exp": "La opción correcta es \"Se sintetiza ARN viral a partir del ADN mediante ARN polimerasa celular\" porque después de la integración, el provirus funciona como molde para que la maquinaria celular transcriba ARN viral.\nAnálisis de las alternativas:\nA) Correcta. La transcripción del provirus por ARN polimerasa celular sigue a la integración.\nB) No. La retrotranscripción ocurre antes de la integración.\nC) No. La proteasa actúa más tarde durante la maduración del virión.\nD) No. La gemación ocurre al final del ciclo, no inmediatamente después de integrar.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Se sintetiza ARN viral a partir del ADN mediante ARN polimerasa celular",
+        "La retrotranscriptasa inicia la copia del ARN en ADN",
+        "La proteasa comienza a digerir polipéptidos largos",
+        "El virión se libera por gemación"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_014"
+    },
+    {
+      "q": "¿Cuál es la principal diferencia clínica entre un paciente VIH positivo y uno con SIDA?",
+      "exp": "La opción correcta es \"El recuento de linfocitos T CD4 y la presencia de infecciones oportunistas\" porque SIDA corresponde a una etapa avanzada definida por inmunodeficiencia marcada, CD4 bajos o enfermedades oportunistas.\nAnálisis de las alternativas:\nA) No. Una persona VIH positiva puede transmitir antes de tener SIDA.\nB) Correcta. CD4 bajos y enfermedades oportunistas definen la progresión a SIDA.\nC) No. Anticuerpos positivos indican infección por VIH, no necesariamente SIDA.\nD) No. El tratamiento puede indicarse en cualquier etapa de VIH, no solo en SIDA.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "La capacidad de transmitir el virus",
+        "El recuento de linfocitos T CD4 y la presencia de infecciones oportunistas",
+        "La presencia de anticuerpos detectables por ELISA",
+        "La necesidad de iniciar tratamiento antirretroviral"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_015"
+    },
+    {
+      "q": "De acuerdo con las categorías de los CDC, ¿qué parámetros definen la etapa 2 de la infección por VIH?",
+      "exp": "La opción correcta es \"CD4 entre 200 y 499 y porcentaje entre 14% y 28%\" porque la etapa 2 se ubica en un rango intermedio de inmunodepresión, con CD4 entre 200 y 499 o porcentaje de 14% a 28%.\nAnálisis de las alternativas:\nA) No. CD4 mayor de 500 corresponde a etapa 1.\nB) Correcta. El rango 200-499 y 14%-28% define etapa 2.\nC) No. CD4 menor de 200 o enfermedad oportunista corresponde a etapa 3/SIDA.\nD) No. El síndrome retroviral agudo no define por sí solo la etapa 2.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "CD4 superior a 500 y porcentaje al menos 29%",
+        "CD4 entre 200 y 499 y porcentaje entre 14% y 28%",
+        "CD4 inferior a 200 o afección oportunista",
+        "Síndrome tipo mononucleosis sin anticuerpos"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_016"
+    },
+    {
+      "q": "En un accidente laboral con material contaminado, ¿cuál es el tiempo ideal para iniciar la profilaxis post-exposición?",
+      "exp": "La opción correcta es \"Dentro de las primeras 2 horas del suceso\" porque la profilaxis post-exposición debe iniciarse lo antes posible, idealmente dentro de las primeras dos horas.\nAnálisis de las alternativas:\nA) No. Esperar confirmación puede retrasar una intervención preventiva crítica.\nB) Correcta. El inicio temprano mejora la probabilidad de prevenir infección.\nC) No. Siete días es demasiado tarde para el inicio ideal.\nD) No. Esperar síntomas anula el objetivo preventivo de la profilaxis.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Solo después de confirmar el resultado de la fuente",
+        "Dentro de las primeras 2 horas del suceso",
+        "En un plazo máximo de 7 días",
+        "Después del síndrome retroviral agudo"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_017"
+    },
+    {
+      "q": "¿Qué tumor maligno causado por VHH-8 es característico en pacientes con SIDA?",
+      "exp": "La opción correcta es \"Sarcoma de Kaposi\" porque el sarcoma de Kaposi se asocia a VHH-8 y aparece con mayor frecuencia en inmunodeprimidos, especialmente en SIDA.\nAnálisis de las alternativas:\nA) No. El linfoma de Burkitt se asocia más a VEB.\nB) No. El linfoma de Hodgkin puede relacionarse con VEB en algunos casos, no es el tumor clásico por VHH-8.\nC) No. El carcinoma hepatocelular se relaciona más con hepatitis crónicas y cirrosis.\nD) Correcta. Sarcoma de Kaposi es el tumor típico asociado a VHH-8 en SIDA.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Linfoma de Burkitt",
+        "Linfoma de Hodgkin",
+        "Carcinoma hepatocelular",
+        "Sarcoma de Kaposi"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_018"
+    },
+    {
+      "q": "¿Por qué ELISA se considera una prueba de tamizaje y no confirmatoria definitiva para VIH?",
+      "exp": "La opción correcta es \"Porque posee alta sensibilidad pero especificidad limitada, pudiendo dar falsos positivos\" porque ELISA es muy sensible y útil para screening, pero los resultados reactivos deben confirmarse por pruebas más específicas.\nAnálisis de las alternativas:\nA) No. ELISA puede ser positivo antes de SIDA.\nB) No. ELISA no es una prueba genómica de ADN viral.\nC) Correcta. La alta sensibilidad con posibilidad de falsos positivos justifica confirmación.\nD) No. La carga viral se mide por técnicas moleculares, no por ELISA convencional.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Porque requiere fase de SIDA para ser positivo",
+        "Porque es una prueba genómica de ADN",
+        "Porque posee alta sensibilidad pero especificidad limitada, pudiendo dar falsos positivos",
+        "Porque solo detecta carga viral directa"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_019"
+    },
+    {
+      "q": "¿Cuál es la justificación principal del uso de terapia antirretroviral combinada en lugar de un solo fármaco?",
+      "exp": "La opción correcta es \"Disminuir el riesgo de resistencias y mutaciones virales\" porque la combinación de fármacos bloquea etapas diferentes y reduce la probabilidad de que el virus desarrolle resistencia.\nAnálisis de las alternativas:\nA) No. La terapia no está diseñada para acortar el periodo ventana diagnóstico.\nB) Correcta. Usar varios fármacos disminuye escape viral y resistencia.\nC) No. La combinación no elimina todos los efectos adversos.\nD) No. La terapia controla la replicación, pero no elimina completamente reservorios.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Reducir el periodo ventana a pocos días",
+        "Disminuir el riesgo de resistencias y mutaciones virales",
+        "Eliminar todos los efectos secundarios",
+        "Eliminar completamente el virus de reservorios celulares"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_020"
+    },
+    {
+      "q": "En la cronología del VIH, ¿qué caracteriza a la fase crónica o periodo de latencia clínica?",
+      "exp": "La opción correcta es \"Replicación viral persistente pero lenta, con descenso gradual de CD4\" porque en la fase crónica puede haber pocos síntomas, pero el virus sigue replicándose y los CD4 disminuyen progresivamente.\nAnálisis de las alternativas:\nA) No. La viremia explosiva es más típica de la fase aguda.\nB) Correcta. La persistencia viral con descenso gradual de CD4 define la latencia clínica.\nC) No. Los CD4 no se recuperan espontáneamente por encima del basal sin control terapéutico.\nD) No. La replicación no se detiene por completo solo por anticuerpos.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Mayor viremia y aumento explosivo de carga viral",
+        "Replicación viral persistente pero lenta, con descenso gradual de CD4",
+        "Recuperación de CD4 por encima del nivel previo",
+        "Detención completa de la replicación por anticuerpos"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_021"
+    },
+    {
+      "q": "¿Qué ocurre con el riesgo de transmisión sexual y vertical cuando un paciente logra carga viral indetectable?",
+      "exp": "La opción correcta es \"Disminuye drásticamente hasta ser casi inexistente\" porque la carga viral indetectable reduce de forma marcada la transmisión, base del concepto indetectable igual a intransmisible en transmisión sexual.\nAnálisis de las alternativas:\nA) No. La carga viral indetectable no aumenta el riesgo biológico.\nB) Correcta. Al controlar la replicación, el riesgo de transmisión cae de manera muy importante.\nC) No. El efecto no se limita solo a transmisión vertical.\nD) No. Aunque existan reservorios, el riesgo depende mucho de la carga viral circulante y genital.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Aumenta por falsa seguridad y mutaciones",
+        "Disminuye drásticamente hasta ser casi inexistente",
+        "Solo se elimina el riesgo vertical, no el sexual",
+        "Se mantiene igual porque el virus sigue en el ADN celular"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_022"
+    },
+    {
+      "q": "La glucoproteína gp120 tiene afinidad por CD4. ¿En qué células se encuentra principalmente este receptor?",
+      "exp": "La opción correcta es \"Linfocitos T, macrófagos y células dendríticas\" porque CD4 se expresa en linfocitos T colaboradores y también en macrófagos/células dendríticas, que son blancos importantes del VIH.\nAnálisis de las alternativas:\nA) Correcta. Estas células expresan CD4 y son dianas principales del VIH.\nB) No. Linfocitos B y NK no son el blanco principal por CD4.\nC) No. Las neuronas no son la diana directa principal por gp120-CD4.\nD) No. Eritrocitos y plaquetas no expresan CD4 funcional para entrada del VIH.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Linfocitos T, macrófagos y células dendríticas",
+        "Linfocitos B y células NK",
+        "Neuronas motoras y células musculares",
+        "Eritrocitos y plaquetas"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_023"
+    },
+    {
+      "q": "¿Cuál es la función del proceso de gemación en el ciclo vital del VIH?",
+      "exp": "La opción correcta es \"Permitir que el virión salga adquiriendo envoltura lipídica\" porque en la gemación, el nuevo virión sale a través de la membrana celular y toma de ella su envoltura lipídica.\nAnálisis de las alternativas:\nA) No. La gemación no equivale a lisis explosiva.\nB) No. La inyección de ARN no describe la salida viral.\nC) Correcta. La adquisición de envoltura durante la salida es la función de la gemación.\nD) No. La formación de sincitios es otro efecto de fusión celular, no la gemación.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Acelerar la lisis celular por ruptura violenta",
+        "Inyectar el ARN viral directamente en el citoplasma",
+        "Permitir que el virión salga adquiriendo envoltura lipídica",
+        "Fusionar dos células infectadas para formar sincitio"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_024"
+    },
+    {
+      "q": "¿Qué efecto tiene la pérdida de linfocitos T CD4 sobre la respuesta de hipersensibilidad retardada?",
+      "exp": "La opción correcta es \"Provoca pérdida o disminución severa de la respuesta\" porque la hipersensibilidad retardada depende de inmunidad celular mediada por linfocitos T; al perder CD4, esa respuesta se deteriora.\nAnálisis de las alternativas:\nA) No. No aumenta; disminuye la capacidad de respuesta celular.\nB) No. La respuesta retardada no depende exclusivamente de anticuerpos.\nC) Correcta. La pérdida de CD4 reduce o anula la respuesta DTH.\nD) No. No se reemplaza de forma equivalente por inflamación aguda inespecífica.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Aumenta la sensibilidad ante alérgenos comunes",
+        "No tiene efecto porque depende solo de anticuerpos",
+        "Provoca pérdida o disminución severa de la respuesta",
+        "La sustituye por inflamación aguda inespecífica"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_025"
+    },
+    {
+      "q": "¿Cuál es la función de la enzima proteasa en el ciclo de vida del VIH?",
+      "exp": "La opción correcta es \"Digerir polipéptidos largos para formar proteínas y enzimas funcionales\" porque la proteasa corta poliproteínas virales como Gag y Gag-Pol, permitiendo maduración del virión.\nAnálisis de las alternativas:\nA) Correcta. El corte de poliproteínas genera componentes maduros e infectantes.\nB) No. La entrada ocurre por unión/fusión, no por acción de proteasa sobre membrana.\nC) No. El VIH no necesita degradar el ADN celular para replicarse.\nD) No. La síntesis de ADN desde ARN es función de la retrotranscriptasa.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Digerir polipéptidos largos para formar proteínas y enzimas funcionales",
+        "Romper la membrana celular para facilitar entrada",
+        "Degradar el ADN de la célula hospedadora",
+        "Sintetizar ADN complementario a partir del ARN genómico"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_026"
+    },
+    {
+      "q": "Dentro de la patogenia, ¿qué significa que el VIH cause una infección lítica?",
+      "exp": "La opción correcta es \"Que la replicación masiva termina destruyendo la célula infectada\" porque una infección lítica implica daño y muerte de la célula infectada por la producción y salida de nuevas partículas virales.\nAnálisis de las alternativas:\nA) No. La lisis no significa atenuación progresiva.\nB) Correcta. La destrucción celular por replicación viral define infección lítica.\nC) No. El estado dormido corresponde más a latencia.\nD) No. La vía de transmisión no define el carácter lítico.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Que el virus se vuelve menos agresivo con el tiempo",
+        "Que la replicación masiva termina destruyendo la célula infectada",
+        "Que permanece dormido en el ADN sin producir partículas",
+        "Que solo se transmite por líquidos infectados"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_027"
+    },
+    {
+      "q": "¿Cuál es una complicación gastrointestinal común en pacientes con SIDA avanzado?",
+      "exp": "La opción correcta es \"Diarrea asociada a Salmonella, Shigella y Campylobacter\" porque la inmunodeficiencia avanzada favorece infecciones gastrointestinales oportunistas o graves, con diarrea por bacterias como Salmonella, Shigella y Campylobacter.\nAnálisis de las alternativas:\nA) No. La litiasis biliar no es la complicación gastrointestinal infecciosa típica del SIDA.\nB) No. Las úlceras por estrés no resumen la complicación infecciosa destacada.\nC) Correcta. La diarrea por patógenos entéricos es una complicación común en inmunodeprimidos.\nD) No. La hiperactividad simpática no explica el patrón infeccioso descrito.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Obstrucción biliar por cálculos de colesterol",
+        "Úlceras gástricas por estrés crónico",
+        "Diarrea asociada a Salmonella, Shigella y Campylobacter",
+        "Aumento de motilidad por sistema simpático"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_028"
+    },
+    {
+      "q": "¿Qué papel desempeñan los linfocitos T CD8 en la progresión del VIH?",
+      "exp": "La opción correcta es \"Controlan la progresión, pero requieren activación por CD4\" porque los CD8 citotóxicos ayudan a controlar células infectadas, pero su activación eficaz depende de la cooperación de CD4.\nAnálisis de las alternativas:\nA) No. Las principales células diana son CD4, macrófagos y dendríticas.\nB) Correcta. Los CD8 son importantes para el control antiviral, pero dependen de ayuda inmunológica.\nC) No. Los anticuerpos son producidos por linfocitos B/plasmocitos, no CD8.\nD) No. La integración viral depende de integrasa y ocurre en células infectadas, no por acción de CD8.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Son las principales células infectadas y destruidas",
+        "Controlan la progresión, pero requieren activación por CD4",
+        "Producen anticuerpos detectados en Western Blot",
+        "Aceleran la integración del ADN viral en neuronas"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_029"
+    },
+    {
+      "q": "En la epidemiología del VIH, ¿qué significa el término PVV?",
+      "exp": "La opción correcta es \"Persona que vive con VIH\" porque PVV es una forma actual y respetuosa de referirse a una persona que vive con VIH, sin definir necesariamente etapa clínica.\nAnálisis de las alternativas:\nA) Correcta. Persona que vive con VIH es la expansión correcta.\nB) No. No existe una vacuna efectiva de uso general contra VIH que justifique este significado.\nC) No. Aunque hay poblaciones vulnerables, PVV se refiere a quienes viven con la infección.\nD) No. No significa portador de variantes virulentas.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Persona que vive con VIH",
+        "Paciente con vacunación vigilada",
+        "Población vulnerable al virus",
+        "Portador de variantes virulentas"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_030"
+    },
+    {
+      "q": "¿Cuál es la causa principal de la demencia relacionada con el SIDA según la patogenia descrita?",
+      "exp": "La opción correcta es \"Infección de microglía y neuronas por VIH o infecciones oportunistas\" porque el compromiso neurológico en SIDA se relaciona con infección de células del sistema nervioso como microglía y con infecciones oportunistas que afectan el cerebro.\nAnálisis de las alternativas:\nA) Correcta. El compromiso de microglía y las infecciones oportunistas explican la demencia asociada al SIDA.\nB) No. Los antirretrovirales pueden tener efectos adversos, pero no son la causa principal descrita.\nC) No. La desnutrición puede agravar el estado general, pero no explica directamente la demencia del SIDA.\nD) No. El sarcoma de Kaposi no causa típicamente demencia por ruptura capilar cerebral masiva.",
+      "topic": "Virología - Retrovirus",
+      "options": [
+        "Infección de microglía y neuronas por VIH o infecciones oportunistas",
+        "Efecto tóxico directo de antirretrovirales a largo plazo",
+        "Desnutrición extrema por diarrea crónica",
+        "Ruptura masiva de capilares cerebrales por sarcoma de Kaposi"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true,
+      "id": "micro_viro_12_retrovirus_031"
     }
   ]
 }
