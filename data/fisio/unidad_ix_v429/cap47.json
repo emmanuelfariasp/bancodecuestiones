@@ -1,0 +1,287 @@
+{
+  "key": "fisio_unidad_ix_cap47",
+  "title": "Capítulo 47",
+  "subtitle": "Receptores sensitivos y circuitos neuronales",
+  "questions": [
+    {
+      "id": "fisio_unidad_ix_cap47_001",
+      "q": "¿Qué tipo de receptor es el encargado de detectar la osmolalidad de los líquidos corporales y la concentración de oxígeno en la sangre?",
+      "exp": "Respuesta correcta: D) Quimiorreceptores.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Mecanorreceptores",
+        "Nocirreceptores",
+        "Termorreceptores",
+        "Quimiorreceptores",
+        "Receptores electromagnéticos"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_002",
+      "q": "¿A qué se refiere el \"principio de la línea marcada\" en el sistema sensorial?",
+      "exp": "Respuesta correcta: B) A la especificidad de las fibras para conducir impulsos hacia áreas específicas del cerebro.. Gabarito: Especificidad hacia áreas específicas.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "A la capacidad de una fibra de transmitir múltiples modalidades de sensación.",
+        "A la especificidad de las fibras para conducir impulsos hacia áreas específicas del cerebro.",
+        "Al mecanismo de adaptación rápida de los corpúsculos de Pacini.",
+        "A la suma de potenciales de acción en el primer nódulo de Ranvier.",
+        "A la divergencia de señales en múltiples fascículos paralelos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_003",
+      "q": "¿Cuál es la causa básica del cambio en el potencial de membrana en todos los receptores sensitivos?",
+      "exp": "Respuesta correcta: B) La modificación de la permeabilidad de la membrana para permitir la difusión iónica.. Gabarito: Modificación de la permeabilidad iónica.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "La disminución de la permeabilidad al potasio en la membrana.",
+        "La modificación de la permeabilidad de la membrana para permitir la difusión iónica.",
+        "El cierre de los canales de sodio mediante un proceso de acomodación eléctrica.",
+        "El aumento de la resistencia eléctrica en el segmento amielínico de la fibra.",
+        "La liberación inmediata de vesículas sinápticas en el extremo terminal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_004",
+      "q": "¿Cuál es la amplitud máxima aproximada que pueden alcanzar la mayoría de los potenciales de receptor sensitivos?",
+      "exp": "Respuesta correcta: C) 100 mV.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "10 mV",
+        "50 mV",
+        "100 mV",
+        "120 mV",
+        "150 mV"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_005",
+      "q": "Respecto a la relación entre el potencial de receptor y los potenciales de acción, es correcto afirmar que:",
+      "exp": "Respuesta correcta: C) La frecuencia de los potenciales de acción aumenta de forma proporcional al ascenso del potencial de receptor.. Gabarito: Frecuencia proporcional al potencial.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "A mayor potencial de receptor, menor es la frecuencia de los potenciales de acción.",
+        "El potencial de acción se genera únicamente cuando el potencial de receptor está por debajo del umbral.",
+        "La frecuencia de los potenciales de acción aumenta de forma proporcional al ascenso del potencial de receptor.",
+        "La amplitud del potencial de acción aumenta proporcionalmente a la intensidad del estímulo.",
+        "El potencial de receptor es una respuesta de \"todo o nada\", similar al potencial de acción."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_006",
+      "q": "¿Qué mecanismo explica la adaptación rápida del corpúsculo de Pacini?",
+      "exp": "Respuesta correcta: D) La redistribución del líquido en su estructura viscoelástica y la acomodación de la fibra.. Gabarito: Viscoelasticidad y acomodación.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "La modificación de las sustancias químicas sensibles a la luz.",
+        "El agotamiento total de las reservas de neurotransmisores en la terminal.",
+        "La regulación al alza de los receptores proteicos en la membrana postsináptica.",
+        "La redistribución del líquido en su estructura viscoelástica y la acomodación de la fibra.",
+        "El aumento progresivo de la permeabilidad al sodio en el primer nódulo de Ranvier."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_007",
+      "q": "¿Cuál es una función crítica de los receptores de adaptación rápida o fásicos?",
+      "exp": "Respuesta correcta: B) Detectar cambios en la intensidad del estímulo y predecir el estado futuro del organismo.. Gabarito: Detectar cambios y predecir.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Mantener al cerebro informado sobre el estado de contracción muscular constante.",
+        "Detectar cambios en la intensidad del estímulo y predecir el estado futuro del organismo.",
+        "Transmitir información continua sobre la presión arterial durante horas o días.",
+        "Asegurar que el dolor se perciba de forma persistente mientras dure la lesión tisular.",
+        "Regular la osmolalidad de los líquidos corporales de manera tónica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_008",
+      "q": "Según la clasificación general, ¿qué características definen a las fibras nerviosas de tipo C?",
+      "exp": "Respuesta correcta: B) Son fibras amielínicas pequeñas que conducen impulsos a bajas velocidades.. Gabarito: Amielínicas pequeñas, bajas velocidades.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Son fibras mielínicas grandes con velocidades superiores a 120 m/s.",
+        "Son fibras amielínicas pequeñas que conducen impulsos a bajas velocidades.",
+        "Son fibras de tamaño medio encargadas exclusivamente de la función motora.",
+        "Poseen un diámetro de 20 micrómetros y transmiten sensaciones de tacto fino.",
+        "Representan menos del 10% de las fibras sensitivas en los nervios periféricos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_009",
+      "q": "¿Qué grupo de fibras nerviosas, según la clasificación de los fisiólogos, procede de los órganos tendinosos de Golgi?",
+      "exp": "Respuesta correcta: B) Grupo Ib.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Grupo Ia",
+        "Grupo Ib",
+        "Grupo II",
+        "Grupo III",
+        "Grupo IV"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_010",
+      "q": "El fenómeno de la sumación espacial se define como:",
+      "exp": "Respuesta correcta: B) La transmisión de intensidad mediante un número creciente de fibras paralelas activas.. Gabarito: Aumento del número de fibras paralelas.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "El aumento de la frecuencia de disparo en una sola fibra nerviosa.",
+        "La transmisión de intensidad mediante un número creciente de fibras paralelas activas.",
+        "El retraso en la conducción de la señal a través de múltiples sinapsis.",
+        "La inactivación progresiva de los canales de sodio en el centro del campo receptor.",
+        "La convergencia de múltiples fuentes distintas en una sola neurona motora."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_011",
+      "q": "En la organización de un grupo neuronal, ¿qué ocurre en la \"zona facilitada\"?",
+      "exp": "Respuesta correcta: D) Las neuronas están por debajo del umbral, pero son más fáciles de excitar por otras fuentes.. Gabarito: Por debajo del umbral, pero fáciles de excitar.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Las neuronas alcanzan el umbral de descarga y emiten potenciales de acción.",
+        "Las neuronas están inhibidas y no pueden responder a ningún estímulo adicional.",
+        "El potencial de membrana se aleja del umbral debido a señales hiperpolarizantes.",
+        "Las neuronas están por debajo del umbral, pero son más fáciles de excitar por otras fuentes.",
+        "Se produce una retroalimentación positiva que mantiene la descarga de forma indefinida."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_012",
+      "q": "¿Cuál es el tipo de divergencia característico de la vía corticoespinal para el control muscular?",
+      "exp": "Respuesta correcta: B) Divergencia de tipo amplificador en el mismo fascículo.. Gabarito: Divergencia amplificadora.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Divergencia en múltiples fascículos hacia zonas distantes.",
+        "Divergencia de tipo amplificador en el mismo fascículo.",
+        "Divergencia por inhibición recíproca de los músculos antagonistas.",
+        "Divergencia convergente desde múltiples fuentes del encéfalo.",
+        "Divergencia fásica para la predicción de movimientos rápidos."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_013",
+      "q": "La convergencia desde múltiples fuentes es importante porque permite:",
+      "exp": "Respuesta correcta: B) La sumación de información de diversos orígenes para relacionar y clasificar datos.. Gabarito: Relacionar y clasificar datos de diversos orígenes.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Que una sola fibra de entrada excite a miles de fibras musculares.",
+        "La sumación de información de diversos orígenes para relacionar y clasificar datos.",
+        "La prolongación de la señal mediante un mecanismo de posdescarga sináptica.",
+        "Evitar que los receptores tónicos se adapten a estímulos constantes.",
+        "Reducir la fatiga sináptica en los circuitos de la médula espinal."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_014",
+      "q": "¿Cómo funciona un circuito de inhibición recíproca en el movimiento de las extremidades?",
+      "exp": "Respuesta correcta: A) Una señal excita un músculo y simultáneamente inhibe al antagonista mediante una interneurona.. Gabarito: Excitar uno e inhibir al antagonista vía interneurona.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Una señal excita un músculo y simultáneamente inhibe al antagonista mediante una interneurona.",
+        "El músculo agonista se fatiga rápidamente para permitir la activación del antagonista.",
+        "Ambas vías de salida (excitadora e inhibidora) segregan el mismo tipo de transmisor.",
+        "La señal de entrada se divide para excitar ambos músculos al mismo tiempo.",
+        "Se utiliza una onda portadora para reducir la intensidad de la contracción en ambos lados."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_015",
+      "q": "¿Qué mecanismo puede causar una \"posdescarga\" o salida prolongada de una señal?",
+      "exp": "Respuesta correcta: C) La retroalimentación positiva dentro de un circuito reverberante..",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "La inactivación inmediata de los canales de sodio tras el primer estímulo.",
+        "El uso exclusivo de fibras de tipo C para la conducción rápida.",
+        "La retroalimentación positiva dentro de un circuito reverberante.",
+        "El mecanismo de acomodación eléctrica en la fibrilla nerviosa terminal.",
+        "La regulación a la baja de los receptores sinápticos postsinápticos."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_016",
+      "q": "¿Cuál es la causa principal de la interrupción súbita de la señal en un circuito reverberante?",
+      "exp": "Respuesta correcta: C) La fatiga de las uniones sinápticas en el circuito..",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "El aumento de la facilitación por fibras externas.",
+        "El alcance de un potencial de receptor de 100 mV.",
+        "La fatiga de las uniones sinápticas en el circuito.",
+        "La activación de receptores electromagnéticos en la retina.",
+        "El paso de una sumación espacial a una sumación temporal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_017",
+      "q": "El sistema nervioso autónomo utiliza señales continuas de tipo \"onda portadora\" para:",
+      "exp": "Respuesta correcta: B) Permitir que una señal pueda tanto aumentar como disminuir su intensidad.. Gabarito: Permitir aumento o disminución de intensidad.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Transmitir únicamente sensaciones de dolor agudo y punzante.",
+        "Permitir que una señal pueda tanto aumentar como disminuir su intensidad.",
+        "Asegurar que los músculos esqueléticos estén en constante contracción máxima.",
+        "Evitar que se produzcan convulsiones epilépticas en la corteza cerebral.",
+        "Procesar la información visual antes de que llegue al tálamo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_018",
+      "q": "¿Cómo evita el sistema nervioso central una reexcitación infinita y descontrolada de sus circuitos?",
+      "exp": "Respuesta correcta: B) A través de circuitos inhibidores y la fatiga de las sinapsis.. Gabarito: Circuitos inhibidores y fatiga sináptica.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Mediante la divergencia amplificadora constante.",
+        "A través de circuitos inhibidores y la fatiga de las sinapsis.",
+        "Eliminando todos los circuitos de retroalimentación positiva.",
+        "Reduciendo el diámetro de todas las fibras nerviosas a 0,5 micrómetros.",
+        "Manteniendo todos los receptores en un estado de adaptación lenta permanente."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_019",
+      "q": "¿Qué sucede con la sensibilidad sináptica a largo plazo si una sinapsis se utiliza en exceso?",
+      "exp": "Respuesta correcta: C) Se produce una regulación a la baja de las proteínas receptoras.. Gabarito: Regulación a la baja de proteínas receptoras.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Se produce una regulación al alza, aumentando el número de receptores.",
+        "Los receptores se vuelven más permeables al sodio para facilitar la descarga.",
+        "Se produce una regulación a la baja de las proteínas receptoras.",
+        "La fibra nerviosa se mieliniza para aumentar la velocidad de conducción.",
+        "El circuito se vuelve intrínsecamente excitable de forma rítmica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap47_020",
+      "q": "¿Qué tipo de fibras transmiten las sensaciones de dolor fijo, picor y temperatura de forma lenta?",
+      "exp": "Respuesta correcta: D) Fibras de tipo C (Grupo IV). Gabarito: Fibras de tipo C / Grupo IV.",
+      "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
+      "options": [
+        "Fibras A alfa (Grupo I)",
+        "Fibras A beta (Grupo II)",
+        "Fibras A gamma",
+        "Fibras de tipo C (Grupo IV)",
+        "Fibras piramidales grandes"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -303,6 +303,11 @@ function renderCards(){
     $('groupHintClasses').textContent='Capítulos 25 al 31: 50 preguntas por capítulo.';
     $('generalBlock').classList.add('hidden');
     sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
+  } else if(currentSubject==='fisio_unidad_ix') {
+    $('groupTitleClasses').textContent='Unidad IX - Sistema nervioso';
+    $('groupHintClasses').textContent='Capítulos 46 al 49: principios generales, sinapsis, receptores sensitivos, tacto, posición, dolor y temperatura.';
+    $('generalBlock').classList.add('hidden');
+    sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
   } else if(currentSubject && currentSubject.startsWith('micro_')) {
     $('groupTitleClasses').textContent=subjectLabel();
     $('groupHintClasses').textContent='Cada clase tiene 10 preguntas. En modo estudio, la explicación aparece con análisis detallado de la correcta y de los distractores.';

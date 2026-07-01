@@ -1,0 +1,287 @@
+{
+  "key": "fisio_unidad_ix_cap46",
+  "title": "Capítulo 46",
+  "subtitle": "Organización del sistema nervioso y fisiología de la sinapsis",
+  "questions": [
+    {
+      "id": "fisio_unidad_ix_cap46_001",
+      "q": "¿Cuál es la unidad funcional básica del sistema nervioso central?",
+      "exp": "Respuesta correcta: B) La neurona. Gabarito: La neurona; más de 100.000 millones.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "El axón",
+        "La neurona",
+        "La dendrita",
+        "El soma",
+        "La sinapsis"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_002",
+      "q": "En la mayoría de las sinapsis del sistema nervioso central, ¿en qué dirección circula normalmente la señal?",
+      "exp": "Respuesta correcta: C) En sentido anterógrado (del axón a las dendritas de la siguiente neurona)..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Únicamente en sentido retrógrado (del soma al axón).",
+        "De forma bidireccional entre dendritas.",
+        "En sentido anterógrado (del axón a las dendritas de la siguiente neurona).",
+        "Exclusivamente desde el soma hacia los vasos sanguíneos periféricos.",
+        "Aleatoriamente dependiendo del neurotransmisor liberado."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_003",
+      "q": "¿Qué porcentaje de la información sensitiva recibida es descartada por el encéfalo por carecer de interés o importancia?",
+      "exp": "Respuesta correcta: D) Más del 99%..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Menos del 10%.",
+        "Aproximadamente el 50%.",
+        "Alrededor del 75%.",
+        "Más del 99%.",
+        "Exactamente el 100%."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_004",
+      "q": "El nivel medular del sistema nervioso no es solo un conducto, ya que puede originar de forma independiente:",
+      "exp": "Respuesta correcta: C) Reflejos de marcha y retirada ante objetos dolorosos..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Procesos complejos de pensamiento abstracto.",
+        "El control de la vigilia y la atención consciente.",
+        "Reflejos de marcha y retirada ante objetos dolorosos.",
+        "La regulación de la memoria a largo plazo.",
+        "La interpretación de señales visuales y auditivas."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_005",
+      "q": "¿Cuál de las siguientes regiones es responsable de gran parte de las actividades inconscientes, como la regulación de la presión arterial y la respiración?",
+      "exp": "Respuesta correcta: B) El nivel encefálico inferior o subcortical..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "La corteza cerebral motora.",
+        "El nivel encefálico inferior o subcortical.",
+        "El segmento inicial del axón.",
+        "Los receptores de la superficie cutánea.",
+        "El área somatestésica de la corteza."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_006",
+      "q": "¿Qué característica distingue fundamentalmente a las sinapsis químicas de las eléctricas?",
+      "exp": "Respuesta correcta: C) Las químicas utilizan neurotransmisores y conducen señales de forma unidireccional.. Gabarito: Utilizan neurotransmisores y conducción unidireccional.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Las químicas permiten el movimiento libre de iones por uniones en hendidura.",
+        "Las químicas son bidireccionales y más rápidas.",
+        "Las químicas utilizan neurotransmisores y conducen señales de forma unidireccional.",
+        "Las químicas no poseen hendidura sináptica.",
+        "Las químicas se encuentran exclusivamente en el músculo liso visceral."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_007",
+      "q": "¿Qué ion es fundamental para provocar la liberación del neurotransmisor desde las vesículas del terminal presináptico hacia la hendidura?",
+      "exp": "Respuesta correcta: D) Calcio (Ca++).. Gabarito: Calcio - Ca++.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Potasio (K+).",
+        "Cloruro (Cl-).",
+        "Magnesio (Mg++).",
+        "Calcio (Ca++).",
+        "Hierro (Fe++)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_008",
+      "q": "Los receptores que actúan a través de sistemas de segundos mensajeros para generar efectos duraderos se denominan:",
+      "exp": "Respuesta correcta: B) Receptores metabotrópicos..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Receptores ionotrópicos.",
+        "Receptores metabotrópicos.",
+        "Canales aniónicos.",
+        "Puntos de liberación.",
+        "Receptores de unión rápida."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_009",
+      "q": "En el sistema de la proteína G, ¿cuál es el componente que actúa como la porción activadora y se desprende para ejecutar funciones intracelulares?",
+      "exp": "Respuesta correcta: C) El componente alfa (α).. Gabarito: El componente alfa - α.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "El componente gamma (γ).",
+        "El componente beta (β).",
+        "El componente alfa (α).",
+        "El difosfato de guanosina (GDP).",
+        "El canal de potasio de la membrana."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_010",
+      "q": "¿Cuál de los siguientes mecanismos celulares provoca la inhibición de la neurona postsináptica?",
+      "exp": "Respuesta correcta: C) Aumento de la conductancia para los iones potasio hacia el exterior.. Gabarito: Aumento de la conductancia para potasio hacia el exterior.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Apertura de los canales de sodio.",
+        "Reducción de la difusión de iones cloruro al interior.",
+        "Aumento de la conductancia para los iones potasio hacia el exterior.",
+        "Incremento del metabolismo interno de la neurona.",
+        "Disminución de la negatividad interna de la membrana."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_011",
+      "q": "¿Cuál es un ejemplo de neurotransmisor de acción rápida y molécula pequeña clasificado como aminoácido?",
+      "exp": "Respuesta correcta: D) GABA (ácido γ-aminobutírico)..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Acetilcolina.",
+        "Noradrenalina.",
+        "Óxido nítrico.",
+        "GABA (ácido γ-aminobutírico).",
+        "Sustancia P."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_012",
+      "q": "El óxido nítrico se diferencia de otros transmisores de molécula pequeña porque:",
+      "exp": "Respuesta correcta: B) Se sintetiza al instante según la necesidad y difunde fuera del terminal.. Gabarito: Se sintetiza al instante y difunde fuera.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Se almacena en grandes vesículas en el soma.",
+        "Se sintetiza al instante según la necesidad y difunde fuera del terminal.",
+        "Actúa exclusivamente abriendo canales de sodio por milisegundos.",
+        "Es el neurotransmisor principal de la unión neuromuscular esquelética.",
+        "Se recicla mediante transporte activo hacia la vesícula presináptica."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_013",
+      "q": "¿Qué caracteriza a los neuropéptidos en comparación con los transmisores de molécula pequeña?",
+      "exp": "Respuesta correcta: C) Tienen una potencia mil veces mayor y acciones mucho más duraderas.. Gabarito: Potencia mil veces mayor y acciones duraderas.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Poseen una acción mucho más rápida y efímera.",
+        "Se sintetizan en el terminal presináptico mediante enzimas citoplasmáticas.",
+        "Tienen una potencia mil veces mayor y acciones mucho más duraderas.",
+        "Son liberados en cantidades masivas en cada potencial de acción.",
+        "Sus vesículas se reutilizan continuamente tras la exocitosis."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_014",
+      "q": "El potencial de membrana en reposo del soma de una motoneurona medular típica es de aproximadamente:",
+      "exp": "Respuesta correcta: C) –65 mV..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "–90 mV.",
+        "+61 mV.",
+        "–65 mV.",
+        "–45 mV.",
+        "0 mV."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_015",
+      "q": "¿Dónde se origina normalmente el potencial de acción en la neurona debido a la alta concentración de canales de sodio dependientes de voltaje?",
+      "exp": "Respuesta correcta: C) En el segmento inicial del axón (cono axónico)..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "En las puntas de las dendritas.",
+        "En el centro del soma celular.",
+        "En el segmento inicial del axón (cono axónico).",
+        "En la hendidura sináptica.",
+        "En los receptores postsinápticos de la membrana."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_016",
+      "q": "La hiperpolarización de la membrana neuronal por encima del nivel de reposo genera un:",
+      "exp": "Respuesta correcta: B) Potencial postsináptico inhibidor (PPSI).. Gabarito: Potencial postsináptico inhibidor - PPSI.",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Potencial postsináptico excitador (PPSE).",
+        "Potencial postsináptico inhibidor (PPSI).",
+        "Estado de facilitación extrema.",
+        "Potencial de acción retrógrado.",
+        "Incremento de la permeabilidad al sodio."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_017",
+      "q": "¿Cómo se denomina el proceso por el cual las descargas sucesivas de un solo terminal presináptico se añaden unas a otras?",
+      "exp": "Respuesta correcta: D) Sumación temporal..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Sumación espacial.",
+        "Facilitación dendrítica.",
+        "Conducción decreciente.",
+        "Sumación temporal.",
+        "Fatiga de transmisión."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_018",
+      "q": "¿Por qué las sinapsis situadas cerca del soma ejercen un efecto mayor que las que están alejadas en las dendritas?",
+      "exp": "Respuesta correcta: B) Debido a la conducción decreciente (pérdida de corriente por la membrana porosa)..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Porque las dendritas tienen mayor cantidad de canales de sodio.",
+        "Debido a la conducción decreciente (pérdida de corriente por la membrana porosa).",
+        "Porque el neurotransmisor es más potente en la base de la dendrita.",
+        "Debido a que el soma es una solución electrolítica poco conductora.",
+        "Porque las dendritas solo pueden transmitir potenciales de acción."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_019",
+      "q": "El aumento de la excitabilidad neuronal provocado por un ascenso en el pH de la sangre arterial se conoce como efecto de:",
+      "exp": "Respuesta correcta: C) Alcalosis..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "Acidosis.",
+        "Hipoxia.",
+        "Alcalosis.",
+        "Anestesia.",
+        "Fatiga sináptica."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap46_020",
+      "q": "¿Cuál es el tiempo mínimo necesario para que ocurran todos los eventos de la transmisión sináptica (retraso sináptico)?",
+      "exp": "Respuesta correcta: B) 0,5 ms..",
+      "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
+      "options": [
+        "0,1 ms.",
+        "0,5 ms.",
+        "5,0 ms.",
+        "15 ms.",
+        "1 o 2 segundos."
+      ],
+      "answer": 1
+    }
+  ]
+}

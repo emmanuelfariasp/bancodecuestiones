@@ -114,3 +114,8 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 - Ajuste de Togavirus y Flavivirus, cuestión 27: enunciado reformulado para evitar ambigüedad.
 - Ajuste de Paramixovirus, cuestión 34: comparación limitada a sarampión y parainfluenza.
 
+
+
+## V4.29
+
+Agregada Fisiología - Unidad IX con capítulos 46 a 49, 80 preguntas y PDF propio de descarga.

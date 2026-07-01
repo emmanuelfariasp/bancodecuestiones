@@ -1,0 +1,287 @@
+{
+  "key": "fisio_unidad_ix_cap48",
+  "title": "Capítulo 48",
+  "subtitle": "Sensibilidades somáticas I: tacto y posición",
+  "questions": [
+    {
+      "id": "fisio_unidad_ix_cap48_001",
+      "q": "¿Cuál de las siguientes categorías de sensibilidad somática se activa específicamente por factores que dañan los tejidos?",
+      "exp": "Respuesta correcta: C) Sensibilidad al dolor..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Sensibilidades termorreceptoras.",
+        "Sensibilidad exterorreceptora.",
+        "Sensibilidad al dolor.",
+        "Sensibilidad propioceptiva.",
+        "Sensibilidad visceral."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_002",
+      "q": "¿Qué receptor táctil es especialmente abundante en las yemas de los dedos y los labios, permitiendo discernir la localización espacial con gran precisión?",
+      "exp": "Respuesta correcta: B) Corpúsculo de Meissner..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Órgano terminal del pelo.",
+        "Corpúsculo de Meissner.",
+        "Terminación de Ruffini.",
+        "Corpúsculo de Pacini.",
+        "Terminación nerviosa libre."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_003",
+      "q": "Sobre los discos de Merkel, es correcto afirmar que:",
+      "exp": "Respuesta correcta: C) Transmiten una señal inicial intensa y luego una señal débil y continua..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Son receptores de adaptación extremadamente rápida similares a los de Pacini.",
+        "Se encuentran únicamente en las zonas de la piel que poseen vello.",
+        "Transmiten una señal inicial intensa y luego una señal débil y continua.",
+        "Están inervados exclusivamente por fibras amielínicas de tipo C.",
+        "Su función principal es la detección de vibraciones de muy alta frecuencia."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_004",
+      "q": "¿Qué estructura se describe como un grupo de discos de Merkel inervados por una sola fibra mielínica de tipo Aβ que sobresale en el epitelio?",
+      "exp": "Respuesta correcta: D) Receptor en cúpula de Iggo..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Corpúsculo de Meissner.",
+        "Terminación de Ruffini.",
+        "Órgano terminal del pelo.",
+        "Receptor en cúpula de Iggo.",
+        "Complejo ventrobasal."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_005",
+      "q": "Los receptores encargados de comunicar un estado de deformación continua en los tejidos y el grado de rotación articular son:",
+      "exp": "Respuesta correcta: C) Las terminaciones de Ruffini..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Los corpúsculos de Pacini.",
+        "Los corpúsculos de Meissner.",
+        "Las terminaciones de Ruffini.",
+        "Los receptores pilosos.",
+        "Las terminaciones nerviosas libres."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_006",
+      "q": "¿A qué velocidad aproximada transmiten las señales los receptores táctiles especializados (como Meissner o Pacini) a través de las fibras de tipo Aβ?",
+      "exp": "Respuesta correcta: C) Entre 30 y 70 m/s..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Entre 1 y 2 m/s.",
+        "Entre 5 y 30 m/s.",
+        "Entre 30 y 70 m/s.",
+        "Entre 80 y 120 m/s.",
+        "Menos de 1 m/s."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_007",
+      "q": "Las sensaciones de cosquilleo y picor se transmiten predominantemente por:",
+      "exp": "Respuesta correcta: B) Fibras amielínicas muy pequeñas de tipo C..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Fibras mielínicas grandes de tipo Aβ.",
+        "Fibras amielínicas muy pequeñas de tipo C.",
+        "El sistema de la columna dorsal-lemnisco medial.",
+        "Las capas más profundas de la corteza (capa VI).",
+        "Fibras mielínicas de conducción rápida (110 m/s)."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_008",
+      "q": "¿Cuál es una característica distintiva del sistema de la columna dorsal-lemnisco medial en comparación con el sistema anterolateral?",
+      "exp": "Respuesta correcta: D) Transmite señales con alta fidelidad temporal y espacial..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Transmite sensaciones de dolor y temperatura.",
+        "Posee una velocidad de transmisión de 8 a 40 m/s.",
+        "Presenta un escaso grado de orientación espacial.",
+        "Transmite señales con alta fidelidad temporal y espacial.",
+        "Sus fibras se decusan inmediatamente al entrar en la médula."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_009",
+      "q": "En el sistema de la columna dorsal, ¿dónde hacen sinapsis las neuronas de primer orden con las de segundo orden antes de decusarse?",
+      "exp": "Respuesta correcta: C) En los núcleos cuneiforme y grácil del bulbo raquídeo..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "En las astas dorsales de la sustancia gris medular.",
+        "En el complejo ventrobasal del tálamo.",
+        "En los núcleos cuneiforme y grácil del bulbo raquídeo.",
+        "En la capa IV de la corteza somatosensitiva.",
+        "En la formación reticular del tronco del encéfalo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_010",
+      "q": "¿En qué región de la corteza cerebral terminan principalmente las fibras de tercer orden del sistema somatosensitivo?",
+      "exp": "Respuesta correcta: B) En la circunvolución poscentral del lóbulo parietal..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "En el lóbulo occipital.",
+        "En la circunvolución poscentral del lóbulo parietal.",
+        "En la mitad posterior del lóbulo frontal.",
+        "En el área de asociación auditiva del lóbulo temporal.",
+        "En la cisura lateral de la corteza motora."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_011",
+      "q": "El mapa de las áreas de Brodmann identifica a las áreas 1, 2 y 3 como:",
+      "exp": "Respuesta correcta: C) El área somatosensitiva I..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "El área de asociación somatosensitiva.",
+        "La corteza motora primaria.",
+        "El área somatosensitiva I.",
+        "El área somatosensitiva II.",
+        "La corteza visual primaria."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_012",
+      "q": "Según el homunculus sensitivo, ¿qué región del cuerpo ocupa el territorio cortical más extenso debido a su alta densidad de receptores?",
+      "exp": "Respuesta correcta: C) Los labios..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "El tronco.",
+        "Las piernas.",
+        "Los labios.",
+        "Los pies.",
+        "El brazo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_013",
+      "q": "¿Cuál es la función principal de la capa neuronal IV de la corteza somatosensitiva?",
+      "exp": "Respuesta correcta: B) Recibir en primer lugar la señal sensitiva entrante desde el tálamo..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Enviar axones hacia el lado opuesto del cerebro vía cuerpo calloso.",
+        "Recibir en primer lugar la señal sensitiva entrante desde el tálamo.",
+        "Controlar los niveles de excitabilidad mediante señales difusas.",
+        "Enviar señales hacia los ganglios basales y la médula espinal.",
+        "Emitir señales inhibitorias hacia los núcleos de relevo inferiores."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_014",
+      "q": "La extirpación bilateral del área somatosensitiva I provoca la pérdida de la capacidad para:",
+      "exp": "Respuesta correcta: C) Valorar el peso y la forma de los objetos..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Percibir dolor de forma absoluta.",
+        "Detectar cualquier cambio de temperatura.",
+        "Valorar el peso y la forma de los objetos.",
+        "Realizar movimientos musculares voluntarios.",
+        "Identificar sonidos de alta frecuencia."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_015",
+      "q": "¿Qué trastorno se caracteriza por ignorar la existencia del lado opuesto del cuerpo tras una lesión en el área de asociación somatosensitiva?",
+      "exp": "Respuesta correcta: B) Amorfosíntesis..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Astereognosia.",
+        "Amorfosíntesis.",
+        "Cinestesia.",
+        "Dermatoma segmentario.",
+        "Inhibición circundante."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_016",
+      "q": "El mecanismo de inhibición lateral en las vías sensitivas es fundamental para:",
+      "exp": "Respuesta correcta: C) Acentuar el contraste y la nitidez del patrón sensitivo..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Aumentar la velocidad de conducción de las fibras C.",
+        "Bloquear la percepción del dolor intenso.",
+        "Acentuar el contraste y la nitidez del patrón sensitivo.",
+        "Facilitar la dispersión de la señal hacia neuronas adyacentes.",
+        "Permitir que la señal llegue más rápido al complejo ventrobasal."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_017",
+      "q": "Según el principio de Weber-Fechner, las gradaciones en la potencia del estímulo se distinguen en proporción al:",
+      "exp": "Respuesta correcta: B) Logaritmo de la potencia del estímulo..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Cuadrado de la potencia del estímulo.",
+        "Logaritmo de la potencia del estímulo.",
+        "Exponente de la ley de la potencia.",
+        "Número total de receptores activados.",
+        "Grosor de la vaina de mielina de la fibra."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_018",
+      "q": "¿Qué receptores son los más relevantes para determinar la angulación articular en el recorrido medio del movimiento?",
+      "exp": "Respuesta correcta: B) Husos musculares..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Corpúsculos de Pacini.",
+        "Husos musculares.",
+        "Receptores tendinosos de Golgi.",
+        "Terminaciones nerviosas libres.",
+        "Órganos terminales del pelo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_019",
+      "q": "¿Cuál es el propósito principal de las señales corticófugas que viajan desde la corteza hacia los núcleos de relevo inferiores?",
+      "exp": "Respuesta correcta: C) Controlar la intensidad y nitidez de las entradas sensitivas..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "Amplificar señales débiles para que lleguen a la consciencia.",
+        "Iniciar los reflejos medulares locales de forma autónoma.",
+        "Controlar la intensidad y nitidez de las entradas sensitivas.",
+        "Suministrar energía metabólica a las neuronas talámicas.",
+        "Cambiar la modalidad de la sensación de tacto a dolor."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fisio_unidad_ix_cap48_020",
+      "q": "El dermatoma que corresponde a la región anal del cuerpo y representa el segmento medular más distal es:",
+      "exp": "Respuesta correcta: E) S5..",
+      "topic": "Capítulo 48 - Sensibilidades somáticas I: tacto y posición",
+      "options": [
+        "C2.",
+        "T10.",
+        "L1.",
+        "S2.",
+        "S5."
+      ],
+      "answer": 4
+    }
+  ]
+}

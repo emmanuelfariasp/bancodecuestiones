@@ -1,6 +1,6 @@
 {
-  "version": "4.28.0",
-  "description": "V4.28: ajustes finos de preguntas en Papilomavirus, Toxoplasma gondii, Togavirus/Flavivirus y Paramixovirus según revisión de gabarito y coherencia con las fuentes.",
+  "version": "4.29.0",
+  "description": "V4.29: agrega Fisiología - Unidad IX con capítulos 46 a 49 y 80 preguntas basadas en el archivo Unidad IX.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -160,6 +160,32 @@
         {
           "key": "fisio_renal_cap31",
           "file": "data/fisio/unidad_v_v419/cap31.json"
+        }
+      ]
+    },
+    "fisio_unidad_ix": {
+      "key": "fisio_unidad_ix",
+      "label": "Fisiología - Unidad IX",
+      "subtitle": "Unidad IX: Sistema nervioso. Principios generales, sinapsis, receptores sensitivos, tacto, posición, dolor, cefalea y temperatura.",
+      "unit": "Unidad IX - Sistema nervioso: principios generales y sensibilidad",
+      "pdf": "pdf_fisiologia_unidad_ix_80_preguntas_emmanuel.pdf",
+      "pdfLabel": "Descargar PDF Unidad IX - Sistema nervioso",
+      "sections": [
+        {
+          "key": "fisio_unidad_ix_cap46",
+          "file": "data/fisio/unidad_ix_v429/cap46.json"
+        },
+        {
+          "key": "fisio_unidad_ix_cap47",
+          "file": "data/fisio/unidad_ix_v429/cap47.json"
+        },
+        {
+          "key": "fisio_unidad_ix_cap48",
+          "file": "data/fisio/unidad_ix_v429/cap48.json"
+        },
+        {
+          "key": "fisio_unidad_ix_cap49",
+          "file": "data/fisio/unidad_ix_v429/cap49.json"
         }
       ]
     },
