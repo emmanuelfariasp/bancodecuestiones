@@ -14,7 +14,19 @@ function shuffleQuestionOptions(q){if(q.keepOptionOrder) return {...q}; const or
 function prepareQuestions(qs){ return shuffle(qs).map(shuffleQuestionOptions); }
 function pct(n,d){return d?Math.round((n/d)*100):0}
 function escHtml(str){return String(str).replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
-function expHtml(str){return `<div class="expText">${escHtml(str)}</div>`;}
+function cleanExplanationText(str){
+  let s = String(str || '').trim();
+  if(!s) return '';
+  // Algunas preguntas importadas traían la letra original del PDF en la explicación.
+  // Como el aplicativo mezcla las alternativas, esa letra puede cambiar.
+  // Por eso la explicación nunca debe mostrar A/B/C/D/E fijas.
+  s = s.replace(/^Respuesta correcta:\s*[A-E]\)\s*/i, 'Concepto clave: ');
+  s = s.replace(/\.{2,}/g, '.');
+  s = s.replace(/\s+\./g, '.');
+  s = s.replace(/\s+/g, ' ').trim();
+  return s;
+}
+function expHtml(str){const cleaned=cleanExplanationText(str); return cleaned ? `<div class="expText">${escHtml(cleaned)}</div>` : '';}
 function cleanName(name){return String(name||'').trim().replace(/\s+/g,' ').slice(0,40)}
 function getVisitorName(){return cleanName(localStorage.getItem(NAME_KEY)||'')}
 function getSections(subject=currentSubject){return subject && SUBJECTS[subject] ? SUBJECTS[subject].sections : []}

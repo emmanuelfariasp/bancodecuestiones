@@ -6,7 +6,7 @@
     {
       "id": "fisio_unidad_ix_cap46_001",
       "q": "¿Cuál es la unidad funcional básica del sistema nervioso central?",
-      "exp": "Respuesta correcta: B) La neurona. Gabarito: La neurona; más de 100.000 millones.",
+      "exp": "Concepto clave: La neurona.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "El axón",
@@ -20,7 +20,7 @@
     {
       "id": "fisio_unidad_ix_cap46_002",
       "q": "En la mayoría de las sinapsis del sistema nervioso central, ¿en qué dirección circula normalmente la señal?",
-      "exp": "Respuesta correcta: C) En sentido anterógrado (del axón a las dendritas de la siguiente neurona)..",
+      "exp": "Concepto clave: En sentido anterógrado (del axón a las dendritas de la siguiente neurona).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Únicamente en sentido retrógrado (del soma al axón).",
@@ -34,7 +34,7 @@
     {
       "id": "fisio_unidad_ix_cap46_003",
       "q": "¿Qué porcentaje de la información sensitiva recibida es descartada por el encéfalo por carecer de interés o importancia?",
-      "exp": "Respuesta correcta: D) Más del 99%..",
+      "exp": "Concepto clave: Más del 99%.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Menos del 10%.",
@@ -48,7 +48,7 @@
     {
       "id": "fisio_unidad_ix_cap46_004",
       "q": "El nivel medular del sistema nervioso no es solo un conducto, ya que puede originar de forma independiente:",
-      "exp": "Respuesta correcta: C) Reflejos de marcha y retirada ante objetos dolorosos..",
+      "exp": "Concepto clave: Reflejos de marcha y retirada ante objetos dolorosos.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Procesos complejos de pensamiento abstracto.",
@@ -62,7 +62,7 @@
     {
       "id": "fisio_unidad_ix_cap46_005",
       "q": "¿Cuál de las siguientes regiones es responsable de gran parte de las actividades inconscientes, como la regulación de la presión arterial y la respiración?",
-      "exp": "Respuesta correcta: B) El nivel encefálico inferior o subcortical..",
+      "exp": "Concepto clave: El nivel encefálico inferior o subcortical.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "La corteza cerebral motora.",
@@ -76,7 +76,7 @@
     {
       "id": "fisio_unidad_ix_cap46_006",
       "q": "¿Qué característica distingue fundamentalmente a las sinapsis químicas de las eléctricas?",
-      "exp": "Respuesta correcta: C) Las químicas utilizan neurotransmisores y conducen señales de forma unidireccional.. Gabarito: Utilizan neurotransmisores y conducción unidireccional.",
+      "exp": "Concepto clave: Las químicas utilizan neurotransmisores y conducen señales de forma unidireccional.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Las químicas permiten el movimiento libre de iones por uniones en hendidura.",
@@ -90,7 +90,7 @@
     {
       "id": "fisio_unidad_ix_cap46_007",
       "q": "¿Qué ion es fundamental para provocar la liberación del neurotransmisor desde las vesículas del terminal presináptico hacia la hendidura?",
-      "exp": "Respuesta correcta: D) Calcio (Ca++).. Gabarito: Calcio - Ca++.",
+      "exp": "Concepto clave: Calcio (Ca++).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Potasio (K+).",
@@ -104,7 +104,7 @@
     {
       "id": "fisio_unidad_ix_cap46_008",
       "q": "Los receptores que actúan a través de sistemas de segundos mensajeros para generar efectos duraderos se denominan:",
-      "exp": "Respuesta correcta: B) Receptores metabotrópicos..",
+      "exp": "Concepto clave: Receptores metabotrópicos.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Receptores ionotrópicos.",
@@ -118,7 +118,7 @@
     {
       "id": "fisio_unidad_ix_cap46_009",
       "q": "En el sistema de la proteína G, ¿cuál es el componente que actúa como la porción activadora y se desprende para ejecutar funciones intracelulares?",
-      "exp": "Respuesta correcta: C) El componente alfa (α).. Gabarito: El componente alfa - α.",
+      "exp": "Concepto clave: El componente alfa (α).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "El componente gamma (γ).",
@@ -132,7 +132,7 @@
     {
       "id": "fisio_unidad_ix_cap46_010",
       "q": "¿Cuál de los siguientes mecanismos celulares provoca la inhibición de la neurona postsináptica?",
-      "exp": "Respuesta correcta: C) Aumento de la conductancia para los iones potasio hacia el exterior.. Gabarito: Aumento de la conductancia para potasio hacia el exterior.",
+      "exp": "Concepto clave: Aumento de la conductancia para los iones potasio hacia el exterior.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Apertura de los canales de sodio.",
@@ -146,7 +146,7 @@
     {
       "id": "fisio_unidad_ix_cap46_011",
       "q": "¿Cuál es un ejemplo de neurotransmisor de acción rápida y molécula pequeña clasificado como aminoácido?",
-      "exp": "Respuesta correcta: D) GABA (ácido γ-aminobutírico)..",
+      "exp": "Concepto clave: GABA (ácido γ-aminobutírico).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Acetilcolina.",
@@ -160,7 +160,7 @@
     {
       "id": "fisio_unidad_ix_cap46_012",
       "q": "El óxido nítrico se diferencia de otros transmisores de molécula pequeña porque:",
-      "exp": "Respuesta correcta: B) Se sintetiza al instante según la necesidad y difunde fuera del terminal.. Gabarito: Se sintetiza al instante y difunde fuera.",
+      "exp": "Concepto clave: Se sintetiza al instante según la necesidad y difunde fuera del terminal.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Se almacena en grandes vesículas en el soma.",
@@ -174,7 +174,7 @@
     {
       "id": "fisio_unidad_ix_cap46_013",
       "q": "¿Qué caracteriza a los neuropéptidos en comparación con los transmisores de molécula pequeña?",
-      "exp": "Respuesta correcta: C) Tienen una potencia mil veces mayor y acciones mucho más duraderas.. Gabarito: Potencia mil veces mayor y acciones duraderas.",
+      "exp": "Concepto clave: Tienen una potencia mil veces mayor y acciones mucho más duraderas.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Poseen una acción mucho más rápida y efímera.",
@@ -188,7 +188,7 @@
     {
       "id": "fisio_unidad_ix_cap46_014",
       "q": "El potencial de membrana en reposo del soma de una motoneurona medular típica es de aproximadamente:",
-      "exp": "Respuesta correcta: C) –65 mV..",
+      "exp": "Concepto clave: –65 mV.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "–90 mV.",
@@ -202,7 +202,7 @@
     {
       "id": "fisio_unidad_ix_cap46_015",
       "q": "¿Dónde se origina normalmente el potencial de acción en la neurona debido a la alta concentración de canales de sodio dependientes de voltaje?",
-      "exp": "Respuesta correcta: C) En el segmento inicial del axón (cono axónico)..",
+      "exp": "Concepto clave: En el segmento inicial del axón (cono axónico).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "En las puntas de las dendritas.",
@@ -216,7 +216,7 @@
     {
       "id": "fisio_unidad_ix_cap46_016",
       "q": "La hiperpolarización de la membrana neuronal por encima del nivel de reposo genera un:",
-      "exp": "Respuesta correcta: B) Potencial postsináptico inhibidor (PPSI).. Gabarito: Potencial postsináptico inhibidor - PPSI.",
+      "exp": "Concepto clave: Potencial postsináptico inhibidor (PPSI).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Potencial postsináptico excitador (PPSE).",
@@ -230,7 +230,7 @@
     {
       "id": "fisio_unidad_ix_cap46_017",
       "q": "¿Cómo se denomina el proceso por el cual las descargas sucesivas de un solo terminal presináptico se añaden unas a otras?",
-      "exp": "Respuesta correcta: D) Sumación temporal..",
+      "exp": "Concepto clave: Sumación temporal.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Sumación espacial.",
@@ -244,7 +244,7 @@
     {
       "id": "fisio_unidad_ix_cap46_018",
       "q": "¿Por qué las sinapsis situadas cerca del soma ejercen un efecto mayor que las que están alejadas en las dendritas?",
-      "exp": "Respuesta correcta: B) Debido a la conducción decreciente (pérdida de corriente por la membrana porosa)..",
+      "exp": "Concepto clave: Debido a la conducción decreciente (pérdida de corriente por la membrana porosa).",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Porque las dendritas tienen mayor cantidad de canales de sodio.",
@@ -258,7 +258,7 @@
     {
       "id": "fisio_unidad_ix_cap46_019",
       "q": "El aumento de la excitabilidad neuronal provocado por un ascenso en el pH de la sangre arterial se conoce como efecto de:",
-      "exp": "Respuesta correcta: C) Alcalosis..",
+      "exp": "Concepto clave: Alcalosis.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "Acidosis.",
@@ -272,7 +272,7 @@
     {
       "id": "fisio_unidad_ix_cap46_020",
       "q": "¿Cuál es el tiempo mínimo necesario para que ocurran todos los eventos de la transmisión sináptica (retraso sináptico)?",
-      "exp": "Respuesta correcta: B) 0,5 ms..",
+      "exp": "Concepto clave: 0,5 ms.",
       "topic": "Capítulo 46 - Organización del sistema nervioso y fisiología de la sinapsis",
       "options": [
         "0,1 ms.",

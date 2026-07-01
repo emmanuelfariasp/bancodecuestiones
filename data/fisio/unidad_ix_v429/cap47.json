@@ -6,7 +6,7 @@
     {
       "id": "fisio_unidad_ix_cap47_001",
       "q": "¿Qué tipo de receptor es el encargado de detectar la osmolalidad de los líquidos corporales y la concentración de oxígeno en la sangre?",
-      "exp": "Respuesta correcta: D) Quimiorreceptores.",
+      "exp": "Concepto clave: Quimiorreceptores.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Mecanorreceptores",
@@ -20,7 +20,7 @@
     {
       "id": "fisio_unidad_ix_cap47_002",
       "q": "¿A qué se refiere el \"principio de la línea marcada\" en el sistema sensorial?",
-      "exp": "Respuesta correcta: B) A la especificidad de las fibras para conducir impulsos hacia áreas específicas del cerebro.. Gabarito: Especificidad hacia áreas específicas.",
+      "exp": "Concepto clave: A la especificidad de las fibras para conducir impulsos hacia áreas específicas del cerebro.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "A la capacidad de una fibra de transmitir múltiples modalidades de sensación.",
@@ -34,7 +34,7 @@
     {
       "id": "fisio_unidad_ix_cap47_003",
       "q": "¿Cuál es la causa básica del cambio en el potencial de membrana en todos los receptores sensitivos?",
-      "exp": "Respuesta correcta: B) La modificación de la permeabilidad de la membrana para permitir la difusión iónica.. Gabarito: Modificación de la permeabilidad iónica.",
+      "exp": "Concepto clave: La modificación de la permeabilidad de la membrana para permitir la difusión iónica.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "La disminución de la permeabilidad al potasio en la membrana.",
@@ -48,7 +48,7 @@
     {
       "id": "fisio_unidad_ix_cap47_004",
       "q": "¿Cuál es la amplitud máxima aproximada que pueden alcanzar la mayoría de los potenciales de receptor sensitivos?",
-      "exp": "Respuesta correcta: C) 100 mV.",
+      "exp": "Concepto clave: 100 mV.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "10 mV",
@@ -62,7 +62,7 @@
     {
       "id": "fisio_unidad_ix_cap47_005",
       "q": "Respecto a la relación entre el potencial de receptor y los potenciales de acción, es correcto afirmar que:",
-      "exp": "Respuesta correcta: C) La frecuencia de los potenciales de acción aumenta de forma proporcional al ascenso del potencial de receptor.. Gabarito: Frecuencia proporcional al potencial.",
+      "exp": "Concepto clave: La frecuencia de los potenciales de acción aumenta de forma proporcional al ascenso del potencial de receptor.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "A mayor potencial de receptor, menor es la frecuencia de los potenciales de acción.",
@@ -76,7 +76,7 @@
     {
       "id": "fisio_unidad_ix_cap47_006",
       "q": "¿Qué mecanismo explica la adaptación rápida del corpúsculo de Pacini?",
-      "exp": "Respuesta correcta: D) La redistribución del líquido en su estructura viscoelástica y la acomodación de la fibra.. Gabarito: Viscoelasticidad y acomodación.",
+      "exp": "Concepto clave: La redistribución del líquido en su estructura viscoelástica y la acomodación de la fibra.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "La modificación de las sustancias químicas sensibles a la luz.",
@@ -90,7 +90,7 @@
     {
       "id": "fisio_unidad_ix_cap47_007",
       "q": "¿Cuál es una función crítica de los receptores de adaptación rápida o fásicos?",
-      "exp": "Respuesta correcta: B) Detectar cambios en la intensidad del estímulo y predecir el estado futuro del organismo.. Gabarito: Detectar cambios y predecir.",
+      "exp": "Concepto clave: Detectar cambios en la intensidad del estímulo y predecir el estado futuro del organismo.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Mantener al cerebro informado sobre el estado de contracción muscular constante.",
@@ -104,7 +104,7 @@
     {
       "id": "fisio_unidad_ix_cap47_008",
       "q": "Según la clasificación general, ¿qué características definen a las fibras nerviosas de tipo C?",
-      "exp": "Respuesta correcta: B) Son fibras amielínicas pequeñas que conducen impulsos a bajas velocidades.. Gabarito: Amielínicas pequeñas, bajas velocidades.",
+      "exp": "Concepto clave: Son fibras amielínicas pequeñas que conducen impulsos a bajas velocidades.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Son fibras mielínicas grandes con velocidades superiores a 120 m/s.",
@@ -118,7 +118,7 @@
     {
       "id": "fisio_unidad_ix_cap47_009",
       "q": "¿Qué grupo de fibras nerviosas, según la clasificación de los fisiólogos, procede de los órganos tendinosos de Golgi?",
-      "exp": "Respuesta correcta: B) Grupo Ib.",
+      "exp": "Concepto clave: Grupo Ib.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Grupo Ia",
@@ -132,7 +132,7 @@
     {
       "id": "fisio_unidad_ix_cap47_010",
       "q": "El fenómeno de la sumación espacial se define como:",
-      "exp": "Respuesta correcta: B) La transmisión de intensidad mediante un número creciente de fibras paralelas activas.. Gabarito: Aumento del número de fibras paralelas.",
+      "exp": "Concepto clave: La transmisión de intensidad mediante un número creciente de fibras paralelas activas.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "El aumento de la frecuencia de disparo en una sola fibra nerviosa.",
@@ -146,7 +146,7 @@
     {
       "id": "fisio_unidad_ix_cap47_011",
       "q": "En la organización de un grupo neuronal, ¿qué ocurre en la \"zona facilitada\"?",
-      "exp": "Respuesta correcta: D) Las neuronas están por debajo del umbral, pero son más fáciles de excitar por otras fuentes.. Gabarito: Por debajo del umbral, pero fáciles de excitar.",
+      "exp": "Concepto clave: Las neuronas están por debajo del umbral, pero son más fáciles de excitar por otras fuentes.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Las neuronas alcanzan el umbral de descarga y emiten potenciales de acción.",
@@ -160,7 +160,7 @@
     {
       "id": "fisio_unidad_ix_cap47_012",
       "q": "¿Cuál es el tipo de divergencia característico de la vía corticoespinal para el control muscular?",
-      "exp": "Respuesta correcta: B) Divergencia de tipo amplificador en el mismo fascículo.. Gabarito: Divergencia amplificadora.",
+      "exp": "Concepto clave: Divergencia de tipo amplificador en el mismo fascículo.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Divergencia en múltiples fascículos hacia zonas distantes.",
@@ -174,7 +174,7 @@
     {
       "id": "fisio_unidad_ix_cap47_013",
       "q": "La convergencia desde múltiples fuentes es importante porque permite:",
-      "exp": "Respuesta correcta: B) La sumación de información de diversos orígenes para relacionar y clasificar datos.. Gabarito: Relacionar y clasificar datos de diversos orígenes.",
+      "exp": "Concepto clave: La sumación de información de diversos orígenes para relacionar y clasificar datos.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Que una sola fibra de entrada excite a miles de fibras musculares.",
@@ -188,7 +188,7 @@
     {
       "id": "fisio_unidad_ix_cap47_014",
       "q": "¿Cómo funciona un circuito de inhibición recíproca en el movimiento de las extremidades?",
-      "exp": "Respuesta correcta: A) Una señal excita un músculo y simultáneamente inhibe al antagonista mediante una interneurona.. Gabarito: Excitar uno e inhibir al antagonista vía interneurona.",
+      "exp": "Concepto clave: Una señal excita un músculo y simultáneamente inhibe al antagonista mediante una interneurona.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Una señal excita un músculo y simultáneamente inhibe al antagonista mediante una interneurona.",
@@ -202,7 +202,7 @@
     {
       "id": "fisio_unidad_ix_cap47_015",
       "q": "¿Qué mecanismo puede causar una \"posdescarga\" o salida prolongada de una señal?",
-      "exp": "Respuesta correcta: C) La retroalimentación positiva dentro de un circuito reverberante..",
+      "exp": "Concepto clave: La retroalimentación positiva dentro de un circuito reverberante.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "La inactivación inmediata de los canales de sodio tras el primer estímulo.",
@@ -216,7 +216,7 @@
     {
       "id": "fisio_unidad_ix_cap47_016",
       "q": "¿Cuál es la causa principal de la interrupción súbita de la señal en un circuito reverberante?",
-      "exp": "Respuesta correcta: C) La fatiga de las uniones sinápticas en el circuito..",
+      "exp": "Concepto clave: La fatiga de las uniones sinápticas en el circuito.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "El aumento de la facilitación por fibras externas.",
@@ -230,7 +230,7 @@
     {
       "id": "fisio_unidad_ix_cap47_017",
       "q": "El sistema nervioso autónomo utiliza señales continuas de tipo \"onda portadora\" para:",
-      "exp": "Respuesta correcta: B) Permitir que una señal pueda tanto aumentar como disminuir su intensidad.. Gabarito: Permitir aumento o disminución de intensidad.",
+      "exp": "Concepto clave: Permitir que una señal pueda tanto aumentar como disminuir su intensidad.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Transmitir únicamente sensaciones de dolor agudo y punzante.",
@@ -244,7 +244,7 @@
     {
       "id": "fisio_unidad_ix_cap47_018",
       "q": "¿Cómo evita el sistema nervioso central una reexcitación infinita y descontrolada de sus circuitos?",
-      "exp": "Respuesta correcta: B) A través de circuitos inhibidores y la fatiga de las sinapsis.. Gabarito: Circuitos inhibidores y fatiga sináptica.",
+      "exp": "Concepto clave: A través de circuitos inhibidores y la fatiga de las sinapsis.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Mediante la divergencia amplificadora constante.",
@@ -258,7 +258,7 @@
     {
       "id": "fisio_unidad_ix_cap47_019",
       "q": "¿Qué sucede con la sensibilidad sináptica a largo plazo si una sinapsis se utiliza en exceso?",
-      "exp": "Respuesta correcta: C) Se produce una regulación a la baja de las proteínas receptoras.. Gabarito: Regulación a la baja de proteínas receptoras.",
+      "exp": "Concepto clave: Se produce una regulación a la baja de las proteínas receptoras.",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Se produce una regulación al alza, aumentando el número de receptores.",
@@ -272,7 +272,7 @@
     {
       "id": "fisio_unidad_ix_cap47_020",
       "q": "¿Qué tipo de fibras transmiten las sensaciones de dolor fijo, picor y temperatura de forma lenta?",
-      "exp": "Respuesta correcta: D) Fibras de tipo C (Grupo IV). Gabarito: Fibras de tipo C / Grupo IV.",
+      "exp": "Concepto clave: Fibras de tipo C (Grupo IV).",
       "topic": "Capítulo 47 - Receptores sensitivos y circuitos neuronales",
       "options": [
         "Fibras A alfa (Grupo I)",

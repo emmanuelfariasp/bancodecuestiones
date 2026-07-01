@@ -119,3 +119,8 @@ Edita los archivos JSON dentro de `data/fisio/` o `data/neuro/`. No necesitas to
 ## V4.29
 
 Agregada Fisiología - Unidad IX con capítulos 46 a 49, 80 preguntas y PDF propio de descarga.
+
+
+## V4.30
+- Corrige las explicaciones de la Unidad IX para que no muestren letras antiguas del PDF cuando las alternativas son mezcladas.
+- Agrega limpieza automática de explicaciones con letras fijas A-E para evitar duplicación de “Respuesta correcta”.
