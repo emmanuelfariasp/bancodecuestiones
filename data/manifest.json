@@ -1,6 +1,6 @@
 {
-  "version": "4.29.0",
-  "description": "V4.29: agrega Fisiología - Unidad IX con capítulos 46 a 49 y 80 preguntas basadas en el archivo Unidad IX.",
+  "version": "4.31.0",
+  "description": "V4.31: agrega Fisiología - Cuestionario del profesor con unidad Neurofisiología y explicaciones detalladas.",
   "subjects": {
     "neuro": {
       "key": "neuro",
@@ -314,6 +314,20 @@
         {
           "key": "micro_serpientes_01",
           "file": "data/microbiologia/serpientes/micro_serpientes_01.json"
+        }
+      ]
+    },
+    "fisio_profesor": {
+      "key": "fisio_profesor",
+      "label": "Cuestionario del profesor",
+      "subtitle": "Cuestionario del profesor: unidad de Neurofisiología con preguntas del test y respuestas explicadas detalladas.",
+      "unit": "Cuestionario del profesor - Neurofisiología",
+      "pdf": "pdf_fisiologia_cuestionario_profesor_neurofisiologia_57_preguntas.pdf",
+      "pdfLabel": "Descargar PDF Cuestionario del profesor",
+      "sections": [
+        {
+          "key": "fisio_prof_neurofisiologia",
+          "file": "data/fisio/profesor/neurofisiologia.json"
         }
       ]
     }

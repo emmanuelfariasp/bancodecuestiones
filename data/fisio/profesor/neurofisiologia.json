@@ -1,0 +1,821 @@
+{
+  "key": "fisio_prof_neurofisiologia",
+  "title": "Neurofisiología",
+  "subtitle": "Cuestionario del profesor - Neurofisiología",
+  "questions": [
+    {
+      "id": "fisio_prof_neuro_001_001",
+      "q": "La fase del sueño de movimientos oculares rápidos es (Cap 60.)",
+      "exp": "Qué debes saber para contestarla: REM significa Rapid Eye Movement: fase con movimientos oculares rápidos,\nencéfalo muy activo y sueños más vívidos. La clave es no confundir el nombre de la fase con el grupo general No\nREM.\nAnálisis de alternativas:\na) Sueño REM (respuesta): Correcta: es literalmente la fase de movimientos oculares rápidos.\nb) Sueño de ondas lentas: No: pertenece al sueño No REM profundo; se caracteriza por ondas lentas y efecto reparador,\nno por movimientos oculares rápidos.\nc) Sueño No REM: No: es una categoría amplia que incluye el sueño de ondas lentas; por definición excluye el REM.\nFuente usada: Unidad XI, cap. 60 - Sueño.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Sueño REM",
+        "Sueño de ondas lentas",
+        "Sueño No REM"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_002",
+      "q": "Sobre el sueño de ondas lentas es correcto (Cap 60)",
+      "exp": "Qué debes saber para contestarla: El sueño de ondas lentas corresponde al sueño profundo No REM. Se asocia\nmás a recuperación corporal y descanso; los sueños intensos y la gran actividad cerebral son más típicos del\nREM.\nAnálisis de alternativas:\na) En esta clase de sueño el encéfalo está bastante activo: No: esa descripción se aproxima más al sueño REM, en el\nque el encéfalo está activo aunque la persona duerma.\nb) Este sueño resulta sumamente reparador (respuesta): Correcta: el dato característico del sueño de\nondas lentas es su función reparadora.\nc) A menudo se asocia a sueños de gran viveza: No: los sueños vívidos se relacionan sobre todo con el sueño REM.\nFuente usada: Unidad XI, cap. 60 - Sueño.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "En esta clase de sueño el encéfalo está bastante activo",
+        "Este sueño resulta sumamente reparador",
+        "A menudo se asocia a sueños de gran viveza"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_003",
+      "q": "El líquido cefalorraquídeo se forma/se secreta sobre todo en (Capítulo 62)",
+      "exp": "Qué debes saber para contestarla: La pregunta pide el sitio de producción. En Guyton, el LCR se forma\nprincipalmente en los plexos coroideos, sobre todo en los ventrículos laterales.\nAnálisis de alternativas:\na) Los plexos coroideos de los ventrículos laterales (respuesta): Correcta: son el principal sitio de\nsecreción/formación del LCR.\nb) Agujero de Monro: No: comunica cada ventrículo lateral con el tercer ventrículo; es vía de circulación, no sitio\nprincipal de producción.\nc) Acueducto de Silvio: No: comunica tercer y cuarto ventrículo; es un conducto de paso.\nd) Agujero de Magendie: No: permite salida del LCR del cuarto ventrículo al espacio subaracnoideo; no lo produce.\ne) Vellosidades aracnoideas: No: son estructuras de absorción hacia senos venosos, no de formación.\nFuente usada: Unidad XI, cap. 62 - Sistema del LCR.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Los plexos coroideos de los ventrículos laterales",
+        "Agujero de Monro",
+        "Acueducto de Silvio",
+        "Agujero de Magendie",
+        "Vellosidades aracnoideas"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_004",
+      "q": "El líquido cefalorraquídeo absorbe a través de (Capítulo 62)",
+      "exp": "Qué\ndebes\nsaber\npara\ncontestarla:\nDiferencia\nfundamental:\nplexos\ncoroideos\n=\nformación;\nvellosidades/granulaciones aracnoideas = absorción hacia sangre venosa.\nAnálisis de alternativas:\na) Los plexos coroideos de los ventrículos laterales: No: forman LCR; no son la vía principal de reabsorción.\nb) Agujero de Monro: No: comunica ventrículos laterales con tercer ventrículo; solo participa en circulación.\nc) Acueducto de Silvio: No: conduce LCR del tercer al cuarto ventrículo.\nd) Agujero de Magendie: No: salida desde cuarto ventrículo al espacio subaracnoideo; no es el principal mecanismo de\nabsorción.\ne) Vellosidades aracnoideas (respuesta): Correcta: funcionan como válvulas que permiten que el LCR pase\nal sistema venoso.\nFuente usada: Unidad XI, cap. 62 - Sistema del LCR.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Los plexos coroideos de los ventrículos laterales",
+        "Agujero de Monro",
+        "Acueducto de Silvio",
+        "Agujero de Magendie",
+        "Vellosidades aracnoideas"
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_005",
+      "q": "SON PRINCIPALES NIVELES DE FUNCIÓN DEL SNC, EXCEPTO (Capítulo 46)",
+      "exp": "Qué debes saber para contestarla: Guyton organiza el SNC en tres niveles funcionales: medular, encefálico\ninferior/subcortical y encefálico superior/cortical. La palabra prequiasmático pertenece a otra anatomía, no a esta\nclasificación.\nAnálisis de alternativas:\na) Nivel medular: No es la excepción: es uno de los niveles principales; participa en reflejos y patrones motores básicos.\nb) Nivel encefálico inferior o subcortical: No es la excepción: incluye tronco encefálico, hipotálamo, tálamo, cerebelo y\nganglios basales para funciones automáticas/inconscientes.\nc) Nivel encefálico superior o cortical: No es la excepción: la corteza permite pensamiento, memoria y movimientos\ncomplejos.\nd) Nivel prequiasmático (respuesta): Correcta como excepción: no forma parte de la clasificación funcional\nde Guyton.\nFuente usada: Unidad IX, cap. 46 - Principales niveles de función del SNC.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "NIVEL MEDULAR",
+        "NIVEL ENCEFÁLICO INFERIOR (O SUBCORTICAL)",
+        "NIVEL ENCEFÁLICO SUPERIOR (O CORTICAL)",
+        "NIVEL PREQUIASMÁTICO"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_006",
+      "q": "EN LAS SINAPSIS ELÉCTRICAS LOS CITOPLASMAS DE LAS CÉLULAS ADYACENTES ESTÁN CONECTADOS DIRECTAMENTE POR LAS SIGUIENTES UNIONES CELULARES (Capitulo 46)",
+      "exp": "Qué debes saber para contestarla: La sinapsis eléctrica necesita continuidad iónica directa. Eso ocurre por\nuniones en hendidura, formadas por canales que permiten el paso de iones entre células.\nAnálisis de alternativas:\na) Zónula ocludens / uniones estrechas: No: sellan espacios intercelulares y limitan el paso paracelular; no comunican\ncitoplasmas para transmisión eléctrica.\nb) Uniones adherentes: No: sirven para adhesión mecánica célula-célula mediante citoesqueleto.\nc) Desmosomas / mácula adherens: No: son uniones de resistencia mecánica, frecuentes en epitelios y músculo\ncardíaco, pero no son canales iónicos intercelulares.\nd) Uniones en hendidura (respuesta): Correcta: son gap junctions; conectan directamente citoplasmas y\npermiten transmisión eléctrica rápida.\nFuente usada: Unidad IX, cap. 46 - Sinapsis químicas y eléctricas.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "ZÓNULA OCLUDENS (UNIONES ESTRECHAS)",
+        "UNIONES ADHERENTES",
+        "DESMOSOMAS (MÁCULA ADHERENS)",
+        "UNIONES EN HENDIDURA"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_007",
+      "q": "LA AFIRMACIÓN FALSA SOBRE LAS SINAPSIS QUÍMICAS ES (Capítulo 46)",
+      "exp": "Qué debes saber para contestarla: Las sinapsis químicas son la mayoría, liberan neurotransmisores y conducen\nen un solo sentido. La detección de coincidencia y sincronización de grupos neuronales se atribuye mejor a\nsinapsis eléctricas.\nAnálisis de alternativas:\na) Detectan coincidencia de despolarizaciones subumbrales simultáneas (respuesta): Correcta como falsa:\ndescribe una función típica de sinapsis eléctricas, no de las químicas.\nb) Constituyen la mayoría de las sinapsis del SNC humano: No es falsa: Guyton afirma que la mayoría de sinapsis del\nSNC humano son químicas.\nc) La primera neurona secreta un neurotransmisor: No es falsa: esa es la definición básica de la sinapsis química.\nd) Cumplen conducción unidireccional: No es falsa: la señal va de neurona presináptica a postsináptica.\ne) La hendidura sináptica es más amplia que la de las sinapsis eléctricas: No es falsa: la hendidura química es mayor;\nen la eléctrica las células están más próximas por las uniones en hendidura.\nFuente usada: Unidad IX, cap. 46 - Tipos de sinapsis.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "SON ÚTILES PARA DETECTAR LA COINCIDENCIA DE DESPOLARIZACIÓN SUBUMBRAL SIMULTÁNEAS DENTRO DE UN GRUPO DE NEURONAS INTERCONECTADAS",
+        "CONSTITUYEN LA MAYORÍA DE LAS SINAPSIS UTILIZADAS PARA LA TRANSMISIÓN DE SEÑALES EN EL SISTEMA NERVIOSO CENTRAL DEL SER HUMANO",
+        "EN ESTE TIPO DE SINAPSIS LA PRIMERA NEURONA SECRETA UN PRODUCTO QUÍMICO DENOMINADO NEUROTRANSMISOR",
+        "EN ESTE TIPO DE SINAPSIS SE CUMPLE EL PRINCIPIO DE LA CONDUCCIÓN UNIDIRECCIONAL",
+        "EN ESTE TIPO DE SINAPSIS LA HENDIDURA SINÁPTICA ES MÁS AMPLIA QUE LA HENDIDURA INTERCELULAR DE LAS SINAPSIS ELÉCTRICAS"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_008",
+      "q": "EL IÓN QUE JUEGA UN ROL FUNDAMENTAL EN LA LIBERACIÓN DEL NEUROTRANSMISOR HACIA LA HENDIDURA SINÁPTICA DESDE EL TERMINAL PRESINÁPTICO ES (Capítulo 46)",
+      "exp": "Qué debes saber para contestarla: El potencial de acción abre canales de Ca2+ dependientes de voltaje. La\nentrada de calcio desencadena la fusión de vesículas y la liberación del neurotransmisor.\nAnálisis de alternativas:\na) Cloruro: No: participa sobre todo en inhibición postsináptica cuando entra a la neurona, no en exocitosis vesicular.\nb) Bicarbonato: No: se relaciona con equilibrio ácido-base y transporte, no con la liberación sináptica clásica.\nc) Potasio: No: su salida ayuda a repolarizar membranas; no es el gatillo principal de la liberación vesicular.\nd) Calcio (respuesta): Correcta: su entrada al terminal presináptico es directamente proporcional a la\ncantidad de neurotransmisor liberado.\ne) Sodio: No: entra durante la despolarización del potencial de acción, pero el disparador final de exocitosis es Ca2+.\nFuente usada: Unidad IX, cap. 46 - Misión de los iones calcio.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "CLORURO",
+        "BICARBONATO",
+        "POTASIO",
+        "CALCIO",
+        "SODIO"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_009",
+      "q": "TENIENDO EN CUENTA LA CLASIFICACIÓN DE NEUROTRANSMISORES DE ACCIÓN RÁPIDA Y DE MOLÉCULA PEQUEÑA, SON NEUROTRANSMISORES DE CLASE III (AMINOÁCIDOS) EXCEPTO (Cap 46)",
+      "exp": "Qué debes saber para contestarla: Clase III = aminoácidos: GABA, glicina, glutamato y aspartato. Dopamina\npertenece a la clase II, aminas.\nAnálisis de alternativas:\na) Ácido gamma-aminobutírico / GABA: No es excepción: es aminoácido inhibidor de clase III.\nb) Glicina: No es excepción: es aminoácido inhibidor, importante en médula y tronco encefálico.\nc) Glutamato: No es excepción: es aminoácido excitador principal del SNC.\nd) Aspartato: No es excepción: también aparece en la clase III de aminoácidos.\ne) Dopamina (respuesta): Correcta como excepción: es una amina, no un aminoácido de clase III.\nFuente usada: Unidad IX, cap. 46 - Tabla de transmisores de acción rápida.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "ÁCIDO γ AMINOBUTÍRICO",
+        "GLICINA",
+        "GLUTAMATO",
+        "ASPARTATO",
+        "DOPAMINA"
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_010",
+      "q": "EL NEUROTRANSMISOR QUE SE SECRETA EN LAS NEURONAS ORIGINADAS EN LA SUSTANCIA NEGRA Y CUYA TERMINACIÓN SE PRODUCE BÁSICAMENTE EN LA REGIÓN ESTRIADA DE LOS GANGLIOS BASALES ES (Capítulo 46)",
+      "exp": "Qué debes saber para contestarla: La vía nigroestriada une sustancia negra con estriado de ganglios basales. Su\nneurotransmisor característico es la dopamina.\nAnálisis de alternativas:\na) Acetilcolina: No: aparece en unión neuromuscular y varias regiones del SNC, pero no es el dato característico de la\nvía nigroestriada.\nb) Dopamina (respuesta): Correcta: neurotransmisor típico de neuronas de la sustancia negra hacia el\nestriado.\nc) Noradrenalina: No: se asocia sobre todo a locus cerúleo y vías noradrenérgicas difusas.\nd) Glutamato: No: es excitador muy común, pero no identifica la vía sustancia negra-estriado.\ne) Serotonina: No: se asocia a núcleos del rafe, sueño, dolor y estado de ánimo.\nFuente usada: Unidad IX, cap. 46 - Neurotransmisores importantes.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "ACETILCOLINA",
+        "DOPAMINA",
+        "NORADRENALINA",
+        "GLUTAMATO",
+        "SEROTONINA"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_011",
+      "q": "Se esperaría encontrar mayor tipo de receptores electromagnéticos en (Capítulo 47)",
+      "exp": "Qué debes saber para contestarla: Los receptores electromagnéticos detectan luz. En fisiología sensorial,\nbastones y conos son fotorreceptores retinianos.\nAnálisis de alternativas:\na) Bastones y conos (respuesta): Correcta: son fotorreceptores que responden a energía luminosa.\nb) Botones gustativos: No: son quimiorreceptores para sustancias disueltas en saliva.\nc) Epitelio olfatorio: No: también es quimiorreceptor, detecta moléculas odoríferas.\nd) Cuerpos carotídeos: No: son quimiorreceptores periféricos para O2, CO2 y pH.\ne) Superficie hipotalámica: No: contiene receptores relacionados con osmolaridad, temperatura o glucosa; no son\nelectromagnéticos.\nFuente usada: Unidad IX, cap. 47 - Tipos de receptores sensitivos.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Bastones y Conos",
+        "Botones gustativos",
+        "Epitelio olfatorio",
+        "Cuerpos Carotídeos",
+        "Superficie hipotalámica"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_012",
+      "q": "Los corpúsculos de Pacini son ejemplos de (Capítulo 47)",
+      "exp": "Qué debes saber para contestarla: Pacini detecta deformación mecánica, especialmente presión profunda y\nvibración rápida. Por eso pertenece a mecanorreceptores.\nAnálisis de alternativas:\na) Mecanorreceptores (respuesta): Correcta: responden a presión/vibración mecánica.\nb) Termorreceptores: No: detectan frío o calor.\nc) Nociceptores: No: detectan estímulos potencialmente lesivos/dolor.\nd) Receptores electromagnéticos: No: son los fotorreceptores de retina.\ne) Quimiorreceptores: No: detectan composición química, como gusto, olfato o gases sanguíneos.\nFuente usada: Unidad IX, cap. 47 - Mecanorreceptores.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Mecanorreceptores",
+        "Termorreceptores",
+        "Nociceptores",
+        "Receptores electromagnéticos",
+        "Quimiorreceptores"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_013",
+      "q": "Los receptores tónicos son (Cap 47)",
+      "exp": "Qué debes saber para contestarla: Tónico = mantiene descarga mientras dura el estímulo. Sirve para informar un\nestado persistente.\nAnálisis de alternativas:\n\n\na) Receptores de adaptación lenta (respuesta): Correcta: continúan enviando impulsos durante el\nestímulo.\nb) Receptores de adaptación rápida: No: eso define receptores fásicos, que detectan cambios rápidos.\nFuente usada: Unidad IX, cap. 47 - Adaptación de receptores.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Son receptores de adaptación lenta",
+        "Son receptores de adaptación rápida"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_014",
+      "q": "Los receptores fásicos son (Cap 47)",
+      "exp": "Qué debes saber para contestarla: Fásico = responde al cambio, al inicio o final del estímulo, y se adapta rápido.\nMuy útil para vibración y movimiento.\nAnálisis de alternativas:\na) Receptores de adaptación lenta: No: eso describe receptores tónicos.\nb) Receptores de adaptación rápida (respuesta): Correcta: captan variaciones rápidas del estímulo.\nFuente usada: Unidad IX, cap. 47 - Adaptación de receptores.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Son receptores de adaptación lenta",
+        "Son receptores de adaptación rápida"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_015",
+      "q": "Son sensaciones transmitidas por el SITEMA ANTEROLATERAL, EXCEPTO: (CAP 48)",
+      "exp": "Qué debes saber para contestarla: Sistema anterolateral = dolor, temperatura, tacto/ presión grosera, cosquilleo,\npicor y sexuales. Vibración es columna dorsal-lemnisco medial.\nAnálisis de alternativas:\na) Dolor: No es excepción: viaja principalmente por el sistema anterolateral.\nb) Sensaciones térmicas: No es excepción: calor y frío son anterolaterales.\nc) Sensaciones vibratorias (respuesta): Correcta como excepción: vibración es una sensación fásica del\nsistema columna dorsal-lemnisco medial.\nd) Cosquilleo y picor: No es excepción: pertenecen al sistema anterolateral.\ne) Sensaciones sexuales: No es excepción: se enumeran dentro del sistema anterolateral.\nFuente usada: Unidad IX, cap. 48 - Vía anterolateral.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Dolor",
+        "Sensaciones témicas",
+        "Sensaciones vibratorias",
+        "Cosquilleo y picor",
+        "Sensaciones sexuales"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_016",
+      "q": "Son sensaciones transmitidas por el Sistema de la columna dorsal – lemnisco medial, EXCEPTO (CAP 48)",
+      "exp": "Qué debes saber para contestarla: Columna dorsal-lemnisco medial = tacto fino/discriminativo, vibración,\nmovimiento sobre piel, posición articular y presión fina. El tacto grosero se transmite por sistema anterolateral.\nAnálisis de alternativas:\na) Movimiento contra la piel: No es excepción: requiere fidelidad espacial y viaja por columna dorsal.\nb) Sensaciones posicionales desde articulaciones: No es excepción: propiocepción consciente usa columna\ndorsal-lemnisco medial.\nc) Sensaciones fásicas: No es excepción: incluye vibración y cambios rápidos, típicos de columna dorsal.\nd) Tacto con fina gradación de intensidades: No es excepción: es tacto discriminativo de columna dorsal.\ne) Presión y tacto grosero (respuesta): Correcta como excepción: es sensibilidad burda, más propia de vía\nanterolateral.\nFuente usada: Unidad IX, cap. 48 - Columna dorsal-lemnisco medial.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Sensaciones que indiquen un movimiento contra la piel",
+        "Sensaciones posicionales desde las articulaciones",
+        "Sensaciones fásicas",
+        "Sensaciones de tacto que requieren la transmisión de una fina gradación de intensidades",
+        "Sensaciones de presión y tacto grosero"
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_017",
+      "q": "Las capas de la corteza somatosensitiva primaria que reciben señales de los centros inferiores que facilitan regiones corticales específicas son (Cap 48)",
+      "exp": "Qué debes saber para contestarla: En la corteza, distintas capas cumplen funciones diferentes. Las capas\nsuperficiales I y II reciben señales moduladoras/facilitadoras difusas de centros inferiores.\nAnálisis de alternativas:\na) Capa I y capa II (respuesta): Correcta: son capas superficiales asociadas a modulación/facilitación\ncortical.\nb) Capa II y capa III: No: estas capas se relacionan más con conexiones de asociación y proyecciones hacia corteza del\nlado opuesto.\nc) Capa V: No: proyecta hacia estructuras profundas como tronco encefálico y médula.\nd) Capa VI: No: proyecta de regreso al tálamo, modulando entrada talámica.\nFuente usada: Unidad IX, cap. 48 - Organización de la corteza somatosensitiva.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Capa I y capa II",
+        "Capa II y capa III",
+        "Capa V",
+        "Capa VI"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_018",
+      "q": "Las capas de la corteza somatosensitiva primaria que envían señales a porciones emparentadas en el lado opuesto del cerebro a través del cuerpo calloso son (Cap 48)",
+      "exp": "Qué debes saber para contestarla: Las capas II y III realizan conexiones intracorticales, incluidas comisurales por\ncuerpo calloso.\nAnálisis de alternativas:\na) Capa I y capa II: No: I-II se asocian a señales moduladoras/facilitadoras; no es la mejor respuesta para proyección\ncallosa.\nb) Capa II y capa III (respuesta): Correcta: envían señales a áreas corticales relacionadas, incluso del\nhemisferio opuesto.\nc) Capa V: No: proyecta principalmente a centros profundos/subcorticales.\nd) Capa VI: No: proyecta especialmente hacia el tálamo.\nFuente usada: Unidad IX, cap. 48 - Capas corticales.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Capa I y capa II",
+        "Capa II y capa III",
+        "Capa V",
+        "Capa VI"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_019",
+      "q": "Son responsables de la visión de los colores (Capítulo 51)",
+      "exp": "Qué debes saber para contestarla: Conos = visión en color y alta agudeza, sobre todo en fóvea. Requieren buena\niluminación.\nAnálisis de alternativas:\na) Conos (respuesta): Correcta: codifican colores por tipos sensibles a diferentes longitudes de onda.\nb) Bastones: No: sirven para visión nocturna/en blanco y negro, con alta sensibilidad pero baja discriminación de color.\nFuente usada: Unidad X, cap. 51 - Retina y visión en color.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Conos",
+        "Bastones"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_020",
+      "q": "Están encargados básicamente de la visión en blanco y negro y de la visión en la oscuridad (Cap 51)",
+      "exp": "Qué debes saber para contestarla: Bastones = visión escotópica/nocturna, muy sensibles a poca luz, sin colores.\nAnálisis de alternativas:\na) Conos: No: funcionan mejor con luz intensa y permiten colores/agudeza.\nb) Bastones (respuesta): Correcta: predominan en visión de baja iluminación y blanco-negro.\nFuente usada: Unidad X, cap. 51 - Función de bastones.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Conos",
+        "Bastones"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_021",
+      "q": "Sobre la corteza visual primaria es correcto, excepto (Cap 52)",
+      "exp": "Qué debes saber para contestarla: Corteza visual primaria = área 17, alrededor de cisura calcarina, estación\nterminal de señales visuales directas. Interpretar significados visuales corresponde más a áreas visuales\nsecundarias/de asociación.\nAnálisis de alternativas:\na) Se halla en el área de la cisura calcarina...: No es excepción: describe la localización anatómica de la corteza visual\nprimaria.\nb) Es estación terminal de señales visuales directas procedentes de los ojos: No es excepción: la vía visual directa\ntermina en corteza visual primaria.\nc) Tiene región amplia para la mácula/fóvea y agudeza visual: No es excepción: la mácula tiene gran representación\ncortical por su importancia en agudeza visual.\nd) Recibe impulsos secundarios para analizar significados visuales (respuesta): Correcta como excepción:\nel análisis de significado visual se atribuye a áreas secundarias/asociativas, no a la primaria.\nFuente usada: Unidad X, cap. 52 - Corteza visual primaria y áreas secundarias.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Se halla en el área de la cisura calcarina, y se extiende desde el polo occipital hacia delante por la cara medial de cada corteza occipital”.",
+        "Está área constituye la estación terminal de las señales visuales directas procedentes de los ojos.",
+        "En ella podemos encontrar que hay una región amplia que pertenece a la mácula a la cual envía sus señales la fóvea de la retina, que se encarga de la agudeza visual.",
+        "Recibe impulsos secundarios con el fin de analizar los significados visuales."
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_022",
+      "q": "Los movimientos oculares están controlados por los siguientes músculos, excepto (Capítulo 52)",
+      "exp": "Qué debes saber para contestarla: Movimientos del globo ocular = seis músculos extraoculares: cuatro rectos y\ndos oblicuos. El esfínter del iris regula pupila, no mueve el ojo.\nAnálisis de alternativas:\na) Rectos medial y lateral: No es excepción: aducen y abducen el globo ocular.\nb) Rectos superior e inferior: No es excepción: elevan/deprimen y participan en movimientos verticales.\nc) Oblicuos superior e inferior: No es excepción: participan en torsión y movimientos verticales combinados.\nd) Esfínter del iris (respuesta): Correcta como excepción: contrae la pupila en miosis; no controla\nmovimientos oculares.\nFuente usada: Unidad X, cap. 52 - Movimientos oculares.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Los rectos medial y lateral",
+        "Los rectos superior e inferior",
+        "Los oblicuos superior e inferior",
+        "Esfínter del iris"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_023",
+      "q": "CON RESPECTO AL CONTROL AUTÓNOMO DE LA ACOMODACIÓN Y DE LA APERTURA PUPILAR, LAS FIBRAS PARASIMPÁTICAS (Capítulo 52)",
+      "exp": "Qué debes saber para contestarla: Parasimpático ocular: Edinger-Westphal -> nervio oculomotor (III) -> ganglio\nciliar -> músculo ciliar y esfínter pupilar.\nAnálisis de alternativas:\na) Nacen en Edinger-Westphal y viajan por III al ganglio ciliar (respuesta): Correcta: vía parasimpática\npara acomodación y miosis.\nb) Se originan en asta intermediolateral T1: No: eso describe vía simpática ocular, no parasimpática.\nFuente usada: Unidad X, cap. 52 - Control parasimpático ocular.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Nacen en el núcleo de Edinger-Westphal y viajan en el tercer par hasta el ganglio ciliar",
+        "Se originan en las células del asta intermediolateral a nivel del primer segmento torácico de la médula espinal."
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_024",
+      "q": "CON RESPECTO AL CONTROL AUTÓNOMO DE LA ACOMODACIÓN Y DE LA APERTURA PUPILAR, LAS FIBRAS SIMPÁTICAS (Capítulo 52)",
+      "exp": "Qué debes saber para contestarla: Simpático ocular: neuronas preganglionares en asta intermediolateral T1-T2,\nsinapsis en ganglio cervical superior y fibras hacia dilatador pupilar.\nAnálisis de alternativas:\na) Nacen en Edinger-Westphal y viajan por III al ganglio ciliar: No: es la vía parasimpática.\nb) Se originan en asta intermediolateral a nivel torácico superior (respuesta): Correcta: es el origen de la\nvía simpática ocular.\nFuente usada: Unidad X, cap. 52 - Control simpático ocular.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Nacen en el núcleo de Edinger-Westphal y viajan en el tercer par hasta el ganglio ciliar",
+        "Se originan en las células del asta intermediolateral a nivel del primer segmento torácico de la médula espinal."
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_025",
+      "q": "Sobre la Miosis es correcto, excepto (Capítulo 52)",
+      "exp": "Qué debes saber para contestarla: Miosis = disminución de apertura pupilar por contracción del músculo esfínter\nde la pupila, mediada por parasimpático.\nAnálisis de alternativas:\na) Se debe a estimulación simpática (respuesta): Correcta como excepción: simpático produce midriasis,\nno miosis.\nb) Se excita el músculo esfínter de la pupila: No es excepción: eso sí ocurre en miosis.\nc) Disminuye la apertura pupilar: No es excepción: es la definición funcional de miosis.\nFuente usada: Unidad X, cap. 52 - Control del diámetro pupilar.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Se debe a la estimulación de los nervios simpáticos",
+        "En este proceso se excita el músculo esfínter de la pupila",
+        "En este proceso disminuye la apertura pupilar"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_026",
+      "q": "Sobre la Midriasis es correcto, excepto (Capítulo 52)",
+      "exp": "Qué debes saber para contestarla: Midriasis = dilatación pupilar por activación simpática de fibras\nradiales/dilatador del iris.\nAnálisis de alternativas:\na) Se debe a estimulación parasimpática (respuesta): Correcta como excepción: parasimpático contrae\nesfínter pupilar y causa miosis.\nb) Se excitan las fibras radiales del iris: No es excepción: las fibras radiales/dilatador se activan por simpático.\nc) Hay dilatación pupilar: No es excepción: eso define la midriasis.\nFuente usada: Unidad X, cap. 52 - Control del diámetro pupilar.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Se debe a la estimulación de los nervios parasimpáticos",
+        "En este proceso se excita las fibras radiales del iris",
+        "En este proceso hay/se observa dilatación pupilar"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_027",
+      "q": "Sobre las motoneuronas alfa es correcto, excepto: (Capítulo 55)",
+      "exp": "Qué debes saber para contestarla: Motoneuronas alfa: grandes, fibras A alfa, inervan fibras musculares\nextrafusales. Motoneuronas gamma son más pequeñas y, según Guyton, alrededor de la mitad del número de\nalfa.\nAnálisis de alternativas:\na) Dan origen a fibras motoras grandes A alfa: No es excepción: es una característica de motoneuronas alfa.\nb) Se ramifican muchas veces tras entrar en el músculo: No es excepción: una fibra alfa puede inervar muchas fibras\nmusculares, formando unidades motoras.\nc) Inervan grandes fibras musculares esqueléticas: No es excepción: inervan fibras extrafusales responsables de fuerza.\nd) Son más escasas que las motoneuronas gamma (respuesta): Correcta como excepción: en Guyton las\ngamma son aproximadamente la mitad de las alfa, no más numerosas.\nFuente usada: Unidad XI, cap. 55 - Motoneuronas alfa y gamma.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Dan origen a fibras nerviosas motoras grandes de tipo Aα",
+        "Se ramifican muchas veces después de entrar en el músculo",
+        "Inervan las grandes fibras musculares esqueléticas",
+        "Son más escasas que las motoneuronas γ"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_028",
+      "q": "Sobre las motoneuronas γ es correcto, excepto: (Capítulo 55)",
+      "exp": "Qué debes saber para contestarla: Motoneuronas gamma son pequeñas, envían fibras A gamma hacia fibras\nintrafusales del huso muscular y ayudan a regular tono/sensibilidad del huso.\nAnálisis de alternativas:\na) Son mucho más pequeñas que las motoneuronas alfa: No es excepción: las gamma son más pequeñas.\nb) Transmiten por fibras motoras gamma tipo A más pequeñas: No es excepción: es característica de la vía gamma.\nc) Estas fibras ocupan la periferia del huso muscular (respuesta): Correcta como excepción: las fibras\nintrafusales están dentro del huso; el receptor central y extremos contráctiles no se describen como\nperiferia del huso en este sentido.\nd) Sirven para controlar el tono básico del músculo: No es excepción: al regular husos, contribuyen al tono y a la\nsensibilidad al estiramiento.\nFuente usada: Unidad XI, cap. 55 - Motoneuronas gamma.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Son mucho más pequeñas que las motoneuronas α.",
+        "Transmiten impulsos a través de fibras nerviosas motoras γ de tipo A mucho más pequeñas.",
+        "Estas fibras ocupan la periferia del huso muscular",
+        "Sirven para controlar el tono básico del músculo."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_029",
+      "q": "“Los sentimientos de placer y castigo se asientan sobre todo en las regiones basales del encéfalo que en su conjunto reciben la denominación general de sistema límbico” – Esta afirmación es",
+      "exp": "Qué debes saber para contestarla: El sistema límbico integra emociones, motivación, placer, castigo y conducta.\nLa afirmación coincide con el enfoque de Guyton.\nAnálisis de alternativas:\na) Verdadera (respuesta): Correcta: placer y castigo forman parte de funciones límbicas.\nb) Falsa: No: sería falsa si atribuyera esas funciones principalmente a otra estructura aislada, pero el sistema límbico sí\nparticipa en ellas.\nFuente usada: Unidad XI, cap. 59 - Sistema límbico/hipotálamo.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Verdadera",
+        "Falsa"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_030",
+      "q": "La denominación “límbico” empleada en “SISTEMA LÍMBICO” quiere decir",
+      "exp": "Qué debes saber para contestarla: Límbico deriva de limbus, borde o límite. Hace referencia a estructuras\nsituadas en el borde entre corteza y regiones profundas.\nAnálisis de alternativas:\na) Limítrofe (respuesta): Correcta: significa borde/límite.\nb) Central: No: central no traduce limbus ni explica la localización periférica/bordeante del sistema límbico.\nFuente usada: Unidad XI, cap. 59 - Sistema límbico.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Limítrofe",
+        "Central"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_031",
+      "q": "Con base en la clasificación de las fibras nerviosas, indica cuál de las siguientes afirmaciones es falsa: (CAPÍTULO 47)",
+      "exp": "Qué debes saber para contestarla: Grupo A = mielínicas somáticas, rápidas; grupo B = fibras preganglionares\nautónomas mielínicas; grupo C = amielínicas, lentas. Por eso decir que B son amielínicas es falso.\nAnálisis de alternativas:\nA) A alfa conduce más rápido que A beta: No es falsa: A alfa tiene mayor diámetro y velocidad que A beta.\nB) Grupo C es amielínico y más lento que fibras mielínicas: No es falsa: es una característica central de fibras C.\nC) Grupo B son amielínicas y menores a 1 micra (respuesta): Correcta como falsa: las B son mielínicas; las\namielínicas lentas son las C.\nD) A delta es menor que A alfa y transmite dolor/temperatura: No es falsa: A delta conduce dolor rápido y temperatura,\ncon menor diámetro que A alfa.\nE) Grupo Ia asociado a husos musculares, gran diámetro y velocidad: No es falsa: Ia corresponde a aferentes primarias\ndel huso muscular, muy rápidas.\nFuente usada: Unidad IX, cap. 47 - Clasificación de fibras nerviosas.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Las fibras nerviosas del grupo Aα presentan mayor velocidad de conducción que las fibras del grupo Aβ",
+        "Las fibras del grupo C son amielínicas y conducen las señales más lentamente que las fibras mielínicas.",
+        "Las fibras del grupo B son amielínicas y tienen diámetros menores a 1 µm.",
+        "Las fibras Aδ tienen un diámetro más pequeño que el diámetro de las fibras nerviosas Aα y transmiten dolor y temperatura.",
+        "Las fibras del grupo Ia están asociadas a los husos musculares y tienen un gran diámetro y velocidad de conducción."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_032",
+      "q": "Son ejemplos de mecanorreceptores, excepto (CAPÍTULO 47)",
+      "exp": "Qué debes saber para contestarla: Mecanorreceptores detectan deformación mecánica: tacto, presión,\nestiramiento, sonido, presión arterial. Receptores de glucosa son metabólicos/químicos.\nAnálisis de alternativas:\na) Corpúsculos de Meissner: No es excepción: detectan tacto fino y movimiento ligero en piel.\nb) Terminaciones de Ruffini: No es excepción: detectan estiramiento cutáneo y presión sostenida.\n\n\nc) Receptores de glucosa en el hipotálamo (respuesta): Correcta como excepción: detectan estado\nquímico/metabólico, no deformación mecánica.\nd) Receptores acústicos de la cóclea: No es excepción: células ciliadas convierten vibración mecánica del sonido en\nseñal nerviosa.\ne) Barorreceptores de senos carotídeos y aorta: No es excepción: detectan estiramiento de la pared vascular por\npresión.\nFuente usada: Unidad IX, cap. 47 - Tipos de receptores sensitivos.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Corpúsculos de Meissner",
+        "Terminaciones de Ruffini",
+        "Receptores de Glucosa en el Hipotálamo",
+        "Receptores acústicos de la cóclea",
+        "Barorreceptores de los senos carotídeos y la A. Aorta"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_033",
+      "q": "La astereognosia es (CAPÍTULO 48)",
+      "exp": "Qué debes saber para contestarla: Astereognosia = incapacidad para reconocer un objeto por el tacto,\nespecialmente su forma/configuración, aun cuando sensibilidad primaria pueda estar relativamente conservada.\nAnálisis de alternativas:\na) Incapacidad de localizar sensaciones: No: eso es alteración de localización táctil, distinta de reconocer objetos.\nb) Incapacidad de valorar presión crítica: No: es déficit de discriminación de presión, no estereognosia.\nc) Incapacidad de valorar peso: No: puede alterarse con lesión somatosensitiva, pero no define astereognosia.\nd) Incapacidad de valorar textura: No: es otro componente de sensibilidad discriminativa.\ne) Incapacidad de valorar formas/configuración de objetos (respuesta): Correcta: eso corresponde al\nnúcleo del concepto de astereognosia.\nFuente usada: Unidad IX, cap. 48 - Lesiones de corteza somatosensitiva.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "la incapacidad de localizar las diversas sensaciones de forma localizada",
+        "la incapacidad de valorar un grado crítico de presión sobre el cuerpo",
+        "la incapacidad de valorar el peso de los objetos",
+        "la incapacidad de valorar la textura de los materiales",
+        "la incapacidad de valorar las formas o la configuración de los objetos"
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_034",
+      "q": "Respecto a la organización de la corteza somatosensitiva y las áreas relacionadas con la sensibilidad táctil y posicional, señala cuál de las siguientes afirmaciones es falsa: (capítulo 48)",
+      "exp": "Qué debes saber para contestarla: La sensibilidad somática se representa de forma contralateral: lado derecho\ndel cuerpo en corteza izquierda y viceversa.\nAnálisis de alternativas:\nA) La información del lado derecho se representa en el mismo lado del cerebro (respuesta): Correcta como\nfalsa: se representa principalmente en el lado contrario.\nB) La corteza somatosensitiva primaria está justo detrás de la cisura central: No es falsa: corresponde al giro poscentral.\nC) Cara y cabeza están en porciones laterales: No es falsa: en el homúnculo somatosensitivo se ubican lateralmente.\nD) Recibe información de posiciones y movimientos de partes del cuerpo: No es falsa: incluye propiocepción consciente.\nE) Áreas somatosensitivas secundarias interpretan estímulos de modo más complejo: No es falsa: participan en análisis\nintegrativo.\nFuente usada: Unidad IX, cap. 48 - Organización somatotópica.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "La información sensitiva proveniente del lado derecho del cuerpo se representa en el mismo lado del cerebro.",
+        "La corteza somatosensitiva primaria se localiza justo por detrás de la cisura central.",
+        "La cara y la cabeza están representadas en las porciones laterales de la corteza somatosensitiva.",
+        "La corteza somatosensitiva recibe información de las posiciones y movimientos de distintas partes del cuerpo.",
+        "Existen áreas somatosensitivas secundarias que participan en una interpretación más compleja de los estímulos"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_035",
+      "q": "Son ganglios prevertebrales del sistema nervioso simpático, excepto:",
+      "exp": "Qué debes saber para contestarla: Ganglios prevertebrales simpáticos: celíaco, mesentéricos y aorticorrenal.\nGanglio ótico es parasimpático craneal asociado al nervio glosofaríngeo/parótida.\nAnálisis de alternativas:\na) Ganglio celíaco: No es excepción: es prevertebral simpático.\nb) Ganglio ótico (respuesta): Correcta como excepción: es parasimpático, no simpático prevertebral.\nc) Ganglio mesentérico superior: No es excepción: es simpático prevertebral.\nd) Ganglio mesentérico inferior: No es excepción: es simpático prevertebral.\ne) Ganglio aórtico renal: No es excepción: es simpático prevertebral.\nFuente usada: Unidad XI, cap. 61 - Sistema nervioso autónomo.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Ganglio celiaco",
+        "Ganglio ótico",
+        "Ganglio mesentérico superior",
+        "Ganglio mesentérico inferior",
+        "Ganglio aórtico renal"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_036",
+      "q": "Las fibras nerviosas simpáticas nacen en la médula espinal junto a los nervios raquídeos entre los segmentos medulares. Página 763 Guyton y Hall 14 ° Edición",
+      "exp": "Qué debes saber para contestarla: Simpático = salida toracolumbar. Sus neuronas preganglionares están en\nsegmentos T1 a L2 aproximadamente.\nAnálisis de alternativas:\na) T1 y L2 (respuesta): Correcta: es la salida toracolumbar simpática clásica.\nb) C2 y T1: No: incluye cervical; la salida simpática no nace en segmentos cervicales.\nc) C1 y T4: No: también incluye cervical y solo parte torácica.\nd) S2 y S4: No: corresponde a salida parasimpática sacra, no simpática.\nFuente usada: Unidad XI, cap. 61 - Organización simpática.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "T1 y L2",
+        "C2 y T1",
+        "C1 y T4",
+        "S2 y S4"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_037",
+      "q": "La erección del pene es provocada principalmente por",
+      "exp": "Qué debes saber para contestarla: Erección = predominio parasimpático sacro (S2-S4), por vasodilatación del\ntejido eréctil. Simpático se asocia más a emisión/eyaculación.\nAnálisis de alternativas:\na) Activación parasimpática sacra (respuesta): Correcta: vía principal para erección.\nb) Activación simpática del plexo hipogástrico: No: el simpático hipogástrico participa más en emisión/eyaculación y\ncontracciones, no en la erección principal.\nc) Activación parasimpática del ganglio ciliar: No: ganglio ciliar pertenece al ojo.\nd) Activación simpática de cadenas paravertebrales: No: cadenas simpáticas no explican el mecanismo principal de\nerección.\ne) Activación parasimpática del nervio vago: No: el vago no inerva directamente la erección peneana; la vía relevante\nes sacra.\nFuente usada: Unidad XI, cap. 61 - Sistema nervioso autónomo y función sexual.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "la activación parasimpática originada en los segmentos sacros de la médula espinal",
+        "la activación simpática originada en el plexo hipogástrico",
+        "la activación parasimpática originada en el ganglio ciliar",
+        "la activación simpática de las cadenas ganglionares paravertebrales",
+        "la activación parasimpática del nervio vago (neumogástrico)"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_038",
+      "q": "La afirmación correcta sobre los fenómenos eléctricos durante la inhibición neuronal es. Páginas 581 – 582 (capítulo 46) de Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: Inhibir una neurona significa volver su interior más negativo o alejarla del\numbral. Eso ocurre por entrada de Cl- o salida de K+.\nAnálisis de alternativas:\na) Las sinapsis inhibidoras abren sobre todo canales de sodio: No: entrada de Na+ despolariza y excita.\nb) Hiperpolarización por entrada de Cl- y salida de K+ (respuesta): Correcta: ambos mecanismos\naumentan la negatividad intracelular.\nc) El PPSI es más positivo que el potencial de reposo: No: el PPSI es más negativo/hiperpolarizante o estabiliza por\ndebajo del umbral.\nd) Inhibición presináptica por glutamato: No: el glutamato es típicamente excitador; la inhibición presináptica suele\nrelacionarse con neurotransmisores inhibidores como GABA.\ne) La inhibición neuronal solo es postsináptica: No: existe inhibición postsináptica y también presináptica.\nFuente usada: Unidad IX, cap. 46 - Inhibición neuronal.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Las sinapsis inhibidoras sobre todo abren los canales de Sodio (Na+)",
+        "Se da un fenómeno de hiperpolarización determinado la entrada de Cloruro a la célula y la salida de Potasio.",
+        "El potencial postsináptico inhibidor (PPSI) es más positivo que el potencial intraneuronal de una reurona en reposo.",
+        "La inhibición presináptica está ocasionada por la liberación de Glutamato en las inmediaciones de las fibrillas presinápticas.",
+        "La inhibición neuronal se halla determinada solo por la inhibición postsináptica"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_039",
+      "q": "Sobre las sustancias químicas que actúan como transmisores sinápticos es correcto. Página 578 Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: Transmisores pequeños: rápidos, sintetizados en terminal, liberados en\ngrandes cantidades. Neuropéptidos: sintetizados en soma, transportados al terminal, liberados en menor\ncantidad, potentes y de acción prolongada.\nAnálisis de alternativas:\na) Los neuropéptidos tienen acciones normalmente rápidas: No: suelen tener acciones lentas y prolongadas.\nb) Se sintetizan en el citoplasma de terminales presinápticos: No: se sintetizan principalmente en el soma neuronal y\nviajan en vesículas.\nc) Neuropéptidos y transmisores pequeños no pueden coexistir: No: pueden coexistir en la misma neurona.\nd) Se libera mucha menor cantidad de neuropéptidos (respuesta): Correcta: por su alta potencia y\nmecanismo de síntesis/transporte, se liberan en cantidades menores.\ne) Los neuropéptidos poseen menor potencia: No: suelen tener potencia alta y efectos duraderos.\nFuente usada: Unidad IX, cap. 46 - Neuropéptidos.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Los neuropéptidos tienen acciones que, normalmente, son rápidas",
+        "Normalmente, los neuropéptidos se sintetizan en el citoplasma de los terminales presinápticos",
+        "Normalmente, los neuropéptidos y los transmisores de molécula pequeña no pueden coexistir en las mismas neuronas",
+        "Normalmente, se libera una cantidad mucho menor de neuropéptidos que de transmisores de molécula pequeña.",
+        "Normalmente, los neuropéptidos poseen una potencia menor que los transmisores de molécula pequeña"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_040",
+      "q": "Ante una resección bilateral generalizada del área somatosensitiva I, la persona sería incapaz de todo lo siguiente, excepto:",
+      "exp": "Qué debes saber para contestarla: La corteza somatosensitiva I es crucial para sensibilidad discriminativa:\nlocalización, presión fina, peso, forma y textura. Dolor y temperatura pueden percibirse parcialmente por\ntálamo/tronco y otras regiones basales.\nAnálisis de alternativas:\na) Apreciar dolor y temperatura (respuesta): Correcta como excepción: estas modalidades se afectan\nmenos que la sensibilidad táctil crítica.\nb) Valorar un grado crítico de presión: No es excepción: esta capacidad se pierde o se compromete mucho.\nc) Valorar el peso de objetos: No es excepción: requiere integración somatosensitiva cortical.\n\n\nd) Valorar formas/configuración de objetos: No es excepción: se relaciona con estereognosia y se afecta.\ne) Valorar textura de materiales: No es excepción: sensibilidad discriminativa dependiente de SI.\nFuente usada: Unidad IX, cap. 48 - Área somatosensitiva I.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "De apreciar modalidades sensitivas relacionadas con el dolor y la temperatura",
+        "De valorar un grado crítico de presión sobre el cuerpo",
+        "De valorar el peso de los objetos",
+        "De valorar las formas o la configuración de los objetos",
+        "De valorar la textura de los materiales"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_041",
+      "q": "¿Cuál es el principal núcleo hipotalámico en que se forma vasopresina (Hormona antidiurética)?",
+      "exp": "Qué debes saber para contestarla: Vasopresina se forma principalmente en núcleo supraóptico; oxitocina\nprincipalmente en paraventricular. Ambas viajan a neurohipófisis para liberación.\nAnálisis de alternativas:\na) Núcleo supraóptico (respuesta): Correcta: principal sitio de producción de vasopresina/ADH.\nb) Núcleo paraventricular: No: produce mucha oxitocina y también algo de ADH, pero no es el principal para\nvasopresina.\nc) Núcleo preóptico: No: se asocia más a termorregulación y funciones reproductivas.\nd) Núcleo anterior del hipotálamo: No: participa en control autonómico/temperatura, no es el principal para ADH.\ne) Núcleo supraquiasmático: No: es el reloj circadiano principal.\nFuente usada: Referencia del test: Guyton y Hall, 14.ª ed., pág. 938.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Núcleo supraóptico",
+        "Núcleo paraventricular",
+        "Núcleo preóptico",
+        "Núcleo anterior del hipotálamo",
+        "Núcleo supraquiasmático"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_042",
+      "q": "La afirmación correcta sobre los fenómenos eléctricos durante la inhibición neuronal es. Páginas 581 – 582 (capítulo 46) de Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: Es la misma lógica de la pregunta 38: inhibición = hiperpolarización o\nestabilización lejos del umbral por Cl- entrando y/o K+ saliendo.\nAnálisis de alternativas:\na) Apertura de canales de sodio: No: Na+ despolariza y excita.\nb) Entrada de Cl- y salida de K+ (respuesta): Correcta: produce mayor negatividad intracelular.\nc) PPSI más positivo que reposo: No: un PPSI no vuelve más positivo el interior; eso sería excitador.\nd) Inhibición presináptica por glutamato: No: glutamato es excitador; no explica la inhibición presináptica típica.\ne) Solo inhibición postsináptica: No: también existe inhibición presináptica.\nFuente usada: Unidad IX, cap. 46 - Inhibición neuronal.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Las sinapsis inhibidoras sobre todo abren los canales de Sodio (Na+)",
+        "Se da un fenómeno de hiperpolarización determinado la entrada de Cloruro a la célula y la salida de Potasio.",
+        "El potencial postsináptico inhibidor (PPSI) es más positivo que el potencial intraneuronal de una reurona en reposo.",
+        "La inhibición presináptica está ocasionada por la liberación de Glutamato en las inmediaciones de las fibrillas presinápticas.",
+        "La inhibición neuronal se halla determinada solo por la inhibición postsináptica"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_043",
+      "q": "Sobre las sustancias químicas que actúan como transmisores sinápticos es correcto. Página 578 Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: Repite el concepto de la pregunta 39: neuropéptidos son lentos, potentes,\nsintetizados en soma y liberados en menor cantidad.\nAnálisis de alternativas:\na) Neuropéptidos con acciones rápidas: No: lo rápido corresponde a transmisores pequeños.\nb) Se sintetizan en terminal presináptico: No: se sintetizan principalmente en el soma neuronal.\nc) No pueden coexistir con transmisores pequeños: No: sí pueden coexistir.\nd) Se libera menor cantidad de neuropéptidos (respuesta): Correcta.\ne) Menor potencia que transmisores pequeños: No: los neuropéptidos suelen ser muy potentes.\nFuente usada: Unidad IX, cap. 46 - Neuropéptidos.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Los neuropéptidos tienen acciones que, normalmente, son rápidas",
+        "Normalmente, los neuropéptidos se sintetizan en el citoplasma de los terminales presinápticos",
+        "Normalmente, los neuropéptidos y los transmisores de molécula pequeña no pueden coexistir en las mismas neuronas",
+        "Normalmente, se libera una cantidad mucho menor de neuropéptidos que de transmisores de molécula pequeña.",
+        "Normalmente, los neuropéptidos poseen una potencia menor que los transmisores de molécula pequeña"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_044",
+      "q": "La siguiente descripción de fibras nerviosas “Son fibras amielínicas que transportan las sensaciones de dolor, picor, temperatura y tacto grosero (con un diámetro de 0,5 a 2 micras; son fibras de tipo C según la clasificación general)” Corresponde a fibras",
+      "exp": "Qué debes saber para contestarla: En clasificación sensitiva de grupos, las fibras IV corresponden a fibras C:\namielínicas, pequeñas y lentas.\nAnálisis de alternativas:\na) Ia: No: fibras Ia son grandes, mielínicas, del huso muscular; muy rápidas.\nb) Ib: No: fibras Ib vienen del órgano tendinoso de Golgi.\nc) II: No: fibras II suelen ser mielínicas y de mayor diámetro que C; incluyen terminaciones secundarias del huso.\nd) III: No: corresponde más a A delta: mielínicas pequeñas, dolor rápido/temperatura.\ne) IV (respuesta): Correcta: grupo IV equivale a fibras C amielínicas.\nFuente usada: Unidad IX, cap. 47 - Clasificación de fibras nerviosas.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Ia",
+        "Ib",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_045",
+      "q": "Ante una resección bilateral generalizada del área somatosensitiva I, la persona sería incapaz de todo lo siguiente, excepto:",
+      "exp": "Qué debes saber para contestarla: Repite la pregunta 40: la corteza SI es más necesaria para sensibilidad táctil\ncrítica que para percepción básica de dolor/temperatura.\nAnálisis de alternativas:\na) Apreciar dolor y temperatura (respuesta): Correcta como excepción: se conserva más que otras\nmodalidades discriminativas.\nb) Valorar presión crítica: No es excepción: depende mucho de SI.\nc) Valorar peso: No es excepción: requiere integración cortical.\nd) Valorar formas/configuración: No es excepción: corresponde a reconocimiento táctil.\ne) Valorar textura: No es excepción: discriminación fina cortical.\nFuente usada: Unidad IX, cap. 48 - Área somatosensitiva I.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "De apreciar modalidades sensitivas relacionadas con el dolor y la temperatura",
+        "De valorar un grado crítico de presión sobre el cuerpo",
+        "De valorar el peso de los objetos",
+        "De valorar las formas o la configuración de los objetos",
+        "De valorar la textura de los materiales"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_046",
+      "q": "¿Cuál de las siguientes afirmaciones explica correctamente la razón fisiológica por la que la posdescarga del reflejo extensor cruzado es más prolongada que la del reflejo flexor? Página 693 Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: El reflejo extensor cruzado cruza al lado opuesto de la médula, usa múltiples\ninterneuronas y posee circuitos reverberantes que mantienen la descarga después del estímulo.\nAnálisis de alternativas:\na) Aferentes de dolor llegan directo a motoneuronas contralaterales: No: no es directo; requiere interneuronas y cruce\nmedular.\nb) Extensores con menor umbral generan descargas más duraderas: No: la duración no se explica por umbral muscular\nsino por el circuito neuronal.\nc) Cruce inhibe automáticamente flexores ipsilaterales por periodo prolongado: No: mezcla conceptos de inhibición\nrecíproca y no explica la posdescarga extensora contralateral.\nd) Conducción nerviosa sensitiva más lenta que en reflejo flexor: No: la mayor duración no se debe principalmente a\nvelocidad de conducción periférica.\ne) Circuitos polisinápticos y reverberantes (respuesta): Correcta: sostienen actividad motora aun cuando\ncesa el estímulo.\nFuente usada: Unidad XI, cap. 55 - Reflejo extensor cruzado.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Porque las señales aferentes del dolor alcanzan directamente las motoneuronas contralaterales sin relevos sinápticos adicionales.",
+        "Porque los músculos extensores poseen un menor umbral de excitación que los flexores, generando descargas más rápidas, pero más duraderas.",
+        "Porque el cruce de las señales sensoriales en la médula espinal inhibe automáticamente a los músculos flexores ipsilaterales por un periodo prolongado.",
+        "Porque la conducción nerviosa en los nervios sensitivos que participan en este reflejo es más lenta que en los del reflejo flexor.",
+        "Porque el circuito involucra redes de interneuronas que forman circuitos polisinápticos y reverberantes, manteniendo la actividad motora aun después de cesar el estímulo."
+      ],
+      "answer": 4,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_047",
+      "q": "Dados los siguientes ganglios a) Ganglio celiaco b) Ganglio ótico c) Ganglio mesentérico superior d) Ganglio mesentérico inferior e) Ganglio aórtico renal Son ganglios prevertebrales del sistema nervioso simpático",
+      "exp": "Qué debes saber para contestarla: La lista correcta incluye celíaco, mesentérico superior, mesentérico inferior y\naórtico renal. Se excluye el ótico porque es parasimpático.\nAnálisis de alternativas:\na) 1 - 2 - 3: No: incluye ganglio ótico y omite mesentérico inferior/aórtico renal.\nb) 1 - 3 - 4 - 5 (respuesta): Correcta: celíaco, mesentérico superior, mesentérico inferior y aórtico renal.\nc) 2 - 3 - 4 - 5: No: incluye ótico y excluye celíaco.\nd) 1 - 2 - 3 - 5: No: incluye ótico y omite mesentérico inferior.\ne) 2 - 3 - 4: No: incluye ótico y omite celíaco/aórtico renal.\nFuente usada: Unidad XI, cap. 61 - Ganglios prevertebrales.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "1 – 2 – 3",
+        "1 – 3 – 4 – 5",
+        "2 – 3 – 4 – 5",
+        "1 – 2 – 3 – 5",
+        "2 – 3 – 4"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_048",
+      "q": "La afirmación correcta sobre los fenómenos eléctricos durante la inhibición neuronal es. Páginas 581 – 582 (capítulo 46) de Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: Misma base de las preguntas 38 y 42. Inhibición postsináptica típica: abrir\ncanales de Cl- o aumentar salida de K+.\nAnálisis de alternativas:\na) Apertura de sodio: No: provoca despolarización y excitación.\nb) Entrada de Cl- y salida de K+ (respuesta): Correcta: causa hiperpolarización.\nc) PPSI más positivo: No: un PPSI no es más positivo; aleja del umbral.\nd) Glutamato en inhibición presináptica: No: glutamato suele excitar.\ne) Solo inhibición postsináptica: No: existe presináptica y postsináptica.\nFuente usada: Unidad IX, cap. 46 - Inhibición neuronal.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Las sinapsis inhibidoras sobre todo abren los canales de Sodio (Na+)",
+        "Se da un fenómeno de hiperpolarización determinado la entrada de Cloruro a la célula y la salida de Potasio.",
+        "El potencial postsináptico inhibidor (PPSI) es más positivo que el potencial intraneuronal de una reurona en reposo.",
+        "La inhibición presináptica está ocasionada por la liberación de Glutamato en las inmediaciones de las fibrillas presinápticas.",
+        "La inhibición neuronal se halla determinada solo por la inhibición postsináptica"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_049",
+      "q": "La siguiente descripción de fibras nerviosas “Son fibras procedentes de los órganos tendinosos de Golgi (con un diámetro medio de aproximadamente 16 micras; son fibras A de tipo α según la clasificación general)” Corresponde a fibras",
+      "exp": "Qué debes saber para contestarla: Órgano tendinoso de Golgi detecta tensión muscular. Sus aferentes son fibras\nIb, grandes y rápidas.\nAnálisis de alternativas:\na) Ia: No: Ia es aferente primaria del huso muscular, relacionada con longitud/velocidad de estiramiento.\nb) Ib (respuesta): Correcta: aferente típica del órgano tendinoso de Golgi.\nc) II: No: terminación secundaria del huso muscular.\nd) III: No: fibras A delta, dolor rápido/temperatura.\ne) IV: No: fibras C amielínicas, dolor lento/picor/tacto grosero.\nFuente usada: Unidad XI, cap. 55 - Órgano tendinoso de Golgi.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Ia",
+        "Ib",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_050",
+      "q": "Un ejemplo de “TRANSMISOR DE ACCIÓN RÁPIDA Y MOLÉCULA PEQUEÑA DE LA CLASE I es",
+      "exp": "Qué debes saber para contestarla: En la tabla de Guyton: clase I = acetilcolina; clase II = aminas; clase III =\naminoácidos; clase IV = óxido nítrico.\nAnálisis de alternativas:\na) Acetilcolina (respuesta): Correcta: único transmisor de clase I en esa clasificación.\nb) Noradrenalina: No: clase II, amina/catecolamina.\nc) Adrenalina: No: clase II, amina/catecolamina.\nd) Aspartato: No: clase III, aminoácido.\ne) Hormona luteinizante: No: es un péptido/hormona hipofisaria, no transmisor pequeño de clase I.\nFuente usada: Unidad IX, cap. 46 - Tabla de transmisores de acción rápida.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Acetilcolina",
+        "Noradrenalina",
+        "Adrenalina",
+        "Aspartato",
+        "Hormona luteinizante"
+      ],
+      "answer": 0,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_051",
+      "q": "La opción que completa correctamente la siguiente aseveración es “Los impulsos gustativos procedentes de los dos tercios anteriores de la lengua se dirigen primero hacie el nervio lingual, a continuación van por la cuerda del tímpano hacia el nervio y finalmente al núcleo del tracto solitario en el tronco del encéfalo”",
+      "exp": "Qué debes saber para contestarla: Dos tercios anteriores de lengua: nervio lingual -> cuerda del tímpano ->\nnervio facial (VII) -> núcleo del tracto solitario.\nAnálisis de alternativas:\na) Olfatorio: No: nervio I transmite olfato, no gusto lingual.\nb) Óptico: No: nervio II transmite visión.\nc) Trigémino: No: participa en sensibilidad general de la lengua, pero la vía gustativa de los 2/3 anteriores sigue por\nfacial tras cuerda del tímpano.\nd) Facial (respuesta): Correcta: nervio VII lleva el gusto de los dos tercios anteriores.\ne) Vago: No: participa en gusto de regiones más posteriores/faríngeas, no en los 2/3 anteriores.\nFuente usada: Unidad X, cap. 54 - Gusto.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Olfatorio",
+        "Óptico",
+        "Trigémino",
+        "Facial",
+        "Vago"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_052",
+      "q": "¿Cuál es el principal núcleo hipotalámico en que se forma oxitocina?",
+      "exp": "Qué debes saber para contestarla: Oxitocina se forma principalmente en núcleo paraventricular; vasopresina\nprincipalmente en supraóptico. Ambas se liberan por neurohipófisis.\nAnálisis de alternativas:\na) Núcleo supraóptico: No: es principal para vasopresina/ADH, aunque puede producir algo de oxitocina.\nb) Núcleo paraventricular (respuesta): Correcta: principal productor de oxitocina.\nc) Núcleo preóptico: No: relacionado con termorregulación y funciones reproductivas, no principal para oxitocina.\nd) Núcleo anterior del hipotálamo: No: no es el principal núcleo oxitocinérgico.\ne) Núcleo supraquiasmático: No: reloj circadiano principal.\nFuente usada: Referencia del test: Guyton y Hall, 14.ª ed., pág. 938.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Núcleo supraóptico",
+        "Núcleo paraventricular",
+        "Núcleo preóptico",
+        "Núcleo anterior del hipotálamo",
+        "Núcleo supraquiasmático"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_053",
+      "q": "El núcleo del hipotálamo que es el principal regulador del ritmo circadiano es",
+      "exp": "Qué debes saber para contestarla: El núcleo supraquiasmático actúa como reloj biológico principal y recibe\ninformación luminosa para sincronizar ciclos sueño-vigilia y otros ritmos.\nAnálisis de alternativas:\n\n\na) Núcleo arcuato: No: participa en control neuroendocrino y metabolismo/apetito, no es el reloj principal.\nb) Núcleo ventromedial: No: se asocia a saciedad y funciones metabólicas.\nc) Núcleo supraquiasmático (respuesta): Correcta: principal regulador circadiano.\nd) Núcleo preóptico: No: importante en termorregulación y sueño, pero no es el reloj circadiano principal.\ne) Núcleo dorsomedial: No: participa en funciones hipotalámicas, pero no es el marcapasos circadiano principal.\nFuente usada: Unidad XI, cap. 59/60 - Hipotálamo y ritmos biológicos.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Núcleo arcuato",
+        "Núcleo ventromedial",
+        "Núcleo supraquiasmático",
+        "Núcleo preóptico",
+        "Núcleo dorsomedial"
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_054",
+      "q": "Dados los siguientes ganglios a) Ganglio celiaco b) Ganglio ótico c) Ganglio mesentérico superior d) Ganglio mesentérico inferior e) Ganglio aórtico renal Son ganglios prevertebrales del sistema nervioso simpático",
+      "exp": "Qué debes saber para contestarla: Repite el concepto de la pregunta 47: prevertebrales simpáticos = celíaco,\nmesentéricos y aórtico renal; no el ótico.\nAnálisis de alternativas:\na) 1 - 2 - 3: No: incluye ótico y falta parte de los simpáticos.\nb) 1 - 3 - 4 - 5 (respuesta): Correcta.\nc) 2 - 3 - 4 - 5: No: incluye ótico y excluye celíaco.\nd) 1 - 2 - 3 - 5: No: incluye ótico.\ne) 2 - 3 - 4: No: incluye ótico y omite ganglios simpáticos importantes.\nFuente usada: Unidad XI, cap. 61 - Ganglios prevertebrales.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "1 – 2 – 3",
+        "1 – 3 – 4 – 5",
+        "2 – 3 – 4 – 5",
+        "1 – 2 – 3 – 5",
+        "2 – 3 – 4"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_055",
+      "q": "Dadas las siguientes afirmaciones I. La acomodación deriva de la contracción o relajación del músculo ciliar del ojo II. La acomodación está regulada por un mecanismo de retroalimentación positiva III. Cuando los ojos se fijan en un objeto cercano deben divergir IV. El grado de acomodación del cristalino oscila a una frecuencia que llega hasta cinco cambios por segundo Todas las afirmaciones incorrectas se hallan en la opción",
+      "exp": "Qué debes saber para contestarla: I es correcta: la acomodación depende del músculo ciliar. II es falsa porque es\nretroalimentación negativa; III es falsa porque para cerca los ojos convergen; IV es falsa porque Guyton menciona\noscilación hasta dos cambios por segundo, no cinco.\nAnálisis de alternativas:\na) I - II - III: No: incluye I como incorrecta, pero I es verdadera.\nb) II - III - IV (respuesta): Correcta: son las tres afirmaciones incorrectas.\nc) I - III - IV: No: vuelve a incluir I como incorrecta.\nd) I - II - III: No: igual que a, incluye I y omite IV.\ne) II - III - I: No: incluye I como incorrecta y omite IV.\nFuente usada: Unidad X, cap. 52 - Control de la acomodación.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "I – II – III",
+        "II – III – IV",
+        "I – III – IV",
+        "I – II – III",
+        "II – III – I"
+      ],
+      "answer": 1,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_056",
+      "q": "¿Cuál de las siguientes afirmaciones explica correctamente la razón fisiológica por la que la posdescarga del reflejo extensor cruzado es más prolongada que la del reflejo flexor? Página 693 Guyton y Hall. 14 Edición",
+      "exp": "Qué debes saber para contestarla: Es la misma pregunta que la 46 con otro orden de alternativas. El circuito\ncruza la médula y utiliza muchas interneuronas reverberantes, lo que prolonga la respuesta.\nAnálisis de alternativas:\na) Aferentes dolorosas llegan directo a motoneuronas contralaterales: No: la vía no es directa.\nb) Extensores tienen menor umbral que flexores: No: el mecanismo clave no es el umbral muscular.\nc) Circuitos polisinápticos y reverberantes (respuesta): Correcta: explican latencia y posdescarga\nprolongada.\nd) Cruce inhibe automáticamente flexores ipsilaterales: No: no explica la extensión contralateral sostenida.\ne) Conducción sensitiva más lenta: No: la posdescarga se explica por interneuronas, no por velocidad periférica.\nFuente usada: Unidad XI, cap. 55 - Reflejo extensor cruzado.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Porque las señales aferentes del dolor alcanzan directamente las motoneuronas contralaterales sin relevos sinápticos adicionales.",
+        "Porque los músculos extensores poseen un menor umbral de excitación que los flexores, generando descargas más rápidas, pero más duraderas.",
+        "Porque el circuito involucra redes de interneuronas que forman circuitos polisinápticos y reverberantes, manteniendo la actividad motora aun después de cesar el estímulo.",
+        "Porque el cruce de las señales sensoriales en la médula espinal inhibe automáticamente a los músculos flexores ipsilaterales por un periodo prolongado.",
+        "Porque la conducción nerviosa en los nervios sensitivos que participan en este reflejo es más lenta que en los del reflejo flexor."
+      ],
+      "answer": 2,
+      "keepOptionOrder": true
+    },
+    {
+      "id": "fisio_prof_neuro_001_057",
+      "q": "Con respecto al hipotálamo, es incorrecto que",
+      "exp": "Qué debes saber para contestarla: El hipotálamo regula funciones vegetativas, endocrinas y emocionales, y se\ncomunica con el sistema límbico. El área preóptica se asocia a termorregulación y respuestas parasimpáticas, no\na elevación de presión arterial como dato principal.\nAnálisis de alternativas:\na) Posee vías de doble sentido con el sistema límbico: No es incorrecta: el hipotálamo se comunica ampliamente con el\nsistema límbico.\nb) Regula la mayoría de funciones vegetativas y endocrinas: No es incorrecta: es una función central del hipotálamo.\nc) Regula muchas facetas del comportamiento emocional: No es incorrecta: participa en conducta emocional junto al\nsistema límbico.\n\n\nd) La estimulación del área preóptica eleva la presión arterial (respuesta): Correcta como incorrecta: el\nárea preóptica no se asocia a esa respuesta simpática presora como función principal.\ne) En el hipotálamo lateral está el centro de la sed: No es incorrecta: la región lateral participa en sed y conducta\ningestiva.\nFuente usada: Unidad XI, cap. 59 - Hipotálamo.\n\n\nFuentes consultadas\n- TEST NEUROLOGÍA com respuesta.docx.pdf, enviado por el usuario.\n- Guyton y Hall, Tratado de fisiología médica, 14.ª edición - Unidad IX: capítulos 46 a 49.\n- Guyton y Hall, Tratado de fisiología médica, 14.ª edición - Unidad X: capítulos 50 a 54.\n- Guyton y Hall, Tratado de fisiología médica, 14.ª edición - Unidad XI: capítulos 55 a 62.\n- Para vasopresina y oxitocina se respetó la referencia explícita señalada en el test: Guyton y Hall, 14.ª edición,\npág. 938.",
+      "topic": "Cuestionario del profesor - Neurofisiología",
+      "options": [
+        "Posee vías de comunicación de doble sentido con todos los estratos del sistema límbico.",
+        "Regula la mayoría de las funciones vegetativas y endocrinas del cuerpo",
+        "Regula muchas facetas del comportamiento emocional",
+        "La estimulación del área preóptica hipotalámica eleva la presión arterial",
+        "En el hipotálamo lateral está situada el centro de la sed"
+      ],
+      "answer": 3,
+      "keepOptionOrder": true
+    }
+  ]
+}

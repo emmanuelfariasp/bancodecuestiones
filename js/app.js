@@ -176,7 +176,7 @@ function showFisioUnitSelection(){
   $('unitSelect').classList.remove('hidden');
   $('heroLead').textContent='Fisiología: elige la unidad que quieres practicar.';
   const name=getVisitorName();
-  $('unitGreeting').innerHTML=`<span class="helloName">Hola, ${escHtml(name)}.</span> Elige entre Endocrinología y reproducción o Líquidos corporales y riñones.`;
+  $('unitGreeting').innerHTML=`<span class="helloName">Hola, ${escHtml(name)}.</span> Elige entre Endocrinología, Renal, Unidad IX o Cuestionario del profesor.`;
 }
 function showMicroUnitSelection(){
   ['login','subjectSelect','unitSelect','menu','quiz','result'].forEach(id=>$(id).classList.add('hidden'));
@@ -318,6 +318,11 @@ function renderCards(){
   } else if(currentSubject==='fisio_unidad_ix') {
     $('groupTitleClasses').textContent='Unidad IX - Sistema nervioso';
     $('groupHintClasses').textContent='Capítulos 46 al 49: principios generales, sinapsis, receptores sensitivos, tacto, posición, dolor y temperatura.';
+    $('generalBlock').classList.add('hidden');
+    sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
+  } else if(currentSubject==='fisio_profesor') {
+    $('groupTitleClasses').textContent='Cuestionario del profesor';
+    $('groupHintClasses').textContent='Unidad de Neurofisiología con preguntas del test del profesor y explicaciones detalladas al responder.';
     $('generalBlock').classList.add('hidden');
     sections.forEach((sec,i)=>classCards.appendChild(makeCard(sec,i,false)));
   } else if(currentSubject && currentSubject.startsWith('micro_')) {
