@@ -439,3 +439,107 @@ body{margin:0;font-family:Inter,Arial,Helvetica,sans-serif;background:var(--bg);
 .expText{white-space:pre-line;line-height:1.55;margin-top:8px}
 .reviewExp .expText{margin-top:10px;color:inherit}
 .microUnitHint{font-size:13px;color:var(--muted);margin-top:8px}
+
+/* ===== V4.32: feedback más organizado en modo estudio ===== */
+.feedback > strong{
+  font-size:17px;
+  margin-bottom:10px;
+}
+.expText{
+  white-space:pre-line;
+  line-height:1.65;
+  margin-top:10px;
+}
+.expStructured{
+  display:grid;
+  gap:12px;
+  margin-top:12px;
+}
+.expSection{
+  border:1px solid rgba(20,35,60,.12);
+  background:rgba(255,255,255,.62);
+  border-radius:14px;
+  padding:12px 14px;
+}
+.expSectionTitle{
+  font-weight:900;
+  font-size:14px;
+  margin-bottom:7px;
+  letter-spacing:.1px;
+}
+.expSection p{
+  margin:0;
+  line-height:1.62;
+}
+.altAnalysisList{
+  display:grid;
+  gap:8px;
+}
+.altAnalysisItem{
+  display:grid;
+  grid-template-columns:auto 1fr;
+  gap:9px;
+  align-items:start;
+  border:1px solid rgba(20,35,60,.10);
+  background:rgba(255,255,255,.45);
+  border-radius:12px;
+  padding:9px 10px;
+}
+.altAnalysisItem.altOk{
+  border-color:rgba(20,117,69,.35);
+  background:rgba(20,117,69,.08);
+}
+.altLetter{
+  min-width:30px;
+  height:30px;
+  border-radius:999px;
+  display:inline-grid;
+  place-items:center;
+  background:rgba(49,95,159,.12);
+  color:var(--primary);
+  font-weight:900;
+  font-size:13px;
+}
+.altText{
+  line-height:1.55;
+}
+.altOkBadge{
+  display:inline-flex;
+  align-items:center;
+  border:1px solid rgba(20,117,69,.32);
+  color:#067647;
+  background:rgba(20,117,69,.10);
+  border-radius:999px;
+  padding:2px 7px;
+  font-size:11px;
+  font-weight:900;
+  margin-right:5px;
+  text-transform:uppercase;
+  letter-spacing:.25px;
+}
+.expSource{
+  border-left:4px solid rgba(49,95,159,.55);
+  background:rgba(255,255,255,.48);
+  border-radius:12px;
+  padding:10px 12px;
+  line-height:1.45;
+  font-size:13.5px;
+}
+.expSource span{font-weight:900}
+.reviewExp .expStructured{margin-top:10px}
+.reviewExp .expSection,.reviewExp .expSource{background:rgba(255,255,255,.72)}
+@media(max-width:620px){
+  .feedback{padding:14px}
+  .expSection{padding:11px 12px}
+  .altAnalysisItem{grid-template-columns:1fr;gap:6px}
+  .altLetter{width:max-content;min-width:34px}
+}
+@media (prefers-color-scheme: dark){
+  .expSection{background:rgba(15,23,42,.42);border-color:rgba(203,213,225,.13)}
+  .altAnalysisItem{background:rgba(15,23,42,.35);border-color:rgba(203,213,225,.10)}
+  .altAnalysisItem.altOk{background:rgba(20,117,69,.14);border-color:rgba(126,226,172,.34)}
+  .altLetter{background:rgba(138,180,248,.14);color:#8ab4f8}
+  .altOkBadge{color:#7ee2ac;background:rgba(20,117,69,.22);border-color:rgba(126,226,172,.35)}
+  .expSource{background:rgba(15,23,42,.38);border-left-color:rgba(138,180,248,.65)}
+  .reviewExp .expSection,.reviewExp .expSource{background:rgba(15,23,42,.45)}
+}

@@ -18,15 +18,70 @@ function cleanExplanationText(str){
   let s = String(str || '').trim();
   if(!s) return '';
   // Algunas preguntas importadas traían la letra original del PDF en la explicación.
-  // Como el aplicativo mezcla las alternativas, esa letra puede cambiar.
-  // Por eso la explicación nunca debe mostrar A/B/C/D/E fijas.
+  // Como el aplicativo puede mezclar alternativas en algunos bloques, esa letra puede cambiar.
+  // Por eso retiramos solo encabezados fijos del tipo "Respuesta correcta: A)".
   s = s.replace(/^Respuesta correcta:\s*[A-E]\)\s*/i, 'Concepto clave: ');
   s = s.replace(/\.{2,}/g, '.');
   s = s.replace(/\s+\./g, '.');
+  s = s.replace(/\r?\n+/g, ' ');
   s = s.replace(/\s+/g, ' ').trim();
   return s;
 }
-function expHtml(str){const cleaned=cleanExplanationText(str); return cleaned ? `<div class="expText">${escHtml(cleaned)}</div>` : '';}
+function partBetween(text,startMarker,endMarkers=[]){
+  const start=text.indexOf(startMarker);
+  if(start<0) return '';
+  const from=start+startMarker.length;
+  let to=text.length;
+  endMarkers.forEach(marker=>{
+    const pos=text.indexOf(marker,from);
+    if(pos>=0 && pos<to) to=pos;
+  });
+  return text.slice(from,to).trim();
+}
+function renderAlternativeAnalysis(text){
+  const clean=String(text||'').trim();
+  if(!clean) return '';
+  const matches=[...clean.matchAll(/(?:^|\s)([a-eA-E]\))\s+/g)];
+  if(!matches.length) return `<p>${escHtml(clean)}</p>`;
+  let html='<div class="altAnalysisList">';
+  matches.forEach((m,idx)=>{
+    const start=m.index + m[0].indexOf(m[1]);
+    const contentStart=start + m[1].length;
+    const next=idx+1<matches.length ? matches[idx+1].index + matches[idx+1][0].indexOf(matches[idx+1][1]) : clean.length;
+    let body=clean.slice(contentStart,next).trim();
+    const isCorrect=/\(respuesta\)|Correcta:/i.test(body);
+    body=body.replace(/\s*\(respuesta\)\s*/ig,' ').replace(/\s+/g,' ').trim();
+    html += `<div class="altAnalysisItem${isCorrect?' altOk':''}"><span class="altLetter">${escHtml(m[1])}</span><div class="altText">${isCorrect?'<span class="altOkBadge">Correcta</span> ':''}${escHtml(body)}</div></div>`;
+  });
+  html+='</div>';
+  return html;
+}
+function expHtml(str){
+  const cleaned=cleanExplanationText(str);
+  if(!cleaned) return '';
+  const hasStructured = cleaned.includes('Qué debes saber para contestarla:') || cleaned.includes('Análisis de alternativas:') || cleaned.includes('Fuente usada:') || cleaned.includes('Concepto clave:');
+  if(!hasStructured) return `<div class="expText">${escHtml(cleaned)}</div>`;
+  const concept = cleaned.includes('Qué debes saber para contestarla:')
+    ? partBetween(cleaned,'Qué debes saber para contestarla:',['Análisis de alternativas:','Fuente usada:'])
+    : partBetween(cleaned,'Concepto clave:',['Análisis de alternativas:','Fuente usada:']);
+  const analysis = partBetween(cleaned,'Análisis de alternativas:',['Fuente usada:']);
+  const source = partBetween(cleaned,'Fuente usada:',[]);
+  let html='<div class="expStructured">';
+  if(concept){
+    html += `<div class="expSection expConcept"><div class="expSectionTitle">📌 Qué debes saber</div><p>${escHtml(concept)}</p></div>`;
+  }
+  if(analysis){
+    html += `<div class="expSection expAlternatives"><div class="expSectionTitle">🔎 Análisis de alternativas</div>${renderAlternativeAnalysis(analysis)}</div>`;
+  }
+  if(source){
+    html += `<div class="expSource"><span>📚 Fuente:</span> ${escHtml(source)}</div>`;
+  }
+  if(!concept && !analysis && !source){
+    html += `<div class="expText">${escHtml(cleaned)}</div>`;
+  }
+  html+='</div>';
+  return html;
+}
 function cleanName(name){return String(name||'').trim().replace(/\s+/g,' ').slice(0,40)}
 function getVisitorName(){return cleanName(localStorage.getItem(NAME_KEY)||'')}
 function getSections(subject=currentSubject){return subject && SUBJECTS[subject] ? SUBJECTS[subject].sections : []}

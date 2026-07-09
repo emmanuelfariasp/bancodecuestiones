@@ -1,6 +1,6 @@
 {
   "version": "4.31.0",
-  "description": "V4.31: agrega Fisiología - Cuestionario del profesor con unidad Neurofisiología y explicaciones detalladas.",
+  "description": "V4.32: mejora visual del feedback detallado en modo estudio, con explicaciones organizadas por concepto, alternativas y fuente.",
   "subjects": {
     "neuro": {
       "key": "neuro",
